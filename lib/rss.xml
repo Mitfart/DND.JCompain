@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 21 Feb 2024 17:22:35 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 21 Feb 2024 17:22:29 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[ВЕДЬМА]]></title><description><![CDATA[<a class="tag" href="?query=tag:1к6" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1к6</a> <a class="tag" href="?query=tag:Кинжалы" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Кинжалы</a> <a class="tag" href="?query=tag:дротики" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#дротики</a> <a class="tag" href="?query=tag:пращи" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#пращи</a> <a class="tag" href="?query=tag:боевые_посохи" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#боевые_посохи</a> <a class="tag" href="?query=tag:лёгкие_арбалеты" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#лёгкие_арбалеты</a> <a class="tag" href="?query=tag:Мудрость" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Мудрость</a> <a class="tag" href="?query=tag:Харизма" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Харизма</a> <a class="tag" href="?query=tag:Акробатика" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Акробатика</a> <a class="tag" href="?query=tag:Уход_за_животными" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Уход_за_животными</a> <a class="tag" href="?query=tag:Обман" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Обман</a> <a class="tag" href="?query=tag:Медицина" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Медицина</a> <a class="tag" href="?query=tag:Природа" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Природа</a> <a class="tag" href="?query=tag:Убеждение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Убеждение</a> <a class="tag" href="?query=tag:Религия" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Религия</a> 
+ <br><br><br><br>
+<br>Кость Хитов: <a href=".?query=tag:1к6" class="tag" target="_blank" rel="noopener">#1к6</a> за каждый уровень
+<br>Хиты на 1 уровне: 6 + ваш модификатор Телосложения
+<br>Хиты на следующих уровнях: 1к6 (или 4) + модификатор Телосложения за каждый уровень этого класса, после первого (минимум 1)
+<br><br>
+<br>Доспехи:&nbsp;Нет
+<br>Оружие:&nbsp;<a href=".?query=tag:Кинжалы" class="tag" target="_blank" rel="noopener">#Кинжалы</a> <a href=".?query=tag:дротики" class="tag" target="_blank" rel="noopener">#дротики</a> <a href=".?query=tag:пращи" class="tag" target="_blank" rel="noopener">#пращи</a> <a href=".?query=tag:боевые_посохи" class="tag" target="_blank" rel="noopener">#боевые_посохи</a> <a href=".?query=tag:лёгкие_арбалеты" class="tag" target="_blank" rel="noopener">#лёгкие_арбалеты</a>
+<br>Инструменты:&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/herbalism_kit" rel="noopener" class="external-link" href="https://ttg.club/screens/herbalism_kit" target="_blank">Набор травника</a>
+<br>Спаcброски:&nbsp;<a href=".?query=tag:Мудрость" class="tag" target="_blank" rel="noopener">#Мудрость</a> <a href=".?query=tag:Харизма" class="tag" target="_blank" rel="noopener">#Харизма</a>
+<br>Навыки:&nbsp;Выберите 3 навыка из следующих: <a href=".?query=tag:Акробатика" class="tag" target="_blank" rel="noopener">#Акробатика</a> <a href=".?query=tag:Уход_за_животными" class="tag" target="_blank" rel="noopener">#Уход_за_животными</a> <a href=".?query=tag:Обман" class="tag" target="_blank" rel="noopener">#Обман</a> <a href=".?query=tag:Медицина" class="tag" target="_blank" rel="noopener">#Медицина</a> <a href=".?query=tag:Природа" class="tag" target="_blank" rel="noopener">#Природа</a> <a href=".?query=tag:Убеждение" class="tag" target="_blank" rel="noopener">#Убеждение</a> <a href=".?query=tag:Религия" class="tag" target="_blank" rel="noopener">#Религия</a>
+<br><br>Вы начинаете со следующим снаряжением в дополнение к снаряжению, полученному за вашу предысторию:<br>
+<br>а)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/weapons/quarterstaff" rel="noopener" class="external-link" href="https://ttg.club/weapons/quarterstaff" target="_blank">боевой посох</a>&nbsp;или б)&nbsp;[кинжал](<a rel="noopener" class="external-link" href="https://ttg.club/weapons/dagger" target="_blank">https://ttg.club/weapons/dagger</a>
+<br>
+<br>а)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/items/scholar's_pack" rel="noopener" class="external-link" href="https://ttg.club/items/scholar's_pack" target="_blank">набор учёного [scholar's pack]</a>&nbsp;или б)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/items/explorer's_pack" rel="noopener" class="external-link" href="https://ttg.club/items/explorer's_pack" target="_blank">набор путешественника [explorer's pack]</a>
+<br>а) Атаме, используемый в качестве магической фокусировки или б)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/items/component_pouch" rel="noopener" class="external-link" href="https://ttg.club/items/component_pouch" target="_blank">мешочек с компонентами</a><br>
+В качестве альтернативы базовому снаряжению, вы можете получить&nbsp;4к4 × 10&nbsp;зм. монеты и выбрать себе&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/equipments" rel="noopener" class="external-link" href="https://ttg.club/equipments" target="_blank">снаряжение</a>&nbsp;самостоятельно
+<br><br><br><br>1-й уровень, умение Ведьмы 
+Copy<br>У вас есть животное, которое является вашим фамильяром<br>Выберите его статблок:&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/bestiary/Beast_of_the_Land" rel="noopener" class="external-link" href="https://ttg.club/bestiary/Beast_of_the_Land" target="_blank">земной зверь</a>,&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/bestiary/Beast_of_the_Sea" rel="noopener" class="external-link" href="https://ttg.club/bestiary/Beast_of_the_Sea" target="_blank">морской зверь</a>&nbsp;или&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/bestiary/Beast_of_the_Sky" rel="noopener" class="external-link" href="https://ttg.club/bestiary/Beast_of_the_Sky" target="_blank">небесный зверь </a><br>Вы также выбираете вид животного, выбирая из подходящих для выбранного статблока.<br>Зверь подчиняется вашим командам так хорошо, как только может.<br>
+В бою зверь действует на Вашем ходу. Он может двигаться и использовать реакции самостоятельно, но единственное доступное ему действие&nbsp;—&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/Dodge" rel="noopener" class="external-link" href="https://ttg.club/screens/Dodge" target="_blank">Уклонение</a>, если Вы не потратите&nbsp;бонусное действие&nbsp;на своём ходу, приказывая ему совершить одно из действий из его стаблока или любое другое действие.<br>
+Если Вы недееспособны, зверь может совершать любые действия, а не только&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/Dodge" rel="noopener" class="external-link" href="https://ttg.club/screens/Dodge" target="_blank">Уклонение</a><br>Если вы&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/incapacitated" rel="noopener" class="external-link" href="https://ttg.club/screens/incapacitated" target="_blank">недееспособны</a>&nbsp;или отсутствуете, зверь самостоятельно совершает действия, сосредотачиваясь на защите&nbsp;вас и себя<br>Ваш фамильяр связан с вами магической связью, и вы двое способны чувствовать местоположение друг друга на расстоянии 50 футов друг от друга.&nbsp;За этим пределом ваш фамильяр будет активно искать вас<br>Если ваш фамильяр умрет, вы можете коснуться его и потратить 8 часов на выполнение ритуала для его воскрешения / получения нового. Зверь возвращается к жизни с полными хитами<br><br>Ваша связь с вашим фамильяром растет
+Copy<br>
+<br>Действием мы можете:
+
+<br>Видеть все, что видит ваш фамильяр
+<br>Вы не можете отдавать фамияру команды, а также, слышать, чуять или ощущать что он чувствует
+
+
+<br><br>ваш фамильяр становится более могущественным.&nbsp;
+Copy<br>
+<br>Значение каждой характеристики вашего фамильяра увеличивается на 2
+<br><br>ваша связь с вашим фамильяром становится абсолютно глубокой.&nbsp;
+Copy<br>
+<br>Вы и ваш фамильяр понимаете все, что говорите друг другу, так ясно, как если бы вы говорили на одном языке.&nbsp;
+<br>Кроме того, когда вы используете действие, чтобы увидеть мир глазами вашего фамильяра, вы также слышите, осязаете, обоняете и чувствуете вкус всего, что чувствует ваш фамильяр
+<br><br>1-й уровень, умение Ведьмы 
+Copy<br><br><br><br>Духи магии, они способны:<br><br>Вы получаете владение навыком Магия<br>
+Если вы уже владеете этим навыком, удвойте свой бонус мастерства для всех проверок данного навыка<br><br>ваш дух черного пса способен предупреждать вас о присутствии магии
+Copy<br>В качестве Действия вы можете определять местоположение любых магических ловушек, сооружений или объектов в радиусе 30 футов от себя.&nbsp;<br>Кроме того, вы можете ощущать присутствие магически скрытых ловушек, сооружений или объектов.&nbsp;В таком случае вы можете почувствовать магию, скрывающую ловушку, структуру или объект, но не знаете, что это за ловушка, структура или объект и как их найти.&nbsp;<br>Вы можете использовать это умение количество раз, равное вашему модификатору&nbsp;<a data-tooltip-position="top" aria-label="https://www.dandwiki.com/wiki/5e_SRD:Wisdom" rel="noopener" class="external-link" title="5e SRD: Мудрость" href="https://www.dandwiki.com/wiki/5e_SRD:Wisdom" target="_blank">Мудрости</a>&nbsp;(минимум 1), вы восстанавливаете все израсходованные применения данного умения по окончании короткого или продолжительного отдыха<br><br>магия вашего связанного духа начинает передаваться вашему фамильяру&nbsp;
+Copy<br>Ваш фамильяр теперь может использовать 1 заговор по вашему выбору из списка заклинаний ведьмы и может использовать заклинания 1-го уровня из списка заклинаний ведьмы.&nbsp;Ваш фамильяр узнает 2 заклинания для использования самостоятельно и может их применять самостоятельно, или по вашей команде<br><br>ваш связанный дух значительно увеличивает ваши магические способности
+Copy<br>В качестве Действия вы можете добавить 2к8 урона кислотой, холодом, огнем или молнией к урону вашего заклинания.&nbsp;<br>
+Вы можете использовать это умение количество раз, равное вашему модификатору Мудрости (минимум 1), и восстанавливаете все использования по окончании длительного отдыха<br><br><br>2-й уровень, умение Ведьмы 
+Copy<br>Характеристика - Мудрость<br>
+Список заклинаний ведьмы<br><br>Заговоры<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/thaumaturgy" rel="noopener" class="external-link" href="https://ttg.club/spells/thaumaturgy" target="_blank">Чудотворство</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/mending" rel="noopener" class="external-link" href="https://ttg.club/spells/mending" target="_blank">Починка</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/message" rel="noopener" class="external-link" href="https://ttg.club/spells/message" target="_blank">Сообщение</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/minor_illusion" rel="noopener" class="external-link" href="https://ttg.club/spells/minor_illusion" target="_blank">Малая иллюзия</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/poison_spray" rel="noopener" class="external-link" href="https://ttg.club/spells/poison_spray" target="_blank">Ядовитые брызги</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/produce_flame" rel="noopener" class="external-link" href="https://ttg.club/spells/produce_flame" target="_blank">Сотворение пламени</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/resistance" rel="noopener" class="external-link" href="https://ttg.club/spells/resistance" target="_blank">Сопротивление</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/sapping_sting" rel="noopener" class="external-link" href="https://ttg.club/spells/sapping_sting" target="_blank">Обессиливающий укол</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/shillelagh" rel="noopener" class="external-link" href="https://ttg.club/spells/shillelagh" target="_blank">Дубинка</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/toll_the_dead" rel="noopener" class="external-link" href="https://ttg.club/spells/toll_the_dead" target="_blank">Погребальный звон</a><br>1 уровень&nbsp;<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/animal_friendship" rel="noopener" class="external-link" href="https://ttg.club/spells/animal_friendship" target="_blank">Дружба с животными</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/bane" rel="noopener" class="external-link" href="https://ttg.club/spells/bane" target="_blank">Порча</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/burning_hands" rel="noopener" class="external-link" href="https://ttg.club/spells/burning_hands" target="_blank">Огненные ладони</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/charm_person" rel="noopener" class="external-link" href="https://ttg.club/spells/charm_person" target="_blank">Очарование личности</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/command" rel="noopener" class="external-link" href="https://ttg.club/spells/command" target="_blank">Приказ</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/cure_wounds" rel="noopener" class="external-link" href="https://ttg.club/spells/cure_wounds" target="_blank">Лечение ран</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/detect_magic" rel="noopener" class="external-link" href="https://ttg.club/spells/detect_magic" target="_blank">Обнаружение магии</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/detect_poison_and_disease" rel="noopener" class="external-link" href="https://ttg.club/spells/detect_poison_and_disease" target="_blank">Обнаружение болезней и яда</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/find_familiar" rel="noopener" class="external-link" href="https://ttg.club/spells/find_familiar" target="_blank">Поиск фамильяра</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/frost_fingers" rel="noopener" class="external-link" href="https://ttg.club/spells/frost_fingers" target="_blank">Ледяные пальцы</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/mage_armor" rel="noopener" class="external-link" href="https://ttg.club/spells/mage_armor" target="_blank">Доспехи мага</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/protection_from_evil_and_good" rel="noopener" class="external-link" href="https://ttg.club/spells/protection_from_evil_and_good" target="_blank">Защита от добра и зла</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/puppet" rel="noopener" class="external-link" href="https://ttg.club/spells/puppet" target="_blank">Марионетка</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/purify_food_and_drink" rel="noopener" class="external-link" href="https://ttg.club/spells/purify_food_and_drink" target="_blank">Очищение пищи и питья</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/sanctuary" rel="noopener" class="external-link" href="https://ttg.club/spells/sanctuary" target="_blank">Убежище</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/tasha's_caustic_brew" rel="noopener" class="external-link" href="https://ttg.club/spells/tasha's_caustic_brew" target="_blank">Едкое варево Таши</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/unseen_servant" rel="noopener" class="external-link" href="https://ttg.club/spells/unseen_servant" target="_blank">Невидимый слуга</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/witch_bolt" rel="noopener" class="external-link" href="https://ttg.club/spells/witch_bolt" target="_blank">Ведьмин снаряд</a><br>2 уровень&nbsp;<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/aura_of_frost" rel="noopener" class="external-link" href="https://ttg.club/spells/aura_of_frost" target="_blank">Аура мороза</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/augury" rel="noopener" class="external-link" href="https://ttg.club/spells/augury" target="_blank">Гадание</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/crown_of_madness" rel="noopener" class="external-link" href="https://ttg.club/spells/crown_of_madness" target="_blank">Корона безумия</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/darkness" rel="noopener" class="external-link" href="https://ttg.club/spells/darkness" target="_blank">Тьма</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/detect_thoughts" rel="noopener" class="external-link" href="https://ttg.club/spells/detect_thoughts" target="_blank">Обнаружение мыслей</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/enhance_ability" rel="noopener" class="external-link" href="https://ttg.club/spells/enhance_ability" target="_blank">Улучшение характеристики</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/enthrall" rel="noopener" class="external-link" href="https://ttg.club/spells/enthrall" target="_blank">Речь златоуста</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/find_traps" rel="noopener" class="external-link" href="https://ttg.club/spells/find_traps" target="_blank">Поиск ловушек</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/flame_blade" rel="noopener" class="external-link" href="https://ttg.club/spells/flame_blade" target="_blank">Горящий клинок</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/gift_of_gab" rel="noopener" class="external-link" href="https://ttg.club/spells/gift_of_gab" target="_blank">Дар болтливости</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/hold_person" rel="noopener" class="external-link" href="https://ttg.club/spells/hold_person" target="_blank">Удержание личности</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/lesser_restoration" rel="noopener" class="external-link" href="https://ttg.club/spells/lesser_restoration" target="_blank">Малое восстановление</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/locate_animals_or_plants" rel="noopener" class="external-link" href="https://ttg.club/spells/locate_animals_or_plants" target="_blank">Поиск животных или растений</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/locate_object" rel="noopener" class="external-link" href="https://ttg.club/spells/locate_object" target="_blank">Поиск предмета</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/protection_from_poison" rel="noopener" class="external-link" href="https://ttg.club/spells/protection_from_poison" target="_blank">Защита от яда</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/ray_of_enfeeblement" rel="noopener" class="external-link" href="https://ttg.club/spells/ray_of_enfeeblement" target="_blank">Луч слабости</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/shadow_blade" rel="noopener" class="external-link" href="https://ttg.club/spells/shadow_blade" target="_blank">Теневой клинок</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/shatter" rel="noopener" class="external-link" href="https://ttg.club/spells/shatter" target="_blank">Дребезги</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/silence" rel="noopener" class="external-link" href="https://ttg.club/spells/silence" target="_blank">Тишина</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/warding_bond" rel="noopener" class="external-link" href="https://ttg.club/spells/warding_bond" target="_blank">Охраняющая связь</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/wristpocket" rel="noopener" class="external-link" href="https://ttg.club/spells/wristpocket" target="_blank">Карман на запястье</a><br>3 уровень&nbsp;<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/bestow_curse" rel="noopener" class="external-link" href="https://ttg.club/spells/bestow_curse" target="_blank">Проклятие</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/call_lightning" rel="noopener" class="external-link" href="https://ttg.club/spells/call_lightning" target="_blank">Призыв молнии</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/catnap" rel="noopener" class="external-link" href="https://ttg.club/spells/catnap" target="_blank">Дрёма</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/clairvoyance" rel="noopener" class="external-link" href="https://ttg.club/spells/clairvoyance" target="_blank">Подсматривание</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/counterspell" rel="noopener" class="external-link" href="https://ttg.club/spells/counterspell" target="_blank">Контрзаклинание</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/dispel_magic" rel="noopener" class="external-link" href="https://ttg.club/spells/dispel_magic" target="_blank">Рассеивание магии</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/fireball" rel="noopener" class="external-link" href="https://ttg.club/spells/fireball" target="_blank">Огненный шар</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/glyph_of_warding" rel="noopener" class="external-link" href="https://ttg.club/spells/glyph_of_warding" target="_blank">Охранные руны</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/hypnotic_pattern" rel="noopener" class="external-link" href="https://ttg.club/spells/hypnotic_pattern" target="_blank">Гипнотический узор</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/magic_circle" rel="noopener" class="external-link" href="https://ttg.club/spells/magic_circle" target="_blank">Магический круг</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/phantom_steed" rel="noopener" class="external-link" href="https://ttg.club/spells/phantom_steed" target="_blank">Призрачный скакун</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/remove_curse" rel="noopener" class="external-link" href="https://ttg.club/spells/remove_curse" target="_blank">Снятие проклятья</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/tongues" rel="noopener" class="external-link" href="https://ttg.club/spells/tongues" target="_blank">Языки</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/leomund's_tiny_hut" rel="noopener" class="external-link" href="https://ttg.club/spells/leomund's_tiny_hut" target="_blank">Леомундова хижина</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/water_walk" rel="noopener" class="external-link" href="https://ttg.club/spells/water_walk" target="_blank">Хождение по воде</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/lightning_bolt" rel="noopener" class="external-link" href="https://ttg.club/spells/lightning_bolt" target="_blank">Молния</a><br>4 уровень&nbsp;<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/banishment" rel="noopener" class="external-link" href="https://ttg.club/spells/banishment" target="_blank">Изгнание</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/blight" rel="noopener" class="external-link" href="https://ttg.club/spells/blight" target="_blank">Усыхание</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/fire_shield" rel="noopener" class="external-link" href="https://ttg.club/spells/fire_shield" target="_blank">Огненный щит</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/hallucinatory_terrain" rel="noopener" class="external-link" href="https://ttg.club/spells/hallucinatory_terrain" target="_blank">Мираж</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/ice_storm" rel="noopener" class="external-link" href="https://ttg.club/spells/ice_storm" target="_blank">Град</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/locate_creature" rel="noopener" class="external-link" href="https://ttg.club/spells/locate_creature" target="_blank">Поиск существа</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/mordenkainen's_private_sanctum" rel="noopener" class="external-link" href="https://ttg.club/spells/mordenkainen's_private_sanctum" target="_blank">Приватный Кабинет Морденкайнена</a><br>5 уровень&nbsp;<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/animate_objects" rel="noopener" class="external-link" href="https://ttg.club/spells/animate_objects" target="_blank">Оживление вещей</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/commune_with_nature" rel="noopener" class="external-link" href="https://ttg.club/spells/commune_with_nature" target="_blank">Общение с природой</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/contagion" rel="noopener" class="external-link" href="https://ttg.club/spells/contagion" target="_blank">Заражение</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/dream" rel="noopener" class="external-link" href="https://ttg.club/spells/dream" target="_blank">Вещий сон</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/geas" rel="noopener" class="external-link" href="https://ttg.club/spells/geas" target="_blank">Обет</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/greater_restoration" rel="noopener" class="external-link" href="https://ttg.club/spells/greater_restoration" target="_blank">Высшее восстановление</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/modify_memory" rel="noopener" class="external-link" href="https://ttg.club/spells/modify_memory" target="_blank">Изменение памяти</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/reincarnate" rel="noopener" class="external-link" href="https://ttg.club/spells/reincarnate" target="_blank">Реинкарнация</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/scrying" rel="noopener" class="external-link" href="https://ttg.club/spells/scrying" target="_blank">Наблюдение</a><br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/spells/telekinesis" rel="noopener" class="external-link" href="https://ttg.club/spells/telekinesis" target="_blank">Телекинез</a><br><br>3-й уровень, умение Ведьмы 
+Copy<br>вы решаете присоединиться к шабашу ведьм, чтобы определить, какую магию вы будете совершенствовать: Белую или Черную, подробности о которых приведены в конце этой страницы.&nbsp;<br>
+Ваш выбор предоставляет вам возможности 3-го уровня, а затем 7, 11, 15 и 20-го уровней<br><br>4-й уровень, умение Ведьмы 
+Copy<br>При достижении 4, 8, 12, 16 и 19 уровней вы можете повысить значение одной из ваших характеристик на 2 или двух характеристик на 1 или выбрать&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/traits" rel="noopener" class="external-link" href="https://ttg.club/traits" target="_blank">черту</a>. Как обычно, значение характеристики при этом не должно превысить 20<br><br><br><br>Черная ведьма специализируется на нанесении урона другим
+Все боятся пересекаться с Черной ведьмой из-за ужасающей силы, которой они обладают
+Copy<br><br>3-й уровень, умение Ведьмы 
+Вы можете вызывать своего связанного духа, чтобы отравлять противников
+Copy<br>В качестве действия вы можете вызвать духа на расстоянии 20 футов.&nbsp;от себя.&nbsp;Каждый в радиусе 15 футов от того места, где был вызван ваш дух, должен совершить спасбросок Телосложения<br>
+<br>Неудача: существо получают урон от яда, равный<br>
+1к6 + ваш уровень ведьмы
+<br>Успех: получают половину урона от яда, округленного в меньшую сторону
+<br><br>7-й уровень, умение Ведьмы 
+Copy<br>Вы можете превращать свою тень в живое существо до 1 часа или до тех пор, пока ее здоровье не станет равным 0<br>
+<br>Максимальное количество хитов вашей тени равно половине вашего
+<br>У тени такой же стат блок и те же навыки что и у вас
+<br>Она может предпринимать любые действия, но не может применять заклинания
+<br>Ваша тень перемещается также как и вы, и имеет ту же скорость
+<br><br>11-й уровень, умение Ведьмы 
+Вы учитесь применять своего духа в бою.&nbsp;
+Copy<br>В качестве бонусного действия вы можете приказать своему духу атаковать то же существо, которое вы атаковали в свой ход.&nbsp;Урон от атаки вашего связанного духа равен вашему бонусу атаки заклинанием<br><br>15-й уровень, умение Ведьмы 
+ваши способности к колдовству значительно улучшаются.&nbsp;
+Copy<br>Бонус атаки ваших заклинаний теперь равен:<br>
+<br>БМ + мод. Мудрости + мод. Харизмы
+<br><br>20-й уровень, умение Ведьмы 
+Copy<br>Вызывайте своего духа чтобы утащить существо на духовный план <br>
+<br>(Эффект заклинания - <a data-tooltip-position="top" aria-label="https://ttg.club/spells/banishment" rel="noopener" class="external-link" href="https://ttg.club/spells/banishment" target="_blank">изгнание</a>)
+]]></description><link>классы\ведьма.html</link><guid isPermaLink="false">Классы/ВЕДЬМА.md</guid><pubDate>Wed, 21 Feb 2024 16:49:09 GMT</pubDate></item><item><title><![CDATA[Классы Overview]]></title><description><![CDATA[ 
+ <br><br>Note<a class="internal-link" href="\классы\ведьма.html" target="_self"></a>---2/21/2024, 7:49:09 PMNote<a class="internal-link" href="\классы\монах.html" target="_self"></a>---2/21/2024, 8:17:58 PM<br><br>
+<br><a data-href="ВЕДЬМА" href="\классы\ведьма.html" class="internal-link" target="_self" rel="noopener">ВЕДЬМА</a>
+<br><a data-href="МОНАХ" href="\классы\монах.html" class="internal-link" target="_self" rel="noopener">МОНАХ</a>
+<br>]]></description><link>классы\классы.html</link><guid isPermaLink="false">Классы/Классы.md</guid><pubDate>Sat, 17 Feb 2024 20:40:51 GMT</pubDate></item><item><title><![CDATA[МОНАХ]]></title><description><![CDATA[<a class="tag" href="?query=tag:1к10" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1к10</a> <a class="tag" href="?query=tag:Простое" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Простое</a> <a class="tag" href="?query=tag:короткие_мечи" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#короткие_мечи</a> <a class="tag" href="?query=tag:Сила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Сила</a> <a class="tag" href="?query=tag:Ловкость" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Ловкость</a> <a class="tag" href="?query=tag:Акробатика" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Акробатика</a> <a class="tag" href="?query=tag:Атлетика" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Атлетика</a> <a class="tag" href="?query=tag:История" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#История</a> <a class="tag" href="?query=tag:Проницательность" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Проницательность</a> <a class="tag" href="?query=tag:Религия" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Религия</a> <a class="tag" href="?query=tag:Скрытность" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Скрытность</a> <a class="tag" href="?query=tag:Уход_за_животными" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Уход_за_животными</a> 
+ <br><br><br><br>
+<br>Кость Хитов: <a href=".?query=tag:1к10" class="tag" target="_blank" rel="noopener">#1к10</a> за каждый уровень
+<br>Хиты на 1 уровне: 10 + ваш модификатор Телосложения
+<br>Хиты на следующих уровнях: 1к10 (или 6) + модификатор Телосложения за каждый уровень этого класса, после первого (минимум 1)
+<br><br>
+<br>Доспехи:&nbsp;Нет
+<br>Оружие:&nbsp;<a href=".?query=tag:Простое" class="tag" target="_blank" rel="noopener">#Простое</a> <a href=".?query=tag:короткие_мечи" class="tag" target="_blank" rel="noopener">#короткие_мечи</a>
+<br>Инструменты:&nbsp;Выберите один вид&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/artisan_s_tools" rel="noopener" class="external-link" href="https://ttg.club/screens/artisan_s_tools" target="_blank">инструмента ремесленников</a>&nbsp;либо&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/musical_instruments" rel="noopener" class="external-link" href="https://ttg.club/screens/musical_instruments" target="_blank">музыкального инструмента</a>
+<br>Спаcброски:&nbsp;<a href=".?query=tag:Сила" class="tag" target="_blank" rel="noopener">#Сила</a> <a href=".?query=tag:Ловкость" class="tag" target="_blank" rel="noopener">#Ловкость</a>
+<br>Навыки:&nbsp;Выберите 2 навыка из следующих: <a href=".?query=tag:Акробатика" class="tag" target="_blank" rel="noopener">#Акробатика</a> <a href=".?query=tag:Атлетика" class="tag" target="_blank" rel="noopener">#Атлетика</a> <a href=".?query=tag:История" class="tag" target="_blank" rel="noopener">#История</a> <a href=".?query=tag:Проницательность" class="tag" target="_blank" rel="noopener">#Проницательность</a> <a href=".?query=tag:Религия" class="tag" target="_blank" rel="noopener">#Религия</a> <a href=".?query=tag:Скрытность" class="tag" target="_blank" rel="noopener">#Скрытность</a> <a href=".?query=tag:Уход_за_животными" class="tag" target="_blank" rel="noopener">#Уход_за_животными</a>
+<br><br>Вы начинаете со следующим снаряжением в дополнение к снаряжению, полученному за вашу предысторию:<br>
+<br>а)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/weapons/Shortsword" rel="noopener" class="external-link" href="https://ttg.club/weapons/Shortsword" target="_blank">короткий меч</a>&nbsp;или б) любое простое оружие
+<br>а)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/items/Dungeoneer's_Pack" rel="noopener" class="external-link" href="https://ttg.club/items/Dungeoneer's_Pack" target="_blank">набор исследователя подземелий</a>&nbsp;или б)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/items/Explorer's_Pack" rel="noopener" class="external-link" href="https://ttg.club/items/Explorer's_Pack" target="_blank">набор путешественника</a>
+<br>10&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/weapons/Dart" rel="noopener" class="external-link" href="https://ttg.club/weapons/Dart" target="_blank">дротиков</a><br>
+В качестве альтернативы базовому снаряжению, вы можете получить&nbsp;5к4&nbsp;зм. монет и купить себе&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/items" rel="noopener" class="external-link" href="https://ttg.club/items" target="_blank">снаряжение</a>&nbsp;самостоятельно.
+<br><br><br><br>1-й уровень, умение Монаха 
+Copy<br>Если вы не носите ни доспех, ни щит, ваш Класс Доспеха равен 10 + мод Ловкости + мод Мудрости<br><br>1-й уровень, умение Монаха
+Copy<br>Вы можете научиться использовать различное оружие в качестве оружия монаха, а не только простое оружие ближнего боя и короткие мечи. Вы можете овладеть любым оружием во время длительного отдыха, если оно не обладает тяжелым или особым свойствами. Это оружие считается для вас оружием монаха. Одновременно у вас может быть только 1 специальное оружие<br><br>1-й уровень, умение Монаха
+Copy<br>Ваше знание боевых искусств позволяет вам эффективно использовать в бою безоружные удары и оружие монахов.<br>
+Если вы безоружны или используете только монашеское оружие, и не носите ни доспехов, ни щита, вы получаете следующие преимущества:<br>
+<br>Вы можете использовать&nbsp;Ловкость&nbsp;вместо&nbsp;Силы&nbsp;для бросков атак и урона ваших безоружных ударов и атак монашеским оружием
+<br>Вы можете использовать кость <a data-tooltip-position="top" aria-label="МОНАХ > ^716e46" data-href="МОНАХ#^716e46" href="\классы\монах.html#^716e46" class="internal-link" target="_self" rel="noopener">1к4</a> вместо обычной кости урона ваших <a data-tooltip-position="top" aria-label="https://ttg.club/screens/unarmed_strike" rel="noopener" class="external-link" href="https://ttg.club/screens/unarmed_strike" target="_blank">безоружных_ударов</a> или атак монашеским оружием. Эта кость увеличивается с вашим уровнем, как показано в колонке <a data-tooltip-position="top" aria-label="МОНАХ > ^716e46" data-href="МОНАХ#^716e46" href="\классы\монах.html#^716e46" class="internal-link" target="_self" rel="noopener">БИ</a> (боевые искусства)
+<br>Вы можете совершить одну безоружную атаку бонусным действием
+<br><br>2-й уровень, умение Монаха
+Copy<br>Ваши тренировки позволяют вам управлять мистической энергией ци. Ваш доступ к этой энергии выражается количеством очков ци. Ваш уровень монаха определяет это количество, согласно колонке <a data-tooltip-position="top" aria-label="МОНАХ > ^716e46" data-href="МОНАХ#^716e46" href="\классы\монах.html#^716e46" class="internal-link" target="_self" rel="noopener">Ци</a><br>Вы можете использовать эти очки чтобы активировать различные умения ци. Вначале вам известны следующие три умения: <a data-tooltip-position="top" aria-label="МОНАХ > ^46afb0" data-href="МОНАХ#^46afb0" href="\классы\монах.html#^46afb0" class="internal-link" target="_self" rel="noopener">Поступь ветра</a>, <a data-tooltip-position="top" aria-label="МОНАХ > ^d91d6d" data-href="МОНАХ#^d91d6d" href="\классы\монах.html#^d91d6d" class="internal-link" target="_self" rel="noopener">Терпеливая оборона</a> и <a data-tooltip-position="top" aria-label="МОНАХ > ^91321d" data-href="МОНАХ#^91321d" href="\классы\монах.html#^91321d" class="internal-link" target="_self" rel="noopener">Шквал ударов</a>. С повышением уровня в этом классе вы выучите новые умения ци<br>Все потраченные очки ци восполняются по окончании короткого или продолжительного отдыха. Вы должны потратить как минимум 30 минут на медитацию для их восстановления. Некоторые из ваших умений ци требуют от цели спасброска, позволяющего избежать эффекта. Сл такого спасброска определяется следующим образом:<br>Сл спасброска ци = 8 + БМ + мод Мудрости<br><br>
+<br>Вы можете потратить 1 очко ци в свой ход, чтобы совершить бонусным действием <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Disengage" rel="noopener" class="external-link" href="https://ttg.club/screens/Disengage" target="_blank">Отход</a> или <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Dash" rel="noopener" class="external-link" href="https://ttg.club/screens/Dash" target="_blank">Рывок</a>. В этот ход дальность ваших прыжков удваивается
+<br><br>
+<br>Вы тратите 1 очко ци в свой ход, чтобы совершить бонусным действием <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Dodge" rel="noopener" class="external-link" href="https://ttg.club/screens/Dodge" target="_blank">Уклонение</a>
+<br><br>
+<br>Сразу же после того, как вы в свой ход совершили действие Атака, вы можете потратить 1 очко ци, чтобы совершить бонусным действием две <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Unarmed_Strike" rel="noopener" class="external-link" href="https://ttg.club/screens/Unarmed_Strike" target="_blank">безоружные атаки</a>
+<br><br>2-й уровень, умение Монаха
+Copy<br>Ваша скорость увеличивается, если вы не носите доспехов и щит. Как показано в таблице, согласно колонке <a data-tooltip-position="top" aria-label="МОНАХ > ^716e46" data-href="МОНАХ#^716e46" href="\классы\монах.html#^716e46" class="internal-link" target="_self" rel="noopener">ПБД</a><br><br>
+<br>вы получаете возможность в свой ход перемещаться по вертикальным поверхностям и по поверхности жидкости, не падая во время движения
+<br><br>3-й уровень, умение Монаха
+Copy<br>У вас сильная защита как снаружи, так и внутри. Вы невосприимчивы к болезням и имеете преимущество в спасбросках против яда, а также устойчивость к урону от яда<br><br>3-й уровень, умение Монаха
+Copy<br>Вы посвящаете себя монашеской традиции. Ваша традиция предоставляет вам возможности на 3-м уровне и снова на 6-м, 11-м и 17-м уровнях<br><br>3-й уровень, умение Монаха
+Copy<br>Вы можете использовать свою реакцию, чтобы отразить или перехватить удар, когда в вас попадает атака. Когда вы делаете это, любой наносимый дробящий, колющий или режущий урон, уменьшается на<br>1d10 + мод Ловкости + уровень монаха<br>Если вы уменьшите урон до 0, вы можете потратить 1 очко ци на безоружную атаку существа, если оно находится в пределах досягаемости<br>Если атака была дальнобойной, вы можете метнуть снаряд обратно в существо, если снаряд достаточно мал, чтобы вы могли держать ее в одной руке, и у вас свободна хотя бы одна рука.<br>Если вы поймаете снаряд таким образом, вы можете потратить 1 очко ци на дальнюю атаку с дальностью 30/60фт, используя оружие или боеприпас, которые вы только что поймали. Вы совершаете эту атаку с БМ, независимо от ваших навыков владения оружием, и снаряд считается основным оружием для атаки.<br><br>
+<br>Вы можете использовать свою реакцию, чтобы отразить атаку и занять оборонительную стойку. В этой стойке вы можете отразить дополнительную атаку. Атака существа по-прежнему стоит 1 ци каждый раз, когда вы уменьшаете урон от атаки до нуля. Эта стойка сохраняется до начала вашего следующего хода.
+<br><br>
+<br>Вы можете отразить 2 дополнительные атаки, всего 3
+<br><br>4-й уровень, умение Монаха
+Copy<br>При достижении 4, 8, 12, 16 и 19 уровней вы можете повысить значение одной из ваших характеристик на 2 или двух характеристик на 1 или выбрать черту. Как обычно, значение характеристики при этом не должно превысить 20<br><br>4-й уровень, умение Монаха
+Copy<br>Постоянный поток ци по всему телу помогает восстанавливать его при травмах. Когда вы восстанавливаете очки жизни из любого источника, в том числе с помощью дайса хитов, вы получаете дополнительно<br>Хил = Хил + мод Мудрости<br><br>4-й уровень, умение Монаха
+Copy<br>Если вы упали, вы можете реакцией уменьшить урон от падения на уровень монаха * 5<br><br>5-й уровень, умение Монаха
+Copy<br>Вы можете атаковать дважды, вместо одного раза, всякий раз, когда вы выполняете атакующее действие в свой ход<br><br>5-й уровень, умение Монаха
+Copy<br>Вы можете вмешиваться в поток ци в теле противника. Когда вы поражаете другое существо атакой ближнего боя, вы можете потратить 1ци на попытку ошеломляющего удара. Цель должна успешно выполнить спасительный бросок Телосложения &nbsp;или быть оглушена до конца вашего следующего хода.<br>
+<br>Вы можете использовать эту способность один раз за ход
+<br><br>5-й уровень, умение Монаха
+Copy<br>Когда вы промахиваетесь при броске атаки, вы можете потратить 1-3 ци, чтобы увеличить свой бросок атаки на 2 за ци<br><br>6-й уровень, умение Монаха
+Copy<br>ваши безоружные удары считаются магическими при определении преодоления сопротивления и иммунитета к немагическим атакам и урону<br><br>7-го уровня, умение Монаха
+Copy<br>Ваша ловкость позволяет вам уклоняться от эффектов, направленных на определённую область, вроде дыхания синего дракона или заклинания огненный шар [fireball]<br>Если вы попадаете под действие эффекта, позволяющего совершить спасбросок Ловкости, чтобы получить только половину урона, вы вместо этого не получаете урона при успешном спасброске и получаете только половину урона при проваленном<br><br>7-й уровень, умение Монаха
+Copy<br>Вы невосприимчивы к очарованию<br>
+Кроме того, всякий раз, когда вы делаете спас-бросок и терпите неудачу, вы можете потратить 1 очко ци, чтобы повторить его и получить второй результат<br><br>10-го уровня, умение Монаха
+Copy<br>Вы невосприимчивы к повреждениям ядом и отравленному состоянию<br><br>11-го уровня, умение Монаха
+Copy<br>Если ваше специальное оружие магическое, ваша ци наполняется магией оружия. Ваши удары без оружия наносят любой дополнительный урон, который есть у вашего специального оружия, а также приобретают любые его магические свойства<br>
+<br>Бонусы от “перчаток” и подобных оружий не применяются
+<br>Если ваше специальное оружие использует заряды, вы можете использовать заряд из этого оружия при атаке без оружия<br>Например, если у вас был длинный меч +1, который наносил дополнительный урон 1d6 и имел шанс сбить существо с ног при попадании, ваши кулаки действовали бы как оружие +1, а также наносили бы дополнительный урон 1d6 огнем и имели шанс сбить существо с ног<br><br>13-й уровень, умение Монаха
+Copy<br>Вы понимаете, как взаимодействовать с энергией ци в чужом разуме, и теперь вы понимаете речь на любом языке. Кроме того, все существа, способные понимать хотя бы один язык, понимают то, что вы сказали<br><br>14-го уровня, умение Монаха
+Copy<br>Ваш разум и тело были сосредоточены посредством постоянной медитации. Вы приобретаете БМ для спас-бросков: телосложения, интеллекта, мудрости, харизмы и смертельных<br><br>15-й уровень, умение Монаха
+Copy<br>Ваша ци поддерживает вас, и ваше тело больше не подвержено признакам старения. Вы не можете быть состарены магически. Впрочем, вы всё ещё можете умереть от старости. Кроме того, вам больше не требуется еда и вода<br><br>15-й уровень, умение Монаха
+Copy<br>Когда вы выполняете бросок за инициативу и у вас 0 ци, вы получаете 4 очка ци<br><br>18-й уровень, умение Монаха
+Copy<br>Вы можете действием потратить 4 ци, чтобы стать невидимым на 1 минуту<br>
+В течение этого времени вы получаете сопротивление всем видам урона кроме урона силовым полем<br>
+Кроме того, вы можете потратить 8 ци, чтобы использовать заклинание проекция в астрал [astral projection] без применения материальных компонентов<br>
+Вы не можете перемещать кого-либо вместе с собой<br><br>20-й уровень, умение Монаха
+Copy<br>Ваше владение ци позволяет вам выполнять базовые техники без особых усилий. Вы можете использовать <a data-tooltip-position="top" aria-label="МОНАХ > ^4dcc74" data-href="МОНАХ#^4dcc74" href="\классы\монах.html#^4dcc74" class="internal-link" target="_self" rel="noopener">Шквал ударов</a>, <a data-tooltip-position="top" aria-label="МОНАХ > ^0c7d98" data-href="МОНАХ#^0c7d98" href="\классы\монах.html#^0c7d98" class="internal-link" target="_self" rel="noopener">Терпеливая оборона</a> и <a data-tooltip-position="top" aria-label="МОНАХ > ^8c9df1" data-href="МОНАХ#^8c9df1" href="\классы\монах.html#^8c9df1" class="internal-link" target="_self" rel="noopener">Поступь ветра</a> не тратя очки ци<br>
+Также ваши показатели ловкости и телосложения +4, максимум данных характеристик равен 24]]></description><link>классы\монах.html</link><guid isPermaLink="false">Классы/МОНАХ.md</guid><pubDate>Wed, 21 Feb 2024 17:17:58 GMT</pubDate></item><item><title><![CDATA[Блюда]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>мир\страны\священная-империя-хар\блюда.html</link><guid isPermaLink="false">Мир/Страны/Священная империя Хар/Блюда.md</guid><pubDate>Sat, 17 Feb 2024 06:16:45 GMT</pubDate></item><item><title><![CDATA[Важные Люди]]></title><description><![CDATA[ 
+ <br>Формат: 
+Должнность - Имя Фамилия
+&gt; краткая доступная информация
+Copy<br><br>
+Исператор уже 20 лет при нем страна начала бурное развитие
+]]></description><link>мир\страны\священная-империя-хар\важные-люди.html</link><guid isPermaLink="false">Мир/Страны/Священная империя Хар/Важные Люди.md</guid><pubDate>Thu, 15 Feb 2024 20:14:25 GMT</pubDate></item><item><title><![CDATA[Военная система]]></title><description><![CDATA[ 
+ <br><br>
+Элитные воины, которые служат своим господам и участвуют в войнах
+<br><br>
+Состоит из профессиональных воинов и используется для защиты императора и выполнения его приказов
+<br><br>
+Управляют провинциями и командуют войсками на своей территории
+<br><br>
+Состоят из местных жителей и используются для обороны провинции и выполнения военных операций
+<br><br>
+Состоят из крестьян и используются для защиты земель и выполнения приказов землевладельца
+]]></description><link>мир\страны\священная-империя-хар\военная-система.html</link><guid isPermaLink="false">Мир/Страны/Священная империя Хар/Военная система.md</guid><pubDate>Thu, 15 Feb 2024 17:12:28 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br>Note<a class="internal-link" href="\мир\страны\священная-империя-хар\блюда.html" target="_self"></a> Супы,  Вторые блюда,  На гриле,  Темпура,  Салаты,  Суши ,  Саш...2/17/2024, 9:16:45 AMNote<a class="internal-link" href="\мир\страны\священная-империя-хар\важные-люди.html" target="_self"></a>Формат:2/15/2024, 11:14:25 PMNote<a class="internal-link" href="\мир\страны\священная-империя-хар\военная-система.html" target="_self"></a> Самураи,  Императорская армия ,  Военные губернаторы ,  Провинц...2/15/2024, 8:12:28 PMNote<a class="internal-link" href="\мир\страны\священная-империя-хар\система-правления.html" target="_self"></a> Император ,  Старейшина - Совет старейшин ,  Высший государстве...2/15/2024, 11:05:11 PM<br><br>
+<br><a data-href="Блюда" href="\мир\страны\священная-империя-хар\блюда.html" class="internal-link" target="_self" rel="noopener">Блюда</a>
+<br><a data-href="Важные Люди" href="\мир\страны\священная-империя-хар\важные-люди.html" class="internal-link" target="_self" rel="noopener">Важные Люди</a>
+<br><a data-href="Военная система" href="\мир\страны\священная-империя-хар\военная-система.html" class="internal-link" target="_self" rel="noopener">Военная система</a>
+<br><a data-href="Система Правления" href="\мир\страны\священная-империя-хар\система-правления.html" class="internal-link" target="_self" rel="noopener">Система Правления</a>
+<br>]]></description><link>мир\страны\священная-империя-хар\священная-империя-хар.html</link><guid isPermaLink="false">Мир/Страны/Священная империя Хар/Священная империя Хар.md</guid><pubDate>Thu, 15 Feb 2024 20:23:18 GMT</pubDate></item><item><title><![CDATA[Система Правления]]></title><description><![CDATA[ 
+ <br><br>
+Верховный правитель страны<br>
+Считается прямым потомком / избранником бога Уль Зарфу. 
+<br><br>
+Состоит из наиболее влиятельных государственных деятелей, которые помогают императору в управлении страной
+<br><br>
+Совет Министров
+<br><br>
+Руководители отдельных министерств, таких как министерство финансов, министерство иностранных дел и т.д.
+<br><br>
+Управляют провинциями и обеспечивают их оборону
+<br><br>
+Отвечают за управление провинциями
+<br><br>
+владеют крупными земельными участками и контролируют жизнь крестьян на своей территории
+]]></description><link>мир\страны\священная-империя-хар\система-правления.html</link><guid isPermaLink="false">Мир/Страны/Священная империя Хар/Система Правления.md</guid><pubDate>Thu, 15 Feb 2024 20:05:11 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br>FolderContains 0 folders, 7 notes.КартыFolderContains 1 folders, 0 notes.СтраныNote<a class="internal-link" href="\мир\языки.html" target="_self"></a>А также у большинства духов есть свой язык: Мышиный, Грунговский...1/31/2024, 6:48:12 PM<br><br>
+<br>
+Карты
+
+<br>
+Страны
+
+<br><a data-href="Священная империя Хар" href="\мир\страны\священная-империя-хар\священная-империя-хар.html" class="internal-link" target="_self" rel="noopener">Священная империя Хар</a>
+
+
+<br>
+<a data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">Языки</a>
+
+<br>]]></description><link>мир\мир.html</link><guid isPermaLink="false">Мир/Мир.md</guid><pubDate>Thu, 15 Feb 2024 20:23:18 GMT</pubDate></item><item><title><![CDATA[Языки]]></title><description><![CDATA[<a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> <a class="tag" href="?query=tag:Гуманоид" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Гуманоид</a> <a class="tag" href="?query=tag:Дух_Фея" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Дух_Фея</a> <a class="tag" href="?query=tag:Элементаль" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Элементаль</a> <a class="tag" href="?query=tag:Дракон" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Дракон</a> <a class="tag" href="?query=tag:Гномий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Гномий</a> <a class="tag" href="?query=tag:Духовный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Духовный</a> <a class="tag" href="?query=tag:Дух_Фея" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Дух_Фея</a> <a class="tag" href="?query=tag:Элементаль" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Элементаль</a> <a class="tag" href="?query=tag:Растение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Растение</a> <a class="tag" href="?query=tag:Демонический" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Демонический</a> <a class="tag" href="?query=tag:Демон" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Демон</a> <a class="tag" href="?query=tag:Драконий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Драконий</a> <a class="tag" href="?query=tag:Дракон" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Дракон</a> <a class="tag" href="?query=tag:Первичный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Первичный</a> <a class="tag" href="?query=tag:Древний" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Древний</a> 
+ <br><br>А также у большинства духов есть свой язык: Мышиный, Грунговский и тп<br>
+Подобные языки используются редко, так как ими нельзя передать сложные понятия]]></description><link>мир\языки.html</link><guid isPermaLink="false">Мир/Языки.md</guid><pubDate>Wed, 31 Jan 2024 15:48:12 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br>Note<a class="internal-link" href="\оружия\подковы-бортоломы.html" target="_self"></a>* Саранитовое2/20/2024, 6:36:03 PM<a class="internal-link" href="\оружия\чакрум.html" target="_self"></a>* Саранитовое2/20/2024, 6:37:45 PM<br><br>
+<br><a data-href="Подковы Бортоломы" href="\оружия\подковы-бортоломы.html" class="internal-link" target="_self" rel="noopener">Подковы Бортоломы</a>
+<br><a data-href="Чакрум" href="\оружия\чакрум.html" class="internal-link" target="_self" rel="noopener">Чакрум</a>
+<br>]]></description><link>оружия\оружия.html</link><guid isPermaLink="false">Оружия/Оружия.md</guid><pubDate>Mon, 19 Feb 2024 18:39:04 GMT</pubDate></item><item><title><![CDATA[Свойства]]></title><description><![CDATA[<a class="tag" href="?query=tag:Двойное_оружие" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Двойное_оружие</a> <a class="tag" href="?query=tag:Особое" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Особое</a> <a class="tag" href="?query=tag:Посеребрённое" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Посеребрённое</a> <a class="tag" href="?query=tag:Адамантитовое" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Адамантитовое</a> <a class="tag" href="?query=tag:Досягаемость" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Досягаемость</a> <a class="tag" href="?query=tag:Особое" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Особое</a> 
+ <br><br><br><a href=".?query=tag:Двойное_оружие" class="tag" target="_blank" rel="noopener">#Двойное_оружие</a>(1к6), <a href=".?query=tag:Особое" class="tag" target="_blank" rel="noopener">#Особое</a>, <a href=".?query=tag:Посеребрённое" class="tag" target="_blank" rel="noopener">#Посеребрённое</a>, <a href=".?query=tag:Адамантитовое" class="tag" target="_blank" rel="noopener">#Адамантитовое</a>, <a href=".?query=tag:Досягаемость" class="tag" target="_blank" rel="noopener">#Досягаемость</a><br>
+<br>Саранитовое
+<br><br>+15 футов к скорости передвижения владельца <br>Владелец перемещается в быстром темпе до 12 часов в день, не получая истощение <br>Владелец перемещается как обычно, но паря в 4 дюймах от земли. Этот эффект позволяет пересекать нетвёрдые и неустойчивые субстанции, такие как вода и лава, а также "стоять" на них, а также не оставлять следов и игнорировать труднопроходимую местность<br><br>
+<br>
+Владелец может использовать свою характеристику Мудрости вместо Силы для бросков атаки и урона этого оружия
+
+<br>
+Удары этим оружием считаются магическими при определении преодоления сопротивления и иммунитета к немагическим атакам и урону
+
+<br>
+Кроме того, когда вы попадаете ударом по "барьеру", созданному заклинанием или эффектом вы можете совершить проверку Мудрости (Сл 8+удвоенный уровень заклинания), в случае успеха разрывая магию и рассеивая заклинание / эффект<br>
+подобному силовой стене,&nbsp;или любому другому заклинание стены (например, огненная стена, гравитационный барьер или&nbsp;радужная стена), 
+
+<br><br>Вы можете действием ударить копытом о землю, посылая ударную волну. <br>
+<br>Все существа, находящиеся в пределах 30 футов от точки удара, должны преуспеть в спасброске Силы (Сл 8+БМ+сод.Мудрости), иначе они будут <a data-tooltip-position="top" aria-label="https://ttg.club/spells/slow" rel="noopener" class="external-link" href="https://ttg.club/spells/slow" target="_blank">замедлены</a> до конца их хода
+<br>Вы можете использовать этот удар БМ раз в день
+]]></description><link>оружия\подковы-бортоломы.html</link><guid isPermaLink="false">Оружия/Подковы Бортоломы.md</guid><pubDate>Tue, 20 Feb 2024 15:36:03 GMT</pubDate></item><item><title><![CDATA[Свойства]]></title><description><![CDATA[<a class="tag" href="?query=tag:Фехтовальное" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Фехтовальное</a> <a class="tag" href="?query=tag:Двуручное" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Двуручное</a> <a class="tag" href="?query=tag:Тяжёлое" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Тяжёлое</a> <a class="tag" href="?query=tag:Метательное" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Метательное</a> <a class="tag" href="?query=tag:Особое" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Особое</a> <a class="tag" href="?query=tag:Посеребрённое" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Посеребрённое</a> <a class="tag" href="?query=tag:Адамантитовое" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Адамантитовое</a> <a class="tag" href="?query=tag:Досягаемость" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Досягаемость</a> <a class="tag" href="?query=tag:Особое" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Особое</a> 
+ <br><img alt="Чакрум.jpg" src="\оружия\чакрум.jpg"><br><br><br><a href=".?query=tag:Фехтовальное" class="tag" target="_blank" rel="noopener">#Фехтовальное</a>, <a href=".?query=tag:Двуручное" class="tag" target="_blank" rel="noopener">#Двуручное</a>, <a href=".?query=tag:Тяжёлое" class="tag" target="_blank" rel="noopener">#Тяжёлое</a>, <a href=".?query=tag:Метательное" class="tag" target="_blank" rel="noopener">#Метательное</a>(дис. 15/30), <a href=".?query=tag:Особое" class="tag" target="_blank" rel="noopener">#Особое</a>, <a href=".?query=tag:Посеребрённое" class="tag" target="_blank" rel="noopener">#Посеребрённое</a>, <a href=".?query=tag:Адамантитовое" class="tag" target="_blank" rel="noopener">#Адамантитовое</a>, <a href=".?query=tag:Досягаемость" class="tag" target="_blank" rel="noopener">#Досягаемость</a><br>
+<br>Саранитовое
+<br><br>
+Если вы попадаете рукопашной атакой по существу этим оружием, то вы до конца этого хода не&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/Opportunity_Attack" rel="noopener" class="external-link" href="https://ttg.club/screens/Opportunity_Attack" target="_blank">провоцируете</a>&nbsp;от него атаки
+Орудуя этим оружием двумя руками, вы имеете бонус&nbsp;+1 КД и считаетесь использующим щит для всех способностей и свойств 
+
+<br>кроме классовых особенностей, таких как: Защита без доспехов монаха, Песнь клинка волшебника и тп
+
+** Пройдя особую тренировку Монах может научиться пользоваться этим оружием, оно считается для него монашеским
+]]></description><link>оружия\чакрум.html</link><guid isPermaLink="false">Оружия/Чакрум.md</guid><pubDate>Tue, 20 Feb 2024 15:37:45 GMT</pubDate><enclosure url="оружия\чакрум.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;оружия\чакрум.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[“Стакающееся” преимущество и помеха]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> 
+ <br><a href=".?query=tag:Правила" class="tag" target="_blank" rel="noopener">#Правила</a><br><br>Бонусы из таблицы суммируются
+Copy<br><br>Шрафы из таблицы суммируются
+Copy]]></description><link>правила\“стакающееся”-преимущество-и-помеха.html</link><guid isPermaLink="false">Правила/“Стакающееся” преимущество и помеха.md</guid><pubDate>Wed, 31 Jan 2024 17:10:34 GMT</pubDate></item><item><title><![CDATA[Атака бонусным действием]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> 
+ <br><a href=".?query=tag:Правила" class="tag" target="_blank" rel="noopener">#Правила</a><br>
+<br>
+Использует бонусное действие
+
+<br>
+СБ Телосложения со сложностью 10 или максимального урона оружия, смотря что больше, при провале +1 истощение  
+
+<br>
+Пример:  
+
+<br>Кинжал – 1к4 + мод.Лов &gt; 4 + 3~5 = 7~9  = 10
+<br>Секира – 1к12 + мод.Силы = 12 + 3~5 = 15~17
+
+
+<br>
+Также можно применить Заговор при этом сложность спасброска равна 12 или сложности спасброска заклинателя, смотря что выше
+
+]]></description><link>правила\атака-бонусным-действием.html</link><guid isPermaLink="false">Правила/Атака бонусным действием.md</guid><pubDate>Tue, 20 Feb 2024 15:42:28 GMT</pubDate></item><item><title><![CDATA[Встать]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> 
+ <br><a href=".?query=tag:Правила" class="tag" target="_blank" rel="noopener">#Правила</a><br>
+“Стоимость движения: половина вашей скорости перемещения”<br>
+<br>Изменено на постоянные 15фт
+<br>Провоцирует Атаку по возможности
+]]></description><link>правила\встать.html</link><guid isPermaLink="false">Правила/Встать.md</guid><pubDate>Tue, 20 Feb 2024 15:42:59 GMT</pubDate></item><item><title><![CDATA[Долгий отдых]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> 
+ <br><a href=".?query=tag:Правила" class="tag" target="_blank" rel="noopener">#Правила</a><br>
+При долгом отдыхе:<br>
+<br>
+восстанавливаешь количество костей хитов равное бонусу мастерства в виде пунктов здоровья, вместо полного<br>
+Пример: 
+
+<br>Воин 3 уровня =&gt; 2к10
+<br>Бард 5 уровня =&gt; 3к8
+
+
+<br>
+Половину общего числа костей хитов, округляя в большую сторону, до максимума костей хитов равного вашему уровню<br>
+Пример: 
+
+<br>Воин 3 уровня =&gt; 3 / 2 = 1.5 =&gt; 2 кости
+<br>Бард 5 уровня =&gt; 5 / 2 = 2.5 =&gt; 3 кости
+
+
+]]></description><link>правила\долгий-отдых.html</link><guid isPermaLink="false">Правила/Долгий отдых.md</guid><pubDate>Tue, 20 Feb 2024 15:46:45 GMT</pubDate></item><item><title><![CDATA[Зелья Бонусным Действием]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> 
+ <br><a href=".?query=tag:Правила" class="tag" target="_blank" rel="noopener">#Правила</a><br>
+<br>Дейсвием – Полный / Максимальный эффект зелья (пример: 2к4 + 2 = 10)
+<br>Бонусным Действием – Половина времени / Требуется бросок
+]]></description><link>правила\зелья-бонусным-действием.html</link><guid isPermaLink="false">Правила/Зелья Бонусным Действием.md</guid><pubDate>Sun, 04 Feb 2024 12:26:55 GMT</pubDate></item><item><title><![CDATA[Импровизация]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> 
+ <br><a href=".?query=tag:Правила" class="tag" target="_blank" rel="noopener">#Правила</a><br>
+Цена определяется Мастером, при озвучивании заявки<br>В случае простого действия, проверки не требуются, и действие бесплатно<br>
+(залезть на стул, скинуть вещи со стола, зажечь листву и тп)<br>В случае более сложных действий, результат определяется мастером  <br><br>Примеры:<br>
+<br>
+“Апрокинуть стол, чтобы прижать гоблинов к земле” – действие, проверка атлетики &gt; Стол слишком тяжелый, действие не тратится
+
+<br>
+“Запрыгнуть на огра и перередать ему шею” – действие + 15фт движения, проверка Акробатики / Атлетики + Бросок Атаки  
+
+<br>
+<br>проверка &gt; Забрался?  
+
+<br>да &gt; +5 к попаданию  
+<br>нет &gt; -5 к попаданию  
+<br>крит &gt; авто попадание, если попадал, то +10 к итоговому урону  
+
+
+<br>Рузультат:  <br>
+<br>Успех: Авто критический удар + глубокая рана  
+<br>
+<br>Провал: Ты не смог залезть, и атаковал
+]]></description><link>правила\импровизация.html</link><guid isPermaLink="false">Правила/Импровизация.md</guid><pubDate>Tue, 20 Feb 2024 15:47:58 GMT</pubDate></item><item><title><![CDATA[Истощение]]></title><description><![CDATA[ 
+ <br>
+<br>-1 Ко всем броскам атаки, проверкам и спасброскам 
+<br>Если надет Легкий или средний доспех то -КД (до максимум -2 для средних)
+<br>всего 8 степеней 
+<br>8 степень - смерть
+]]></description><link>правила\истощение.html</link><guid isPermaLink="false">Правила/Истощение.md</guid><pubDate>Sun, 04 Feb 2024 12:39:53 GMT</pubDate></item><item><title><![CDATA[Карточное вдохновение]]></title><description><![CDATA[ 
+ <br>Вместо обычного вдохновения игрок тянет карту из колоды<br>Карты можно сохранять до максимального количества равного вашему бонусу мастерства, излишние карты скидываются в конце / начале партии]]></description><link>правила\карточное-вдохновение.html</link><guid isPermaLink="false">Правила/Карточное вдохновение.md</guid><pubDate>Tue, 20 Feb 2024 15:49:11 GMT</pubDate></item><item><title><![CDATA[Успех (20)]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> 
+ <br><a href=".?query=tag:Правила" class="tag" target="_blank" rel="noopener">#Правила</a><br><br>
+<br>Атака: дополнительные кости считаются максимальными ( 2к6 + 12(2к6) + Мод  )
+
+<br>Все умения, тратящие ресурсы и наносящие урон должны быть использованы ДО выпадения крита, иначе не являются критическими, при этом ресурс не тратится при промахе (Божественная кара)
+
+
+<br>Навыки: 100% успех
+<br>Спасброски: Эффект не подействовал, возможно Сопротивление от эффекта на 1 или 1к4 ходов<br>
+при наличие сопротивления, дается иммунитет
+<br>Инициатива: первый в инициативе + Внеочередный раунд 
+<br><br>
+<br>Атака: промах + случайный эффект:
+
+<br>Справоцировать атаку
+<br>Выронить Оружие / Щит
+<br>Ранить Себя / Союзника
+<br>Споткнуться (минус половина движения на след раунд)
+<br>В случае связи атаки с магией, может высвободится дикая магия
+
+
+<br>Навыки: 100% провал
+<br>Спасброски: 
+
+<br>Если вы "пассино" проходите спасбросок (8 + мод Спасброска), то в случае провала он считается успехом, а в случае крит-провала обычным провалом  
+<br>Эффект действует в максимальном объеме  
+
+
+<br>игнорируя сопротивление<br>
+Пример: Огненный шар &gt; 8к6 урона =&gt; 8 * 6 = 48 урона  
+<br>В случае эффектов без урона, увеличивается сила эффекта, или его длительность
+
+
+<br>Инициатива: последний в инициативе + пропущенный раунд 
+]]></description><link>правила\криты.html</link><guid isPermaLink="false">Правила/Криты.md</guid><pubDate>Sun, 04 Feb 2024 09:44:47 GMT</pubDate></item><item><title><![CDATA[Окружение - Флангирование]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> 
+ <br><a href=".?query=tag:Правила" class="tag" target="_blank" rel="noopener">#Правила</a><br>
+<br>
+Если несколько существ находятся на расстоянии 5фт от цели, при этом находясь на равном расстоянии друг от друга, цель считается окруженной и каждый окруживший получает бонус к попаданию, равный количеству окруживших
+
+<br>
+Стена считается как окружившее существо
+
+<br>
+Если окруженный совершает атаку по возможности, все окружившие могут совершить атаку по возможности по нему
+
+]]></description><link>правила\окружение-флангирование.html</link><guid isPermaLink="false">Правила/Окружение - Флангирование.md</guid><pubDate>Wed, 31 Jan 2024 17:11:00 GMT</pubDate></item><item><title><![CDATA[Подготовка]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> 
+ <br><a href=".?query=tag:Правила" class="tag" target="_blank" rel="noopener">#Правила</a><br>
+Вы можете подготавливать бонусное действие, тратя бонусное действие]]></description><link>правила\подготовка.html</link><guid isPermaLink="false">Правила/Подготовка.md</guid><pubDate>Tue, 20 Feb 2024 15:51:32 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br>Note<a class="internal-link" href="\правила\атака-бонусным-действием.html" target="_self"></a>- Использует бонусное действие2/20/2024, 6:42:28 PMNote<a class="internal-link" href="\правила\встать.html" target="_self"></a>“Стоимость движения: половина вашей скорости перемещения”2/20/2024, 6:42:59 PMNote<a class="internal-link" href="\правила\долгий-отдых.html" target="_self"></a>При долгом отдыхе:2/20/2024, 6:46:45 PMNote<a class="internal-link" href="\правила\зелья-бонусным-действием.html" target="_self"></a>- Дейсвием – Полный / Максимальный эффект зелья (пример: 2к4 + 2...2/4/2024, 3:26:55 PMNote<a class="internal-link" href="\правила\импровизация.html" target="_self"></a>Цена определяется Мастером, при озвучивании заявки2/20/2024, 6:47:58 PMNote<a class="internal-link" href="\правила\истощение.html" target="_self"></a>- -1 Ко всем броскам атаки, проверкам и спасброскам2/4/2024, 3:39:53 PMNote<a class="internal-link" href="\правила\карточное-вдохновение.html" target="_self"></a>Вместо обычного вдохновения игрок тянет карту из колоды2/20/2024, 6:49:11 PMNote<a class="internal-link" href="\правила\криты.html" target="_self"></a>- Атака: дополнительные кости считаются максимальными ( 2к6 + 12...2/4/2024, 12:44:47 PMNote<a class="internal-link" href="\правила\окружение-флангирование.html" target="_self"></a>- Если несколько существ находятся на расстоянии 5фт от цели, пр...1/31/2024, 8:11:00 PMNote<a class="internal-link" href="\правила\подготовка.html" target="_self"></a>Вы можете подготавливать бонусное действие, тратя бонусное дейст...2/20/2024, 6:51:32 PMNote<a class="internal-link" href="\правила\состояние-здоровья.html" target="_self"></a>Убедительная просьба также описывать состояние ваших персонажей ...1/31/2024, 9:34:13 PMNote<a class="internal-link" href="\правила\спасброски-от-смерти.html" target="_self"></a>При "падении" игрок совершает спасбросок от смерти сразу2/20/2024, 6:57:47 PMNote<a class="internal-link" href="\правила\сражение-двумя-оружиями.html" target="_self"></a>- Не тратит бонусное действие2/20/2024, 7:01:25 PMNote<a class="internal-link" href="\правила\“стакающееся”-преимущество-и-помеха.html" target="_self"></a>Бонусы из таблицы суммируются1/31/2024, 8:10:34 PM<br><br>
+<br><a data-href="“Стакающееся” преимущество и помеха" href="\правила\“стакающееся”-преимущество-и-помеха.html" class="internal-link" target="_self" rel="noopener">“Стакающееся” преимущество и помеха</a>
+<br><a data-href="Атака бонусным действием" href="\правила\атака-бонусным-действием.html" class="internal-link" target="_self" rel="noopener">Атака бонусным действием</a>
+<br><a data-href="Встать" href="\правила\встать.html" class="internal-link" target="_self" rel="noopener">Встать</a>
+<br><a data-href="Долгий отдых" href="\правила\долгий-отдых.html" class="internal-link" target="_self" rel="noopener">Долгий отдых</a>
+<br><a data-href="Зелья Бонусным Действием" href="\правила\зелья-бонусным-действием.html" class="internal-link" target="_self" rel="noopener">Зелья Бонусным Действием</a>
+<br><a data-href="Импровизация" href="\правила\импровизация.html" class="internal-link" target="_self" rel="noopener">Импровизация</a>
+<br><a data-href="Истощение" href="\правила\истощение.html" class="internal-link" target="_self" rel="noopener">Истощение</a>
+<br><a data-href="Карточное вдохновение" href="\правила\карточное-вдохновение.html" class="internal-link" target="_self" rel="noopener">Карточное вдохновение</a>
+<br><a data-href="Криты" href="\правила\криты.html" class="internal-link" target="_self" rel="noopener">Криты</a>
+<br><a data-href="Окружение - Флангирование" href="\правила\окружение-флангирование.html" class="internal-link" target="_self" rel="noopener">Окружение - Флангирование</a>
+<br><a data-href="Подготовка" href="\правила\подготовка.html" class="internal-link" target="_self" rel="noopener">Подготовка</a>
+<br><a data-href="Состояние Здоровья" href="\правила\состояние-здоровья.html" class="internal-link" target="_self" rel="noopener">Состояние Здоровья</a>
+<br><a data-href="Спасброски от смерти" href="\правила\спасброски-от-смерти.html" class="internal-link" target="_self" rel="noopener">Спасброски от смерти</a>
+<br><a data-href="Сражение двумя оружиями" href="\правила\сражение-двумя-оружиями.html" class="internal-link" target="_self" rel="noopener">Сражение двумя оружиями</a>
+<br>]]></description><link>правила\правила.html</link><guid isPermaLink="false">Правила/Правила.md</guid><pubDate>Thu, 15 Feb 2024 20:15:09 GMT</pubDate></item><item><title><![CDATA[Состояние Здоровья]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> 
+ <br><a href=".?query=tag:Правила" class="tag" target="_blank" rel="noopener">#Правила</a><br><br>Убедительная просьба также описывать состояние ваших персонажей друг-другу]]></description><link>правила\состояние-здоровья.html</link><guid isPermaLink="false">Правила/Состояние Здоровья.md</guid><pubDate>Wed, 31 Jan 2024 18:34:13 GMT</pubDate></item><item><title><![CDATA[Спасброски от смерти]]></title><description><![CDATA[ 
+ <br>При "падении" игрок совершает спасбросок от смерти сразу<br>
+<br>при этом не совершая его в этом раунде
+<br>Проваленные спасброски от смерти сохраняются до долгого отдыха<br>
+Если на коротком отдыхе игрок тратит кость хитов для лечения 1 провал сбрасывается ]]></description><link>правила\спасброски-от-смерти.html</link><guid isPermaLink="false">Правила/Спасброски от смерти.md</guid><pubDate>Tue, 20 Feb 2024 15:57:47 GMT</pubDate></item><item><title><![CDATA[Сражение двумя оружиями]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> <a class="tag" href="?query=tag:Двойное_оружие" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Двойное_оружие</a> 
+ <br><a href=".?query=tag:Правила" class="tag" target="_blank" rel="noopener">#Правила</a><br>
+<br>
+Не тратит бонусное действие
+
+<br>
+Атака проводится одновременно с основной
+
+<br>
+Дополнительные эффекты при попадании наносятся 1 раз  
+
+<br>(Скрытая атка, Божественная кара, Метка охотника и тп)
+
+
+<br>
+При использовании умения “дополнительная атака”, чтобы не кидать по 4-6 атак, на попадание кидается только для основных атак и прабавляется урон вротого оружия
+
+<br>
+<a href=".?query=tag:Двойное_оружие" class="tag" target="_blank" rel="noopener">#Двойное_оружие</a> Также входит в данную категорию  
+
+]]></description><link>правила\сражение-двумя-оружиями.html</link><guid isPermaLink="false">Правила/Сражение двумя оружиями.md</guid><pubDate>Tue, 20 Feb 2024 16:01:25 GMT</pubDate></item><item><title><![CDATA[Мощное телосложение]]></title><description><![CDATA[<a class="tag" href="?query=tag:Гуманоид" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Гуманоид</a> <a class="tag" href="?query=tag:Средний" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Средний</a> <a class="tag" href="?query=tag:30фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30фт</a> <a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> <a class="tag" href="?query=tag:Подрасы" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Подрасы</a> 
+ <br><br><br>
+При определении вашей грузоподъёмности, а также веса, который вы можете толкать, тянуть и поднимать, вы считаетесь существом на один размер больше
+<br><br>
+Вы знаете: <a href=".?query=tag:Общий" class="tag" target="_blank" rel="noopener">#Общий</a> +1 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">язык</a> на выбор | ИЛИ | 2 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">языка</a> на выбор
+<br><br>
+<a data-href="ОНИРОЖДЁННЫЙ-КРАСНЫЙ" href="\расы\гуманоид\онирождённый\онирождённый-красный.html" class="internal-link" target="_self" rel="noopener">ОНИРОЖДЁННЫЙ-КРАСНЫЙ</a><br>
+<a data-href="ОНИРОЖДЁННЫЙ-СИНИЙ" href="\расы\гуманоид\онирождённый\онирождённый-синий.html" class="internal-link" target="_self" rel="noopener">ОНИРОЖДЁННЫЙ-СИНИЙ</a><br>
+<a data-href="ОНИРОЖДЁННЫЙ-ЗЕЛЁНЫЙ" href="\расы\гуманоид\онирождённый\онирождённый-зелёный.html" class="internal-link" target="_self" rel="noopener">ОНИРОЖДЁННЫЙ-ЗЕЛЁНЫЙ</a>
+]]></description><link>расы\гуманоид\онирождённый\онирождённый.html</link><guid isPermaLink="false">Расы/Гуманоид/ОНИРОЖДЁННЫЙ/ОНИРОЖДЁННЫЙ.md</guid><pubDate>Wed, 31 Jan 2024 15:35:46 GMT</pubDate></item><item><title><![CDATA[Захватывающее качество]]></title><description><![CDATA[ 
+ <br><br>
+Вы получаете владение навыком Выступление
+<br><br>
+Вы знаете заговор чудотворство [thaumaturgy]. Начиная с 3-го уровня, вы можете накладывать заклинание адское возмездие [hellish rebuke] с помощью этой особенности. Начиная с 5-го уровня, вы можете накладывать заклинание увеличение/уменьшение [enlarge/reduce] с помощью этой особенности.<br>
+После накладывания одного из этих заклинаний с помощью особенности вы должны закончить продолжительный отдых, прежде чем сможете вновь наложить его таким образом. Вы также можете накладывать эти заклинания, используя ячейки заклинаний подходящего уровня<br>
+Интеллект / Мудрость / Харизма является вашей базовой характеристикой для этих заклинаний
+<br><br>
+После того как вы совершаете действие Атака в свой ход, вы можете бонусным действием попытаться магически напугать существо в радиусе 5 футов от вас. Это существо должно совершить спасбросок Мудрости (Сл = 8 + ваш модификатор Телосложения + ваш бонус мастерства) или стать испуганным вами на 1 минуту. Если цель заканчивает свой ход на расстоянии более 30 футов от вас, она может повторить этот спасбросок, оканчивая эффект при успехе. Вы можете использовать эту особенность количество раз, равное вашему бонусу мастерства, и вы восстанавливаете все потраченные использования, когда оканчиваете продолжительный отдых
+]]></description><link>расы\гуманоид\онирождённый\онирождённый-зелёный.html</link><guid isPermaLink="false">Расы/Гуманоид/ОНИРОЖДЁННЫЙ/ОНИРОЖДЁННЫЙ-ЗЕЛЁНЫЙ.md</guid><pubDate>Sat, 17 Feb 2024 17:45:48 GMT</pubDate></item><item><title><![CDATA[Устрашающая фигура]]></title><description><![CDATA[ 
+ <br><br>
+Вы получаете владение навыком Запугивание
+<br><br>
+Вы получаете владение одним видом ремесленных инструментов по вашему выбору. Кроме того, вы можете совершить действие, чтобы извлечь оружие из тела убитого вами врага (на усмотрение Мастера), например дубину или меч, которые вы вырезаете из его костей. Этот предмет становится магическим оружием, дающим вам бонус +1 к броскам атаки и урона, которые вы совершаете с его помощью. Этот бонус увеличивается до +2 на 9-м уровне и +3 на 17-м. Оружие становится магическим только для вас, в чужих руках оно действует как обычное, немагическое оружие<br>
+Когда вы наделяете собранное оружие магией таким образом, любое другое оружие, созданное вами с помощью этой особенности становятся немагическими
+<br><br>
+Вы знаете заговор фокусы [prestidigitation]. Начиная с 3-го уровня, вы можете накладывать заклинание лечение ран [cure wounds] с помощью этой особенности. Начиная с 5-го уровня, вы можете накладывать заклинание улучшение характеристики [enhance ability] с помощью этой особенности. После накладывания одного из этих заклинаний с помощью особенности вы должны закончить продолжительный отдых, прежде чем сможете вновь наложить его таким образом. Вы также можете накладывать эти заклинания, используя ячейки заклинаний подходящего уровня<br>
+Интеллект / Мудрость / Харизма является вашей базовой характеристикой для этих заклинаний
+]]></description><link>расы\гуманоид\онирождённый\онирождённый-красный.html</link><guid isPermaLink="false">Расы/Гуманоид/ОНИРОЖДЁННЫЙ/ОНИРОЖДЁННЫЙ-КРАСНЫЙ.md</guid><pubDate>Tue, 30 Jan 2024 17:11:19 GMT</pubDate></item><item><title><![CDATA[Великий обманщик]]></title><description><![CDATA[ 
+ <br><br>
+Вы получаете владение навыком Обман
+<br><br>
+Помощь синего онирождённого - это акт великого бескорыстия, пропитанный могущественной магией. Когда вы совершаете действие Помощь, вы можете потратить одну из своих Костей Хитов, чтобы придать сил союзнику в радиусе 5 футов от вас, направив свою магию в его тело. Это существо получает количество временных хитов, равное одному броску этой кости плюс ваш модификатор Телосложения. Вы можете использовать эту особенность количество раз, равное вашему бонусу мастерства, а все потраченные использования восстанавливаются, когда вы оканчиваете продолжительный отдых
+<br><br>
+Ваши злобные зубы и сильная челюсть, могут использоваться для совершения безоружных ударов. Когда вы попадаете данной атакой, вы наносите 1к6 + ваш модификатор Силы колющего урона
+<br><br>
+Реакцией, когда вы получаете урон от существа в радиусе 5 футов от вас, вы можете магически увеличить свою пасть и совершить злобный укус. Совершите по этому существу безоружный удар, используя свою «Хрустящую пасть». При броске «18–20» на кости к20 атаки, вы совершаете критическое попадание. Вы можете использовать эту особенность количество раз, равное вашему бонусу мастерства, и вы восстанавливаете все потраченные использования, когда оканчиваете продолжительный отдых
+]]></description><link>расы\гуманоид\онирождённый\онирождённый-синий.html</link><guid isPermaLink="false">Расы/Гуманоид/ОНИРОЖДЁННЫЙ/ОНИРОЖДЁННЫЙ-СИНИЙ.md</guid><pubDate>Tue, 30 Jan 2024 17:13:48 GMT</pubDate></item><item><title><![CDATA[Смертоносные мастера]]></title><description><![CDATA[<a class="tag" href="?query=tag:Гуманоид" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Гуманоид</a> <a class="tag" href="?query=tag:Средний" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Средний</a> <a class="tag" href="?query=tag:30фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30фт</a> <a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> <a class="tag" href="?query=tag:Подрасы" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Подрасы</a> 
+ <br><br><br>
+Вы получаете владение одним простым или воинским оружием по вашему выбору
+<br><br>
+Вы знаете: <a href=".?query=tag:Общий" class="tag" target="_blank" rel="noopener">#Общий</a> +1 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">язык</a> на выбор | ИЛИ | 2 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">языка</a> на выбор
+<br><br>
+<a data-href="ТЭНГУ-ХАНАТАКА" href="\расы\гуманоид\тэнгу\тэнгу-ханатака.html" class="internal-link" target="_self" rel="noopener">ТЭНГУ-ХАНАТАКА</a><br>
+<a data-href="ТЭНГУ-КАРАСУ" href="\расы\гуманоид\тэнгу\тэнгу-карасу.html" class="internal-link" target="_self" rel="noopener">ТЭНГУ-КАРАСУ</a>
+]]></description><link>расы\гуманоид\тэнгу\тэнгу.html</link><guid isPermaLink="false">Расы/Гуманоид/ТЭНГУ/ТЭНГУ.md</guid><pubDate>Wed, 31 Jan 2024 15:35:32 GMT</pubDate></item><item><title><![CDATA[Укрепленный разум&nbsp;]]></title><description><![CDATA[ 
+ <br><br>
+Вы получаете сопротивление урону психической энергией.
+<br><br>
+Вы получаете владение навыками&nbsp;Обман&nbsp;и&nbsp;Скрытность.
+<br><br>
+Когда вы совершаете действие Атака в свой ход, вы можете заменить одну из своих атак головокружительной психической атакой против существа, которое вы видите в радиусе 15 футов от себя. Это существо должно преуспеть в спасброске Мудрости (Сл равен 8 + ваш модификатор Телосложения + ваш бонус мастерства), иначе получит эффект заклинания&nbsp;<a data-tooltip-position="top" aria-label="https://dnd.su/spells/3817-raulothim_s_psychic_lance/" rel="noopener" class="external-link" href="https://dnd.su/spells/3817-raulothim_s_psychic_lance/" target="_blank">Психическое копье Раулотима</a>&nbsp;до конца своего следующего хода.<br>
+Использовав эту особенность, вы не можете использовать его повторно до окончания короткого или продолжительного отдыха
+<br><br>
+Когда вы падаете с высоты не менее 10 футов над землей и не являетесь недееспособным, вы можете реакцией расправить свои пернатые крылья и спланировать. Вы не получаете урона от этого падения и можете перемещаться по горизонтали на 2 фута за каждый 1 фут падения
+]]></description><link>расы\гуманоид\тэнгу\тэнгу-карасу.html</link><guid isPermaLink="false">Расы/Гуманоид/ТЭНГУ/ТЭНГУ-КАРАСУ.md</guid><pubDate>Tue, 20 Feb 2024 14:53:22 GMT</pubDate></item><item><title><![CDATA[Мастер ремесла]]></title><description><![CDATA[ 
+ <br><br>
+Вы получаете мастерство одним из видов инструментов ремесленника по вашему выбору ( 2 x БМ )
+<br><br>
+Вы получаете владение одним из навыков: Выживание, Магия, Природа, Религия, Скрытность
+<br><br>
+Вы изучаете заклинания фокусы [prestidigitation] и чудотворство [thaumaturgy]. Кроме того, вы можете накладывать их без компонентов, пока вы находитесь в тусклом свете или темноте Интеллект / Мудрость / Харизма является вашей базовой характеристикой для этих заклинаний
+<br><br>
+После того как вы совершите действие Атака в свой ход, вы можете бонусным действие в этот ход, наложить заговор со временем накладывания «1 действие» или с места совершить количество рукопашных атак, равное половине вашего бонуса мастерства (округление в большую сторону). Каждая из этих атак должна быть направлена на отдельное существо. Использовав эту особенность, вы не можете использовать его повторно до окончания короткого или продолжительного отдыха
+]]></description><link>расы\гуманоид\тэнгу\тэнгу-ханатака.html</link><guid isPermaLink="false">Расы/Гуманоид/ТЭНГУ/ТЭНГУ-ХАНАТАКА.md</guid><pubDate>Tue, 30 Jan 2024 17:06:06 GMT</pubDate></item><item><title><![CDATA[Благословлённые луной]]></title><description><![CDATA[<a class="tag" href="?query=tag:Гуманоид" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Гуманоид</a> <a class="tag" href="?query=tag:Средний" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Средний</a> <a class="tag" href="?query=tag:30фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30фт</a> <a class="tag" href="?query=tag:Плаванье" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Плаванье</a> <a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> 
+ <br><br><br>
+Вы можете бонусным действием потратить количество ваших Костей Хитов, равное вашему бонусу мастерства. Бросьте эти кости и добавьте свой модификатор Телосложения; вы восстанавливаете количество хитов, равное общей сумме. Если это исцеление восстанавливает ваши хиты до максимума, излишек исцеления становится временными хитами. Если вы используете эту особенность, то не сможете сделать это снова, пока не окончите продолжительный отдых
+<br><br>
+Каждый нисикин рождается со своей уникальной окраской. В народных сказках нисикинов основной цвет имеет особое значение. Основной окрас также влияет на особенность «Дремлющий дракон» и связан с определенной характеристикой
+<br><br><br>
+Когда вы совершаете проверку характеристик или спасбросок, используя характеристику, связанную с вашей первичной окраской, вы добавляете бонус мастерства к броску
+<br><br>
+Вы можете дышать как воздухом, так и под водой
+<br><br>
+При определении вашей грузоподъёмности, а также веса, который вы можете толкать, тянуть и поднимать, вы считаетесь существом на один размер больше
+<br><br>
+Вы знаете: <a href=".?query=tag:Общий" class="tag" target="_blank" rel="noopener">#Общий</a> +1 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">язык</a> на выбор | ИЛИ | 2 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">языка</a> на выбор
+]]></description><link>расы\гуманоид\нисикин.html</link><guid isPermaLink="false">Расы/Гуманоид/НИСИКИН.md</guid><pubDate>Wed, 31 Jan 2024 15:35:54 GMT</pubDate></item><item><title><![CDATA[<a href="?query=tag:%D0%A2%D1%91%D0%BC%D0%BD%D0%BE%D0%B5_%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" class="tag" target="_blank" rel="noopener">#Тёмное_зрение</a>]]></title><description><![CDATA[<a class="tag" href="?query=tag:Дух_Фея" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Дух_Фея</a> <a class="tag" href="?query=tag:Маленький" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Маленький</a> <a class="tag" href="?query=tag:25фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25фт</a> <a class="tag" href="?query=tag:Тёмное_зрение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Тёмное_зрение</a> <a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> <a class="tag" href="?query=tag:Духовный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Духовный</a> <a class="tag" href="?query=tag:Подрасы" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Подрасы</a> 
+ <br><br><br>
+У Вас есть острые кошачьи чувства, особенно в темноте. На расстоянии в 60 футов вы при тусклом освещении можете видеть так, как будто это яркое освещение, и в темноте так, как будто это тусклое освещение. В темноте вы не можете различать цвета, только оттенки серого
+<br><br>
+Первозданная магия другой искры наделила вас особой тягой к жизни. В начале вашего жизненного пути вы имеете 9 жизней. Если ваши хиты опускаются до 0, вы больше не совершаете спасброски от смерти, а вместо этого тратите одну из жизней, после чего вы восстанавливаете количество хитов равное вашему уровню и получаете эффект заклинания эфирность [etherealness] до начала вашего следующего хода. В следующем ходу вы не можете совершать действия, так как становитесь дезориентированным.<br><br>Только заклинание исполнение желаний [wish] может восстановить количество жизней (максимум 9), однако если вы умрете окончательно, вас по прежнему можно воскресить используя заклинания возрождение [revivify], оживление [raise dead] и т.п. в таком случае у вас будет лишь одна жизнь.<br><br>Если вы создаете персонажа не первого уровня, то рассчитайте количество его жизней используя следующие формулы: на 5-м уровне 10 (4к4) (максимум 9), на 10-м уровне 7 (3к4) (максимум 7), на 15 уровне 5 (2к4) (максимум 5), на 20 уровне 2 (1к4) (максимум 3)
+<br><br>
+Вы адаптированы к жарким климатическим условиям
+<br><br>
+Вы владеете навыком Скрытности
+<br><br>
+Вы знаете: <a href=".?query=tag:Общий" class="tag" target="_blank" rel="noopener">#Общий</a> <a href=".?query=tag:Духовный" class="tag" target="_blank" rel="noopener">#Духовный</a>  +1 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">язык</a> на выбор 
+<br><br>
+<a data-href="КОТОВЕЦ-ПУСТЫННЫЕ КАРАВАНЩИКИ" href="\расы\дух_фея\котовец\котовец-пустынные-караванщики.html" class="internal-link" target="_self" rel="noopener">КОТОВЕЦ-ПУСТЫННЫЕ КАРАВАНЩИКИ</a><br>
+<a data-href="КОТОВЕЦ-ВОЛЬНЫЕ КОГТИ" href="\расы\дух_фея\котовец\котовец-вольные-когти.html" class="internal-link" target="_self" rel="noopener">КОТОВЕЦ-ВОЛЬНЫЕ КОГТИ</a>
+]]></description><link>расы\дух_фея\котовец\котовец.html</link><guid isPermaLink="false">Расы/Дух_Фея/Котовец/КОТОВЕЦ.md</guid><pubDate>Wed, 07 Feb 2024 12:19:09 GMT</pubDate></item><item><title><![CDATA[**Чувство опасности]]></title><description><![CDATA[ 
+ <br><br>
+Когда вы совершаете спасбросок вы можете перебросить одну из костей один раз. Вы можете использовать эту особенность количество раз, равное вашему бонусу мастерства и вы восстанавливаете все потраченные использования, когда окончите продолжительный отдых
+<br><br>
+Вы владеете навыком Убеждения
+]]></description><link>расы\дух_фея\котовец\котовец-вольные-когти.html</link><guid isPermaLink="false">Расы/Дух_Фея/Котовец/КОТОВЕЦ-ВОЛЬНЫЕ КОГТИ.md</guid><pubDate>Wed, 07 Feb 2024 12:19:20 GMT</pubDate></item><item><title><![CDATA[Пустынный караванщик]]></title><description><![CDATA[ 
+ <br><br>
+Вы владеете скимитаром и сетью
+<br><br>
+Вы знаете заговор фокусы [prestidigitation]]. Кроме того, начиная с 3-го уровня, вы можете накладывать заклинание обнаружение магии [detect magic] с помощью этой особенности. Начиная с 5-го уровня, вы также можете накладывать заклинание видение невидимого [see invisibility] с помощью этой особенности. После накладывания одного из этих заклинаний с помощью особенности вы должны закончить продолжительный отдых, прежде чем сможете снова наложить его таким образом. Вы также можете накладывать эти заклинания, используя любые имеющиеся у вас ячейки заклинаний подходящего уровня
+]]></description><link>расы\дух_фея\котовец\котовец-пустынные-караванщики.html</link><guid isPermaLink="false">Расы/Дух_Фея/Котовец/КОТОВЕЦ-ПУСТЫННЫЕ КАРАВАНЩИКИ.md</guid><pubDate>Tue, 30 Jan 2024 15:06:42 GMT</pubDate></item><item><title><![CDATA[<a href="?query=tag:%D0%A2%D1%91%D0%BC%D0%BD%D0%BE%D0%B5_%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" class="tag" target="_blank" rel="noopener">#Тёмное_зрение</a>]]></title><description><![CDATA[<a class="tag" href="?query=tag:Дух_Фея" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Дух_Фея</a> <a class="tag" href="?query=tag:Крошечный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Крошечный</a> <a class="tag" href="?query=tag:20фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20фт</a> <a class="tag" href="?query=tag:Тёмное_зрение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Тёмное_зрение</a> <a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> <a class="tag" href="?query=tag:Духовный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Духовный</a> <a class="tag" href="?query=tag:Подрасы" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Подрасы</a> 
+ <br><br><br>
+На расстоянии в 30 футов вы при тусклом освещении можете видеть так, как будто это яркое освещение, и в темноте так, как будто это тусклое освещение. В темноте вы не можете различать цвета, только оттенки серого
+<br><br>
+Вы владеете навыком Скрытность
+<br><br>
+Вы владеете набором травника
+<br><br>
+С помощью жестов и звуков мышинец может передавать простые идеи маленьким зверям
+<br><br>
+Мышинец совершает с преимуществом проверки Мудрости (Восприятия) полагающиеся на слух
+<br><br>
+Мышинец может в каждом своем ходу бонусным действием совершать действия Засада или Отход
+<br><br>
+Вы знаете: <a href=".?query=tag:Общий" class="tag" target="_blank" rel="noopener">#Общий</a> <a href=".?query=tag:Духовный" class="tag" target="_blank" rel="noopener">#Духовный</a>  +1 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">язык</a> на выбор 
+<br><br>
+<a data-href="МЫШИНЕЦ-ПОЛЕВАЯ МЫШЬ" href="\расы\дух_фея\мышинец\мышинец-полевая-мышь.html" class="internal-link" target="_self" rel="noopener">МЫШИНЕЦ-ПОЛЕВАЯ МЫШЬ</a><br>
+<a data-href="МЫШИНЕЦ-ГОРОДСКАЯ МЫШЬ" href="\расы\дух_фея\мышинец\мышинец-городская-мышь.html" class="internal-link" target="_self" rel="noopener">МЫШИНЕЦ-ГОРОДСКАЯ МЫШЬ</a><br>
+<a data-href="МЫШИНЕЦ-КРЫСА" href="\расы\дух_фея\мышинец\мышинец-крыса.html" class="internal-link" target="_self" rel="noopener">МЫШИНЕЦ-КРЫСА</a>
+]]></description><link>расы\дух_фея\мышинец\мышинец.html</link><guid isPermaLink="false">Расы/Дух_Фея/МЫШИНЕЦ/МЫШИНЕЦ.md</guid><pubDate>Wed, 31 Jan 2024 15:33:53 GMT</pubDate></item><item><title><![CDATA[Цепкие лапы]]></title><description><![CDATA[ 
+ <br><br>
+Из-за ваших ловких лап у вас есть скорость лазания, равная скорости ходьбы
+<br><br>
+Вы можете накладывать заклинание поиск фамильяра [find familiar] с помощью этой особенности. Когда вы накладываете это заклинание, вы также можете выбрать одну из следующих форм: орёл [eagle] или дикая собака [wild dog]. После накладывания заклинания с помощью этой особенности вы должны окончить продолжительный отдых, прежде чем сможете вновь наложить его таким образом
+]]></description><link>расы\дух_фея\мышинец\мышинец-городская-мышь.html</link><guid isPermaLink="false">Расы/Дух_Фея/МЫШИНЕЦ/МЫШИНЕЦ-ГОРОДСКАЯ МЫШЬ.md</guid><pubDate>Tue, 30 Jan 2024 16:39:50 GMT</pubDate></item><item><title><![CDATA[Отравители]]></title><description><![CDATA[ 
+ <br><br>
+Вы владеете инструментами отравителя
+<br><br>
+Вы владеете кнутом и можете использовать его как крюк-кошку.<br>
+Действием вы можете попытаться переместить предмет, находящийся в пределах 10 футов от вас, чей размер не больше Маленького. Если предмет не несут и не носят, вы автоматически перемещаете его на 10 футов в любом направлении. Если предмет несёт или носит существо, вы должны совершить проверку Силы (Атлетика), противопоставленную проверке Силы (Атлетика) или Ловкости (Акробатика) существа. Если это существо, больше вас на три или более категории, то вы совершаете эту проверку с помехой. Если вы выиграете проверку, вы вырываете предмет у этого существа, и можете переместить его на 10 футов в любом направлении. Вы можете использовать эту особенность количество раз, равное вашему бонусу мастерства. Вы восстанавливаете все израсходованные применения после окончания продолжительного отдыха
+]]></description><link>расы\дух_фея\мышинец\мышинец-крыса.html</link><guid isPermaLink="false">Расы/Дух_Фея/МЫШИНЕЦ/МЫШИНЕЦ-КРЫСА.md</guid><pubDate>Tue, 30 Jan 2024 16:40:26 GMT</pubDate></item><item><title><![CDATA[Быстроногие]]></title><description><![CDATA[ 
+ <br><br>
+Ваша базовая скорость ходьбы увеличивается до 30 футов
+<br><br>
+Вы можете предпринять попытку спрятаться, даже если вы слабо заслонены
+]]></description><link>расы\дух_фея\мышинец\мышинец-полевая-мышь.html</link><guid isPermaLink="false">Расы/Дух_Фея/МЫШИНЕЦ/МЫШИНЕЦ-ПОЛЕВАЯ МЫШЬ.md</guid><pubDate>Tue, 30 Jan 2024 15:14:35 GMT</pubDate></item><item><title><![CDATA[<a href="?query=tag:%D0%A2%D1%91%D0%BC%D0%BD%D0%BE%D0%B5_%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" class="tag" target="_blank" rel="noopener">#Тёмное_зрение</a>]]></title><description><![CDATA[<a class="tag" href="?query=tag:Дух_Фея" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Дух_Фея</a> <a class="tag" href="?query=tag:Средний" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Средний</a> <a class="tag" href="?query=tag:35фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#35фт</a> <a class="tag" href="?query=tag:Тёмное_зрение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Тёмное_зрение</a> <a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> <a class="tag" href="?query=tag:Духовный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Духовный</a> 
+ <br><br><br>
+На расстоянии 60 футов вы при тусклом освещении можете видеть так, как будто это яркое освещение, и в темноте так, как будто это тусклое освещение. В темноте вы не можете различать цвета, только оттенки серого
+<br><br>
+Вы владеете навыками Обман и Скрытность
+<br><br>
+Вам известен заговор искусство друидов [druidcraft] и сотворение пламени [produce flame]. Интеллект, Мудрость или Харизма является вашей базовой характеристикой для этих заклинаний (выберите одну из них при выборе этой расы)
+<br><br>
+У вас есть способность принимать магическую, восходящую форму. Действием вы можете излучать яркий белый свет в течение 1 минуты или до окончания эффекта использовав бонусное действие. Этот свет проникает сквозь магическую тьму, излучая яркий свет в пределах 10 футов и тусклый свет в пределах ещё 10 футов. Существа по вашему выбору, попавшие под свет, могут добавить 1к4 + бонус мастерства к своим проверкам Харизмы (Убеждения), Мудрости (Восприятие) и броскам инициативы. После того, как вы используете эту особенность, вы не можете использовать её снова, пока не закончите продолжительный отдых
+<br><br>
+Бонус действием вы можете превратиться в лисицу. При этом ваша одежда и снаряжение сливаются с вашей формой, и вы не получаете от них никаких преимуществ во время превращения. Вы сами определяете особенности своего облика в лисьей форме, включая окраску и размер (при превращении вы выбираете Крошечный или Маленький). Все остальные игровые параметры остаются неизменными. В этой форме вы не можете накладывать заклинания, но вы можете концентрироваться на заклинаниях. Вы остаетесь в этой форме до тех пор, пока не используете бонус действие, чтобы вернуться в свою человеческую форму
+<br><br>
+Вы можете выражать идеи с помощью движения, так же как и речь. Если вы потратите 1 минуту на то, чтобы подвигать хвостом и ушами, вы сможете передать простое сообщение, которое может противоречить любым словам, которые вы произносите вслух. Это сообщение невозможно обнаружить ни одному существу, которое не говорит на языке кицунэ. Существо в радиусе 30 футов от вас, которое может видеть и говорит на кицуне, может понять это сообщение
+<br><br>
+Вы знаете: <a href=".?query=tag:Общий" class="tag" target="_blank" rel="noopener">#Общий</a> <a href=".?query=tag:Духовный" class="tag" target="_blank" rel="noopener">#Духовный</a>  +1 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">язык</a> на выбор 
+]]></description><link>расы\дух_фея\кицунэ.html</link><guid isPermaLink="false">Расы/Дух_Фея/КИЦУНЭ.md</guid><pubDate>Wed, 31 Jan 2024 15:32:54 GMT</pubDate></item><item><title><![CDATA[Оболочка души.]]></title><description><![CDATA[<a class="tag" href="?query=tag:Конструкт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Конструкт</a> <a class="tag" href="?query=tag:Средний" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Средний</a> <a class="tag" href="?query=tag:30фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30фт</a> <a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> 
+ <br><br><br>
+Ваша душа вселилась в Конструкта, получив следующие преимущества:<br>
+- Вам не нужно есть, пить или дышать.<br>
+- Вы с преимуществом совершаете спасброски против болезней, а также для того, чтобы избежать или окончить на себе состояние отравленный.<br>
+Вы можете получать преимущества от заклинаний, восстанавливающих хиты, которые обычно не действуют на Конструктов, например, от заклинаний лечащее слово [healing word], и лечение ран [cure wounds]
+<br><br>
+Вам не нужно спать, и вас нельзя магически усыпить<br>
+Когда вы устраиваете продолжительный отдых, вы должны оставаться как минимум 6 часов без движения и активности, вместо сна. В таком состоянии вы становитесь неподвижны, но остаетесь в сознании и можете всё видеть и слышать
+<br><br>
+Ваше тело имеет встроенную защиту, которую можно усилить доспехом:<br>
+Вы можете встраивать только те доспехи, которыми вы владеете, и не можете встраивать щиты. Чтобы надеть доспех, вы должны встроить его в свое тело. Для этого вы должны быть в контакте с доспехом в течение 1 часа. Чтобы снять доспех, вы должны потратить 1 час на их извлечение<br>
+Вы можете встраивать или извлекать доспехи во время отдыха. Пока вы живы, ваши доспехи не могут быть изъяты из вашего тела против вашей воли
+<br><br>
+Вы получаете владение в навыках Восприятие
+<br><br>
+Вы обладаете иммунитетом ко всем заклинаниям и эффектам, изменяющим вашу форму против вашей воли
+<br><br>
+Ваши атаки оружием считаются магическими при определении преодоления сопротивления и иммунитета
+<br><br>
+Вы совершаете с преимуществом спасброски против любых заклинаний, которые нацелены на вас, а заклинания требующие бросок атаке совершаются по вам с помехой<br>
+Если вы преуспели в спасброске или заклинание не попало по вам, вы можете реакцией отразить заклинание в заклинателя
+<br><br>
+Вы знаете: <a href=".?query=tag:Общий" class="tag" target="_blank" rel="noopener">#Общий</a> +1 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">язык</a> на выбор | ИЛИ | 2 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">языка</a> на выбор
+]]></description><link>расы\конструкт\ханива.html</link><guid isPermaLink="false">Расы/Конструкт/ХАНИВА.md</guid><pubDate>Wed, 31 Jan 2024 15:36:33 GMT</pubDate></item><item><title><![CDATA[<a href="?query=tag:%D0%9E%D0%B1%D0%BC%D0%B0%D0%BD%D1%87%D0%B8%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D1%8C" class="tag" target="_blank" rel="noopener">#Обманчивая_внешность</a>]]></title><description><![CDATA[<a class="tag" href="?query=tag:Растение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Растение</a> <a class="tag" href="?query=tag:Большой" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Большой</a> <a class="tag" href="?query=tag:30фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30фт</a> <a class="tag" href="?query=tag:Обманчивая_внешность" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Обманчивая_внешность</a> <a class="tag" href="?query=tag:Фотосинтез" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Фотосинтез</a> <a class="tag" href="?query=tag:Общающиеся_с_растениями" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общающиеся_с_растениями</a> <a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> <a class="tag" href="?query=tag:Духовный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Духовный</a> 
+ <br><br><br>
+Если существо не наблюдало за вами, это существо должно преуспеть в проверке Интеллекта (Расследование) Сл 18, чтобы определить, что вы не являетесь обычным растением
+<br><br>
+Когда вы устраиваете продолжительный отдых, вы должны оставаться как минимум 6 часов неподвижно, вы все так же остаётесь в сознании и можете все видеть и слышать. Проведя продолжительный отдых подобным образом вам не надо есть и пить в этот день.
+<br><br>
+Вы можете общаться с Растениями
+<br><br>
+Вы можете действием пустить корни в любую рыхлую поверхность. Таким образом корни удерживают вас на месте даруя иммунитет к состоянию сбитый с ног, но при этом любая ваша скорость равна 0. Помимо этого, находясь в подобном положении ваши рукопашные атаки дополнительно наносят урон равный вашему модификатору Силы. Вы можете прервать укоренение действием
+<br><br>
+Ваша грубая кора защищает вас от ударов. Вы получаете +1 к КД
+<br><br>
+Вы знаете: <a href=".?query=tag:Общий" class="tag" target="_blank" rel="noopener">#Общий</a> <a href=".?query=tag:Духовный" class="tag" target="_blank" rel="noopener">#Духовный</a> (<a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">языки</a>)  
+]]></description><link>расы\растение\древан.html</link><guid isPermaLink="false">Расы/Растение/ДРЕВАН.md</guid><pubDate>Sat, 17 Feb 2024 20:23:22 GMT</pubDate></item><item><title><![CDATA[<a href="?query=tag:%D0%9E%D0%B1%D0%BC%D0%B0%D0%BD%D1%87%D0%B8%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D1%8C" class="tag" target="_blank" rel="noopener">#Обманчивая_внешность</a>]]></title><description><![CDATA[<a class="tag" href="?query=tag:Растение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Растение</a> <a class="tag" href="?query=tag:Маленький" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Маленький</a> <a class="tag" href="?query=tag:Крошечный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Крошечный</a> <a class="tag" href="?query=tag:10фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#10фт</a> <a class="tag" href="?query=tag:Плаванье" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Плаванье</a> <a class="tag" href="?query=tag:Лазанье" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Лазанье</a> <a class="tag" href="?query=tag:Обманчивая_внешность" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Обманчивая_внешность</a> <a class="tag" href="?query=tag:Фотосинтез" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Фотосинтез</a> <a class="tag" href="?query=tag:Общающиеся_с_растениями" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общающиеся_с_растениями</a> <a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> <a class="tag" href="?query=tag:Духовный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Духовный</a> 
+ <br><br><br>
+Если существо не наблюдало за вами, это существо должно преуспеть в проверке Интеллекта (Расследование) Сл 18, чтобы определить, что вы не являетесь обычным растением
+<br><br>
+Когда вы устраиваете продолжительный отдых, вы должны оставаться как минимум 6 часов неподвижно, вы все так же остаётесь в сознании и можете все видеть и слышать. Проведя продолжительный отдых подобным образом вам не надо есть и пить в этот день.
+<br><br>
+Вы можете общаться с Растениями
+<br><br>
+Вода ваша родная стихия, вы передвинаетесь в / по воде в 6 раз быстрее, чем по суше
+<br><br>
+Вы можете дышать под водой
+<br><br>
+Вы получаете владение в одном из следующих навыков на выбор: Акробатика, Выживание, Выступление, Природа, или Уход за животными
+<br><br>
+На коротком и продолжительном отдыхе вы можете создать несколько временных зелий, редкостью по таблице<br>
+Вы можете создать количество зелий равное утроенному бонусу мастерства, при создание новых зелий сверх количества, остальные превращаются в воду
+<br><br><br>
+Вы можете действием произнести одно из трёх ключевых слов, после чего из графина выливается указанное количество пресной или солёной воды (на ваш выбор). Вода прекращает литься в начале вашего следующего хода. У вас есть следующие варианты:<br>
+«Ручей» производит 1 галлон (4 литра) воды.<br>
+«Фонтан» производит 5 галлонов (19 литров) воды.<br>
+«Гейзер» производит 30 галлонов (114 литров) воды, которая вырывается струёй 30 футов длиной и 1 фут шириной. Держа графин, вы можете бонусным действием нацелиться графином на существо, которое видите в пределах 30 футов от себя. Цель должна преуспеть в спасброске Силы Сл 13, иначе получит 1к4 дробящего урона и будет сбита с ног. Вместо существа вы можете нацелиться на предмет, который никто не несёт и не носит, и который весит не больше 200 фунтов. Предмет или падает или толкается на 15 футов от вас
+<br><br>
+Вы знаете: <a href=".?query=tag:Общий" class="tag" target="_blank" rel="noopener">#Общий</a> <a href=".?query=tag:Духовный" class="tag" target="_blank" rel="noopener">#Духовный</a> (<a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">языки</a>)  
+]]></description><link>расы\растение\фунаюрэй.html</link><guid isPermaLink="false">Расы/Растение/ФУНАЮРЭЙ.md</guid><pubDate>Sat, 17 Feb 2024 20:23:16 GMT</pubDate></item><item><title><![CDATA[Гуманоиды]]></title><description><![CDATA[<a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> <a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> <a class="tag" href="?query=tag:Духовный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Духовный</a> <a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> <a class="tag" href="?query=tag:Духовный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Духовный</a> 
+ <br>Способности расы можно выбирать из стандартных или мультивселенной
+Copy<br><br>
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/human" rel="noopener" class="external-link" href="https://ttg.club/races/human" target="_blank">Человек</a> / <a data-tooltip-position="top" aria-label="https://ttg.club/races/human/human_(variant)" rel="noopener" class="external-link" href="https://ttg.club/races/human/human_(variant)" target="_blank">Человек (вариант)</a> / <a data-tooltip-position="top" aria-label="https://ttg.club/races/kalashtar" rel="noopener" class="external-link" href="https://ttg.club/races/kalashtar" target="_blank">Калаштар</a>
+
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/kender" rel="noopener" class="external-link" href="https://ttg.club/races/kender" target="_blank">Кендер</a> / <a data-tooltip-position="top" aria-label="https://ttg.club/races/halfling" rel="noopener" class="external-link" href="https://ttg.club/races/halfling" target="_blank">Полурослик</a> [ Легконогий / Коренастый / Призрачный ]
+
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/gnome" rel="noopener" class="external-link" href="https://ttg.club/races/gnome" target="_blank">Гном</a> [ Лесной / Скальный / Глубынный ]
+
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/genasi_water_mpmm" rel="noopener" class="external-link" href="https://ttg.club/races/genasi_water_mpmm" target="_blank">Дженази</a> (Любая раса &gt; Потомок духов)
+
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/shifter" rel="noopener" class="external-link" href="https://ttg.club/races/shifter" target="_blank">Шифтер</a> (постоянно в форме зверя)
+
+<br><br>
+Вы знаете: <a href=".?query=tag:Общий" class="tag" target="_blank" rel="noopener">#Общий</a> +1 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">язык</a> на выбор | ИЛИ | 2 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">языка</a> на выбор
+<br><br>
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/grung" rel="noopener" class="external-link" href="https://ttg.club/races/grung" target="_blank">Грунг</a>
+
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/centaur" rel="noopener" class="external-link" href="https://ttg.club/races/centaur" target="_blank">Кентавр</a> (Большой размер, Скорость - 50)
+
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/loxodon" rel="noopener" class="external-link" href="https://ttg.club/races/loxodon" target="_blank">Локсодон</a> (Большой размер, Скорость - 35)
+
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/minotaur" rel="noopener" class="external-link" href="https://ttg.club/races/minotaur" target="_blank">Минотавр</a> (Большой размер, Скорость - 35)
+
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/satyr" rel="noopener" class="external-link" href="https://ttg.club/races/satyr" target="_blank">Сатир</a>
+
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/harengon" rel="noopener" class="external-link" href="https://ttg.club/races/harengon" target="_blank">Харенгон</a>
+
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/tabaxi" rel="noopener" class="external-link" href="https://ttg.club/races/tabaxi" target="_blank">Табакси</a> / <a data-tooltip-position="top" aria-label="https://ttg.club/races/leonin" rel="noopener" class="external-link" href="https://ttg.club/races/leonin" target="_blank">Леонин</a> (Все виды кошачих)
+
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/yuan-ti" rel="noopener" class="external-link" href="https://ttg.club/races/yuan-ti" target="_blank">Юань-ти</a> (Ближе к змее / наге по виду)
+
+<br>
+<br><a data-tooltip-position="top" aria-label="https://ttg.club/races/siren" rel="noopener" class="external-link" href="https://ttg.club/races/siren" target="_blank">Сирена</a>
+<br><br>
+Вы знаете: <a href=".?query=tag:Общий" class="tag" target="_blank" rel="noopener">#Общий</a> <a href=".?query=tag:Духовный" class="tag" target="_blank" rel="noopener">#Духовный</a>  +1 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">язык</a> на выбор 
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://ttg.club/races/mushroom" rel="noopener" class="external-link" href="https://ttg.club/races/mushroom" target="_blank">Грибнит</a>
+<br><br>
+Вы знаете: <a href=".?query=tag:Общий" class="tag" target="_blank" rel="noopener">#Общий</a> <a href=".?query=tag:Духовный" class="tag" target="_blank" rel="noopener">#Духовный</a>  
+<br><br>
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/dwarf/duergar" rel="noopener" class="external-link" href="https://ttg.club/races/dwarf/duergar" target="_blank">Дварф</a>  (Размер - Огромный, Дуэргарская магия заменяется на <a data-tooltip-position="top" aria-label="https://ttg.club/races/genasi_fair_mpmm" rel="noopener" class="external-link" href="https://ttg.club/races/genasi_fair_mpmm" target="_blank">Выброс пламени</a>, Вглядят как Орн) 
+
+<br>
+<a data-tooltip-position="top" aria-label="https://ttg.club/races/goliath" rel="noopener" class="external-link" href="https://ttg.club/races/goliath" target="_blank">Голиаф</a> (Размер - Огромный, Выглядят как Волибир)
+
+<br><br>
+Вы знаете: 2 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\мир\языки.html" class="internal-link" target="_self" rel="noopener">языка</a> на выбор
+]]></description><link>расы\стандартные.html</link><guid isPermaLink="false">Расы/Стандартные.md</guid><pubDate>Thu, 15 Feb 2024 20:16:43 GMT</pubDate></item><item><title><![CDATA[Содержание]]></title><description><![CDATA[ 
+ <br><br>Note<a class="internal-link" href="\черты\измененные\мастер-большого-оружия-great-weapon-master.html" target="_self"></a>- “Перед совершением рукопашной атаки оружием со свойством Тяжёл...1/31/2024, 4:16:02 PMNote<a class="internal-link" href="\черты\измененные\меткий-стрелок-sharpshooter.html" target="_self"></a>- “Перед совершением атаки дальнобойным оружием, которым вы влад...1/31/2024, 4:15:17 PM<br><br>
+<br><a data-href="Мастер большого оружия - Great Weapon Master" href="\черты\измененные\мастер-большого-оружия-great-weapon-master.html" class="internal-link" target="_self" rel="noopener">Мастер большого оружия - Great Weapon Master</a>
+<br><a data-href="Меткий стрелок - Sharpshooter" href="\черты\измененные\меткий-стрелок-sharpshooter.html" class="internal-link" target="_self" rel="noopener">Меткий стрелок - Sharpshooter</a>
+<br>]]></description><link>черты\измененные\измененные.html</link><guid isPermaLink="false">Черты/Измененные/Измененные.md</guid><pubDate>Wed, 21 Feb 2024 17:19:54 GMT</pubDate></item><item><title><![CDATA[Мастер большого оружия - Great Weapon Master]]></title><description><![CDATA[ 
+ <br>
+<br>
+“Перед совершением рукопашной атаки оружием со свойством Тяжёлое, которым вы владеете, вы можете принять штраф −5 к броску атаки. Если такая атака попадает, вы добавляете +10 к урону от этой атаки.
+
+<br>
+Изменено на:<br>
+“Перед ... штраф −БМ ... добавляете (+БМ x 2) к урону от этой атаки”
+
+]]></description><link>черты\измененные\мастер-большого-оружия-great-weapon-master.html</link><guid isPermaLink="false">Черты/Измененные/Мастер большого оружия - Great Weapon Master.md</guid><pubDate>Wed, 31 Jan 2024 13:16:02 GMT</pubDate></item><item><title><![CDATA[Меткий стрелок - Sharpshooter]]></title><description><![CDATA[ 
+ <br>
+<br>
+“Перед совершением атаки дальнобойным оружием, которым вы владеете, вы можете принять штраф −5 к броску атаки. Если такая атака попадает, вы добавляете +10 к урону от этой атаки”
+
+<br>
+Изменено на:<br>
+“Перед ... штраф −БМ ... добавляете (БМ x 2) к урону от этой атаки”
+
+]]></description><link>черты\измененные\меткий-стрелок-sharpshooter.html</link><guid isPermaLink="false">Черты/Измененные/Меткий стрелок - Sharpshooter.md</guid><pubDate>Wed, 31 Jan 2024 13:15:17 GMT</pubDate></item><item><title><![CDATA[ДРЕВНИЙ РИТУАЛ]]></title><description><![CDATA[<a class="tag" href="?query=tag:Черта" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Черта</a> 
+ <br><a href=".?query=tag:Черта" class="tag" target="_blank" rel="noopener">#Черта</a><br><br><br>
+В конце продолжительного отдыха, расходуя древние руны котовцев, стоящие в сумме 1000 зм, вы можете создать древний магический свиток. В любой момент, потратив действие, вы можете прочитать записи, написанные на свитке. При прочтении этого свитка у котовца восстановится одна из жизней, а также отрастет дополнительный хвост (максимум у вас может быть 9 хвостов) после чего свиток исчезнет в искрах молний. Единовременно у вас может быть только 9 жизней. Если вы попытаетесь таким образом получить десятую, то свиток просто исчезнет
+Древние руны котовцев очень редко встречаются, но их можно найти в торговых шатрах пустыни или иногда в магических лавках
+<br><br>
+Когда количество ваших хвостов становится больше 4, у вас появляется возможность перевоплощаться. Действием вы можете принять облик любого Маленького или Среднего Гуманоида, которого когда-либо видели, или свой естественный облик. Ваши характеристики, кроме размера, одинаковы в любом облике. Ваше снаряжение не трансформируется. Если ваши хиты опустятся до 0, вы принимаете свой естественный облик
+]]></description><link>черты\древний-ритуал.html</link><guid isPermaLink="false">Черты/ДРЕВНИЙ РИТУАЛ.md</guid><pubDate>Tue, 30 Jan 2024 17:51:42 GMT</pubDate></item><item><title><![CDATA[МЫШИНЫЙ ПУТЕШЕСТВЕННИК]]></title><description><![CDATA[<a class="tag" href="?query=tag:Черта" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Черта</a> 
+ <br><a href=".?query=tag:Черта" class="tag" target="_blank" rel="noopener">#Черта</a><br><br><br>
+Увеличьте значение вашей Ловкости, Телосложения или Интеллекта на 1 при максимуме 20
+<br><br>
+Вы запасаете полезные объекты и, будто достаете их в нужный момент. Действием вы можете начать рыскать в своих вещах и отыскать в них предмет, покупку которого вы не оговаривали ранее, вы интуитивно предположили, что он вам понадобится и купили его в последний момент (вы должны вычесть из своих монет цену этого предмета). Этот предмет не может стоить дороже 50 золотых монет и весить больше 7 фунтов. Вы можете использовать эту черту количество раз, равное вашему бонусу мастерства и вы восстанавливаете все потраченные использования, когда посетите деревню или город
+Ограничение на стоимость предмета уменьшается по мере роста уровня: на 5-м уровне (200 зм), на 11-м уровне (2000 зм) и на 17-м уровне (20000 зм)
+Таким образом вы способны достать предметы, упоминаемые в главах<br>
+«Оружие», «Снаряжение», «Инструменты», из «Книги игрока». Однако, если Мастер разрешит, вы сможете доставать расходуемые магические предметы, которые удовлетворяют условиям приведенным выше
+]]></description><link>черты\мышиный-путешественник.html</link><guid isPermaLink="false">Черты/МЫШИНЫЙ ПУТЕШЕСТВЕННИК.md</guid><pubDate>Tue, 30 Jan 2024 17:51:47 GMT</pubDate></item><item><title><![CDATA[ПОВЕЛИТЕЛЬ КОРНЕЙ]]></title><description><![CDATA[<a class="tag" href="?query=tag:Черта" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Черта</a> 
+ <br><a href=".?query=tag:Черта" class="tag" target="_blank" rel="noopener">#Черта</a><br><br>Вы научились гораздо лучше контролировать свои корни. Вы также получаете следующие преимущества, когда находитесь под действием особенности «Укоренение»:<br>Местность в пределах 30 футов от вас становится труднопроходимой для врагов<br>Когда существо в пределах 10 футов от вас перемещается, вы можете реакцией попытаться схватить его корнями. Совершите проверку Силы (Атлетика), противопоставленную проверке Силы (Атлетика) или Ловкости (Акробатика) цели (цель сама выбирает, какую характеристику использовать). Если вы преуспеете, цель становится опутанной. Отпутанное существо может повторять эту проверку в конце своего хода, в случае успеха переставая быть опутанным. Когда вы прерываете укоренение, то так же перестаете удерживать цели опутанными]]></description><link>черты\повелитель-корней.html</link><guid isPermaLink="false">Черты/ПОВЕЛИТЕЛЬ КОРНЕЙ.md</guid><pubDate>Tue, 30 Jan 2024 17:51:50 GMT</pubDate></item><item><title><![CDATA[ЧЁРНАЯ КОШКА]]></title><description><![CDATA[<a class="tag" href="?query=tag:Черта" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Черта</a> 
+ <br><a href=".?query=tag:Черта" class="tag" target="_blank" rel="noopener">#Черта</a><br><br><br>
+Увеличьте значение Мудрости или Харизмы на 1 при максимуме 20
+<br><br>
+Вы изучаете заклинание проклятие [bestow curse], которое можете наложить один раз не тратя ячейку заклинаний. Когда вы накладываете заклинание проклятие [bestow curse], его дистанция равна 60 футам, а так же оно не требует вербальных и соматических компонентов. Также начиная с 9-го уровня персонажа, заклинание перестает требовать концентрацию<br>
+Вы восстанавливаете возможность накладывать заклинание таким образом в конце продолжительного отдыха. Вашей базовой характеристикой для заклинаний этой черты — Мудрость / Харизма 
+]]></description><link>черты\чёрная-кошка.html</link><guid isPermaLink="false">Черты/ЧЁРНАЯ КОШКА.md</guid><pubDate>Tue, 30 Jan 2024 17:51:57 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br>FolderContains 0 folders, 3 notes.ИзмененныеNote<a class="internal-link" href="\черты\древний-ритуал.html" target="_self"></a>Черта,  Требование: МЫШИНЕЦ,  Ритуальный свиток,  Перевоплощение1/30/2024, 8:51:42 PMNote<a class="internal-link" href="\черты\мышиный-путешественник.html" target="_self"></a>Черта,  Требование: МЫШИНЕЦ,  Увеличение характеристик,  Бездонн...1/30/2024, 8:51:47 PMNote<a class="internal-link" href="\черты\повелитель-корней.html" target="_self"></a>Вы научились гораздо лучше контролировать свои корни. Вы также п...1/30/2024, 8:51:50 PMNote<a class="internal-link" href="\черты\чёрная-кошка.html" target="_self"></a>Черта,  Требование: 5 уровень, КОТОВЕЦ,  Увеличение характеристи...1/30/2024, 8:51:57 PM<br><br>
+<br><a data-href="ДРЕВНИЙ РИТУАЛ" href="\черты\древний-ритуал.html" class="internal-link" target="_self" rel="noopener">ДРЕВНИЙ РИТУАЛ</a>
+<br><a data-href="Измененные" href="\черты\измененные\измененные.html" class="internal-link" target="_self" rel="noopener">Измененные</a>
+<br><a data-href="МЫШИНЫЙ ПУТЕШЕСТВЕННИК" href="\черты\мышиный-путешественник.html" class="internal-link" target="_self" rel="noopener">МЫШИНЫЙ ПУТЕШЕСТВЕННИК</a>
+<br><a data-href="ПОВЕЛИТЕЛЬ КОРНЕЙ" href="\черты\повелитель-корней.html" class="internal-link" target="_self" rel="noopener">ПОВЕЛИТЕЛЬ КОРНЕЙ</a>
+<br><a data-href="ЧЁРНАЯ КОШКА" href="\черты\чёрная-кошка.html" class="internal-link" target="_self" rel="noopener">ЧЁРНАЯ КОШКА</a>
+<br>]]></description><link>черты\черты.html</link><guid isPermaLink="false">Черты/Черты.md</guid><pubDate>Wed, 21 Feb 2024 17:19:54 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br>Открыто : )]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Wed, 31 Jan 2024 15:46:37 GMT</pubDate></item></channel></rss>
