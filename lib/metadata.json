@@ -1,24 +1,32 @@
 {
   "vaultName": "JCompain",
-  "lastExport": 1710768481984,
+  "lastExport": 1712702331183,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "__ЗАМЕТКИ/Группа_1/Оружия/Оружия.md",
+    "__ЗАМЕТКИ/Группа_1/Оружия/Подковы Бортоломы.md",
+    "__ЗАМЕТКИ/Группа_1/Оружия/Чакрум.md",
+    "__ЗАМЕТКИ/Группа_1/Оружия/Чакрум.jpg",
+    "__ЗАМЕТКИ/Группа_1/Предметы/Рог Сатиров.md",
+    "__ЗАМЕТКИ/Группа_1/Предметы/Ступа и пест (из поместья Шена).md",
+    "Заклинания/0/Починка.md",
     "Классы/Варвар/Варвар.md",
     "Классы/Варвар/Путь Кровавого Бедствия.md",
     "Классы/Савант/Просвещенный Драконом.md",
     "Классы/ВЕДЬМА.md",
     "Классы/Классы.md",
     "Классы/МОНАХ.md",
-    "Мир/Карты/Haurai 2024-02-14-23-46.map",
-    "Мир/Карты/World.dungeondraft_map",
+    "Мир/Карты/Haurai 2024-03-29-16-43.map",
+    "Мир/Карты/Rouvreland 2024-03-27-22-23.map",
     "Мир/Карты/world_old.map",
     "Мир/Карты/Биомная.jpeg",
     "Мир/Карты/Политическая.jpeg",
     "Мир/Карты/Рельефная.jpeg",
     "Мир/Карты/Топографическая.jpeg",
+    "Мир/Страны/Республика Хаи/browser_SOTH7Zh41q.png",
     "Мир/Страны/Священная империя Хар/_заметки.md",
     "Мир/Страны/Священная империя Хар/Блюда.md",
     "Мир/Страны/Священная империя Хар/Важные Люди.md",
@@ -27,10 +35,6 @@
     "Мир/Страны/Священная империя Хар/Система Правления.md",
     "Мир/Мир.md",
     "Мир/Языки.md",
-    "Оружия/Оружия.md",
-    "Оружия/Подковы Бортоломы.md",
-    "Оружия/Чакрум.md",
-    "Оружия/Чакрум.jpg",
     "Правила/“Стакающееся” преимущество и помеха.md",
     "Правила/Атака бонусным действием.md",
     "Правила/Встать.md",
@@ -49,8 +53,6 @@
     "Правила/Состояние Здоровья.md",
     "Правила/Спасброски от смерти.md",
     "Правила/Сражение двумя оружиями.md",
-    "Предметы/Рог Сатиров.md",
-    "Предметы/Ступа и пест (из поместья Шена).md",
     "Расы/Гуманоид/ОНИРОЖДЁННЫЙ/ОНИРОЖДЁННЫЙ.md",
     "Расы/Гуманоид/ОНИРОЖДЁННЫЙ/ОНИРОЖДЁННЫЙ-ЗЕЛЁНЫЙ.md",
     "Расы/Гуманоид/ОНИРОЖДЁННЫЙ/ОНИРОЖДЁННЫЙ-КРАСНЫЙ.md",
@@ -59,20 +61,20 @@
     "Расы/Гуманоид/ТЭНГУ/ТЭНГУ-КАРАСУ.md",
     "Расы/Гуманоид/ТЭНГУ/ТЭНГУ-ХАНАТАКА.md",
     "Расы/Гуманоид/НИСИКИН.md",
-    "Расы/Дух_Фея/Котовец/КОТОВЕЦ.md",
-    "Расы/Дух_Фея/Котовец/КОТОВЕЦ-ВОЛЬНЫЕ КОГТИ.md",
-    "Расы/Дух_Фея/Котовец/КОТОВЕЦ-ПУСТЫННЫЕ КАРАВАНЩИКИ.md",
+    "Расы/Дух_Фея/КОТОВЕЦ/КОТОВЕЦ.md",
+    "Расы/Дух_Фея/КОТОВЕЦ/КОТОВЕЦ-ВОЛЬНЫЕ КОГТИ.md",
+    "Расы/Дух_Фея/КОТОВЕЦ/КОТОВЕЦ-ПУСТЫННЫЕ КАРАВАНЩИКИ.md",
     "Расы/Дух_Фея/МЫШИНЕЦ/МЫШИНЕЦ.md",
     "Расы/Дух_Фея/МЫШИНЕЦ/МЫШИНЕЦ-ГОРОДСКАЯ МЫШЬ.md",
     "Расы/Дух_Фея/МЫШИНЕЦ/МЫШИНЕЦ-КРЫСА.md",
     "Расы/Дух_Фея/МЫШИНЕЦ/МЫШИНЕЦ-ПОЛЕВАЯ МЫШЬ.md",
     "Расы/Дух_Фея/КИЦУНЭ.md",
-    "Расы/Конструкт/ХАНИВА.md",
+    "Расы/Конструкт/ХАНИВА/Живая оболочка.md",
+    "Расы/Конструкт/ХАНИВА/ХАНИВА.md",
+    "Расы/Конструкт/ХАНИВА/Цельнометалический.md",
     "Расы/Растение/ДРЕВАН.md",
     "Расы/Растение/ФУНАЮРЭЙ.md",
     "Расы/Стандартные.md",
-    "Создание персонажа/Вопросы на 0 сэссии.md",
-    "Создание персонажа/Создание персонажа.md",
     "Черты/Измененные/Измененные.md",
     "Черты/Измененные/Мастер большого оружия - Great Weapon Master.md",
     "Черты/Измененные/Меткий стрелок - Sharpshooter.md",
@@ -82,6 +84,7 @@
     "Черты/ЧЁРНАЯ КОШКА.md",
     "Черты/Черты.md",
     "index.md",
+    "Создание персонажа.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -111,7 +114,7 @@
     "lib/styles/other-plugins.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
-    "оружия/чакрум.jpg"
+    "__заметки/группа_1/оружия/чакрум.jpg"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -158,21 +161,9 @@
       "dependencies": []
     },
     "Классы/МОНАХ.md": {
-      "modifiedTime": 1710768481984,
-      "sourceSize": 20968,
+      "modifiedTime": 1712702331183,
+      "sourceSize": 20938,
       "exportedPath": "классы/монах.html",
-      "dependencies": []
-    },
-    "Мир/Карты/Haurai 2024-02-14-23-46.map": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 2687003,
-      "exportedPath": "мир/карты/haurai-2024-02-14-23-46.map",
-      "dependencies": []
-    },
-    "Мир/Карты/World.dungeondraft_map": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 410783,
-      "exportedPath": "мир/карты/world.dungeondraft_map",
       "dependencies": []
     },
     "Мир/Карты/world_old.map": {
@@ -224,7 +215,7 @@
       "dependencies": []
     },
     "Мир/Страны/Священная империя Хар/Священная империя Хар.md": {
-      "modifiedTime": 1709934050095,
+      "modifiedTime": 1712406505430,
       "sourceSize": 236,
       "exportedPath": "мир/страны/священная-империя-хар/священная-империя-хар.html",
       "dependencies": []
@@ -236,8 +227,8 @@
       "dependencies": []
     },
     "Мир/Мир.md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 199,
+      "modifiedTime": 1712702331183,
+      "sourceSize": 1186,
       "exportedPath": "мир/мир.html",
       "dependencies": []
     },
@@ -245,32 +236,6 @@
       "modifiedTime": 1709934050095,
       "sourceSize": 1089,
       "exportedPath": "мир/языки.html",
-      "dependencies": []
-    },
-    "Оружия/Оружия.md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 153,
-      "exportedPath": "оружия/оружия.html",
-      "dependencies": []
-    },
-    "Оружия/Подковы Бортоломы.md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 2659,
-      "exportedPath": "оружия/подковы-бортоломы.html",
-      "dependencies": []
-    },
-    "Оружия/Чакрум.md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 1244,
-      "exportedPath": "оружия/чакрум.html",
-      "dependencies": [
-        "оружия/чакрум.jpg"
-      ]
-    },
-    "Оружия/Чакрум.jpg": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 147962,
-      "exportedPath": "оружия/чакрум.jpg",
       "dependencies": []
     },
     "Правила/“Стакающееся” преимущество и помеха.md": {
@@ -376,8 +341,8 @@
       "dependencies": []
     },
     "Расы/Гуманоид/ОНИРОЖДЁННЫЙ/ОНИРОЖДЁННЫЙ-СИНИЙ.md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 2450,
+      "modifiedTime": 1712406505430,
+      "sourceSize": 2460,
       "exportedPath": "расы/гуманоид/онирождённый/онирождённый-синий.html",
       "dependencies": []
     },
@@ -400,27 +365,9 @@
       "dependencies": []
     },
     "Расы/Гуманоид/НИСИКИН.md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 2593,
+      "modifiedTime": 1712406505430,
+      "sourceSize": 2701,
       "exportedPath": "расы/гуманоид/нисикин.html",
-      "dependencies": []
-    },
-    "Расы/Дух_Фея/Котовец/КОТОВЕЦ.md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 2930,
-      "exportedPath": "расы/дух_фея/котовец/котовец.html",
-      "dependencies": []
-    },
-    "Расы/Дух_Фея/Котовец/КОТОВЕЦ-ВОЛЬНЫЕ КОГТИ.md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 606,
-      "exportedPath": "расы/дух_фея/котовец/котовец-вольные-когти.html",
-      "dependencies": []
-    },
-    "Расы/Дух_Фея/Котовец/КОТОВЕЦ-ПУСТЫННЫЕ КАРАВАНЩИКИ.md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 1164,
-      "exportedPath": "расы/дух_фея/котовец/котовец-пустынные-караванщики.html",
       "dependencies": []
     },
     "Расы/Дух_Фея/МЫШИНЕЦ/МЫШИНЕЦ.md": {
@@ -453,12 +400,6 @@
       "exportedPath": "расы/дух_фея/кицунэ.html",
       "dependencies": []
     },
-    "Расы/Конструкт/ХАНИВА.md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 3631,
-      "exportedPath": "расы/конструкт/ханива.html",
-      "dependencies": []
-    },
     "Расы/Растение/ДРЕВАН.md": {
       "modifiedTime": 1709934050095,
       "sourceSize": 1971,
@@ -472,8 +413,8 @@
       "dependencies": []
     },
     "Расы/Стандартные.md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 2484,
+      "modifiedTime": 1712406505430,
+      "sourceSize": 2591,
       "exportedPath": "расы/стандартные.html",
       "dependencies": []
     },
@@ -532,175 +473,175 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1710768481984,
-      "sourceSize": 40272,
+      "modifiedTime": 1712702331183,
+      "sourceSize": 44612,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1710768481984,
-      "sourceSize": 5408,
+      "modifiedTime": 1712702331183,
+      "sourceSize": 5600,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1710768481984,
-      "sourceSize": 157356,
+      "modifiedTime": 1712702331183,
+      "sourceSize": 157786,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1710768481984,
+      "modifiedTime": 1712702331183,
       "sourceSize": 4073,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
@@ -723,12 +664,6 @@
       "exportedPath": "правила/комбо-атаки.html",
       "dependencies": []
     },
-    "оружия/чакрум.jpg": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 147962,
-      "exportedPath": "оружия/чакрум.jpg",
-      "dependencies": []
-    },
     "Правила/Сбор добычи.md": {
       "modifiedTime": 1709934050095,
       "sourceSize": 12846,
@@ -739,18 +674,6 @@
       "modifiedTime": 1709934050095,
       "sourceSize": 8021,
       "exportedPath": "правила/готовка.html",
-      "dependencies": []
-    },
-    "Предметы/Рог Сатиров.md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 787,
-      "exportedPath": "предметы/рог-сатиров.html",
-      "dependencies": []
-    },
-    "Предметы/Ступа и пест (из поместья Шена).md": {
-      "modifiedTime": 1709934050095,
-      "sourceSize": 2028,
-      "exportedPath": "предметы/ступа-и-пест-(из-поместья-шена).html",
       "dependencies": []
     },
     "Классы/Варвар/Варвар.md": {
@@ -766,21 +689,119 @@
       "dependencies": []
     },
     "Классы/Савант/Просвещенный Драконом.md": {
-      "modifiedTime": 1710768481984,
-      "sourceSize": 3527,
+      "modifiedTime": 1712702331183,
+      "sourceSize": 3608,
       "exportedPath": "классы/савант/просвещенный-драконом.html",
       "dependencies": []
     },
-    "Создание персонажа/Вопросы на 0 сэссии.md": {
-      "modifiedTime": 1710768481984,
-      "sourceSize": 1158,
-      "exportedPath": "создание-персонажа/вопросы-на-0-сэссии.html",
+    "__ЗАМЕТКИ/Группа_1/Оружия/Оружия.md": {
+      "modifiedTime": 1712406505430,
+      "sourceSize": 153,
+      "exportedPath": "__заметки/группа_1/оружия/оружия.html",
       "dependencies": []
     },
-    "Создание персонажа/Создание персонажа.md": {
-      "modifiedTime": 1710768481984,
+    "__ЗАМЕТКИ/Группа_1/Оружия/Подковы Бортоломы.md": {
+      "modifiedTime": 1712406505430,
+      "sourceSize": 2659,
+      "exportedPath": "__заметки/группа_1/оружия/подковы-бортоломы.html",
+      "dependencies": []
+    },
+    "__ЗАМЕТКИ/Группа_1/Оружия/Чакрум.md": {
+      "modifiedTime": 1712406505430,
+      "sourceSize": 1244,
+      "exportedPath": "__заметки/группа_1/оружия/чакрум.html",
+      "dependencies": [
+        "__заметки/группа_1/оружия/чакрум.jpg"
+      ]
+    },
+    "__ЗАМЕТКИ/Группа_1/Оружия/Чакрум.jpg": {
+      "modifiedTime": 1712406505430,
+      "sourceSize": 147962,
+      "exportedPath": "__заметки/группа_1/оружия/чакрум.jpg",
+      "dependencies": []
+    },
+    "__ЗАМЕТКИ/Группа_1/Предметы/Рог Сатиров.md": {
+      "modifiedTime": 1712406505430,
+      "sourceSize": 787,
+      "exportedPath": "__заметки/группа_1/предметы/рог-сатиров.html",
+      "dependencies": []
+    },
+    "__ЗАМЕТКИ/Группа_1/Предметы/Ступа и пест (из поместья Шена).md": {
+      "modifiedTime": 1712406505430,
+      "sourceSize": 2028,
+      "exportedPath": "__заметки/группа_1/предметы/ступа-и-пест-(из-поместья-шена).html",
+      "dependencies": []
+    },
+    "Заклинания/0/Починка.md": {
+      "modifiedTime": 1712406505430,
+      "sourceSize": 55,
+      "exportedPath": "заклинания/0/починка.html",
+      "dependencies": []
+    },
+    "Мир/Карты/Haurai 2024-03-29-16-43.map": {
+      "modifiedTime": 1712406505430,
+      "sourceSize": 2930342,
+      "exportedPath": "мир/карты/haurai-2024-03-29-16-43.map",
+      "dependencies": []
+    },
+    "Мир/Карты/Rouvreland 2024-03-27-22-23.map": {
+      "modifiedTime": 1712406505430,
+      "sourceSize": 2192712,
+      "exportedPath": "мир/карты/rouvreland-2024-03-27-22-23.map",
+      "dependencies": []
+    },
+    "Мир/Страны/Республика Хаи/browser_SOTH7Zh41q.png": {
+      "modifiedTime": 1712406505430,
+      "sourceSize": 146786,
+      "exportedPath": "мир/страны/республика-хаи/browser_soth7zh41q.png",
+      "dependencies": []
+    },
+    "Создание персонажа.md": {
+      "modifiedTime": 1712406505430,
       "sourceSize": 393,
-      "exportedPath": "создание-персонажа/создание-персонажа.html",
+      "exportedPath": "создание-персонажа.html",
+      "dependencies": []
+    },
+    "__заметки/группа_1/оружия/чакрум.jpg": {
+      "modifiedTime": 1712406505430,
+      "sourceSize": 147962,
+      "exportedPath": "__заметки/группа_1/оружия/чакрум.jpg",
+      "dependencies": []
+    },
+    "Расы/Дух_Фея/КОТОВЕЦ/КОТОВЕЦ.md": {
+      "modifiedTime": 1712702331183,
+      "sourceSize": 2930,
+      "exportedPath": "расы/дух_фея/котовец/котовец.html",
+      "dependencies": []
+    },
+    "Расы/Дух_Фея/КОТОВЕЦ/КОТОВЕЦ-ВОЛЬНЫЕ КОГТИ.md": {
+      "modifiedTime": 1712702331183,
+      "sourceSize": 606,
+      "exportedPath": "расы/дух_фея/котовец/котовец-вольные-когти.html",
+      "dependencies": []
+    },
+    "Расы/Дух_Фея/КОТОВЕЦ/КОТОВЕЦ-ПУСТЫННЫЕ КАРАВАНЩИКИ.md": {
+      "modifiedTime": 1712702331183,
+      "sourceSize": 1164,
+      "exportedPath": "расы/дух_фея/котовец/котовец-пустынные-караванщики.html",
+      "dependencies": []
+    },
+    "Расы/Конструкт/ХАНИВА/Живая оболочка.md": {
+      "modifiedTime": 1712702331183,
+      "sourceSize": 1810,
+      "exportedPath": "расы/конструкт/ханива/живая-оболочка.html",
+      "dependencies": []
+    },
+    "Расы/Конструкт/ХАНИВА/ХАНИВА.md": {
+      "modifiedTime": 1712702331183,
+      "sourceSize": 2172,
+      "exportedPath": "расы/конструкт/ханива/ханива.html",
+      "dependencies": []
+    },
+    "Расы/Конструкт/ХАНИВА/Цельнометалический.md": {
+      "modifiedTime": 1712702331183,
+      "sourceSize": 1928,
+      "exportedPath": "расы/конструкт/ханива/цельнометалический.html",
       "dependencies": []
     }
   }
