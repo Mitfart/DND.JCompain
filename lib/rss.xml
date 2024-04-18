@@ -1,27 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 18 Apr 2024 09:38:08 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 18 Apr 2024 09:38:08 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Броня и Уклонение]]></title><description><![CDATA[ 
- <br><br><br>КД - (Класс Доспеха)<br>
-Классическая система брони DND<br>КУ - (Класс Уклонения)<br>
-Показывает насколько сложно по вам попасть<br>
-* Смотрите по таблице сверху<br>ПБ - (Поглощение Броней)<br>
-Показывает сколько "физического" урона поглощает / невилирует ваша броня<br>
-ПБ = КД - 10<br>
-Поглощаемые Типы Урона:<br>
-Дробящий, Колющий, Рубящий<br>
-Огонь, Холод, Яд, Кислота,<br>
-Электричество, Звук<br>Щит - увеличивает ваш КУ и ваш ПБ]]></description><link>предметы\доспехи\доспехи.html</link><guid isPermaLink="false">Предметы/Доспехи/Доспехи.md</guid><pubDate>Thu, 18 Apr 2024 08:04:21 GMT</pubDate></item><item><title><![CDATA[_Стандартные (Примеры)]]></title><description><![CDATA[ 
- <br>]]></description><link>предметы\оружия\_стандартные-(примеры).html</link><guid isPermaLink="false">Предметы/Оружия/_Стандартные (Примеры).md</guid><pubDate>Thu, 18 Apr 2024 09:36:17 GMT</pubDate></item><item><title><![CDATA[Основное и Дополнительное оружие]]></title><description><![CDATA[ 
- <br><br>
-<br>Вы можете выбрать одно основное и одно дополнительное оружие<br>
-Обратите внимание, что если вы используете основное оружие, для которого со свойством <a data-tooltip-position="top" aria-label="Свойства_Оружия > Двуручное" data-href="Свойства_Оружия#Двуручное" href="\предметы\оружия\свойства_оружия.html#Двуручное" class="internal-link" target="_self" rel="noopener">Двуручное</a>, вы не можете экипировать дополнительное оружие, или щиты
-<br>Ваше дополнительное оружие не считается "вторым" 
-<br>Экипируя дополнительное оружие вы не можете экипировать щит
-<br>Вы можете менять основное и дополнительное оружие ничего не тратя
-<br>Негативные свойства Оружия не исчезают мгновенно, на это требуется минимум 10 минут в отдалении, минимум 30 футах, от него
-<br>Дополнительное оружие не может иметь тех же минусов что и основное, если только они не суммируются
-<br><br>
-<br>Вы можете метнуть оружие на расстояние до 30 футов без помехи, или до 60 футов с помехой, выполнив обычный бросок атаки, без добавления бонуса мастерства, нанося урон, как обычно. 
-<br>После броска вы теряете это оружие;
-]]></description><link>предметы\оружия\оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Оружия.md</guid><pubDate>Thu, 18 Apr 2024 08:02:34 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 18 Apr 2024 09:46:50 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 18 Apr 2024 09:46:49 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
  <br><br>
 <br>У каждого оружия (стартовое Простое - 0, Воинское - 1) есть своё количество Очков, которые тратятся по следующим таблицам
 <br>Примерная цена оружия расчитывается по формуле, но может определятся мастером в зависимости от Сюжета:<br>
@@ -29,9 +6,10 @@
 <br><br><br><br><br>
 <br>можно атаковать с удвоенного расстояния с помехой, в свой ход
 <br><br><br>
-<br>Цена дополнительных костей равна 1 плюс половине максимального значения кости
-<br>Нельзя Добавлять разные кости на оружие
-<br><br><br><br>]]></description><link>предметы\оружия\сборка_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Сборка_Оружия.md</guid><pubDate>Thu, 18 Apr 2024 09:35:09 GMT</pubDate></item><item><title><![CDATA[Свойства_Оружия]]></title><description><![CDATA[ 
+<br>Цена дополнительных костей равна половине максимального значения кости
+<br>Нельзя Добавлять разные кости урона на оружие
+<br>Дополнительные кости считаются Свойствами при определении цены оружия
+<br><br><br><br>]]></description><link>предметы\оружия\сборка_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Сборка_Оружия.md</guid><pubDate>Thu, 18 Apr 2024 09:46:43 GMT</pubDate></item><item><title><![CDATA[Свойства_Оружия]]></title><description><![CDATA[ 
  <br><br>
 Это оружие нужно держать двумя руками, когда вы атакуете им<br>
 Дальность метания данного уменьшена вдвое (в 2 раза)
@@ -39,7 +17,8 @@
 -1 к проверкам и спасброскам Ловкости<br>
 Дальность метания данного уменьшена вдвое (в 2 раза)
 <br><br>
-Вы совершаете с&nbsp;помехой&nbsp;атаки по существам, находящимся в пределах 5 футов от вас
+Вы совершаете с&nbsp;помехой&nbsp;атаки по существам, находящимся в пределах половины вашей досягаемости<br>
+(Досягаемость 10 =&gt; помеха в 5)
 <br><br>
 -1 к Классу Доспеха
 <br><br>
@@ -121,7 +100,30 @@ Copy
 <br><br>
 Это оружие не могут использовать другие<br>
 Вы добавляете половину своего уровень к урону этим оружием
-<br><br><br>Note<a class="internal-link" href="\предметы\оружия\_стандартные-(примеры).html" target="_self"></a>No abstract.4/18/2024, 12:36:17 PMNote<a class="internal-link" href="\предметы\оружия\оружия.html" target="_self"></a>1. Вы можете выбрать одно основное и одно дополнительное оружие4/18/2024, 11:02:34 AMNote<a class="internal-link" href="\предметы\оружия\сборка_оружия.html" target="_self"></a>1. У каждого оружия (стартовое Простое - 0, Воинское - 1) есть с...4/18/2024, 12:35:09 PM]]></description><link>предметы\оружия\свойства_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Свойства_Оружия.md</guid><pubDate>Thu, 18 Apr 2024 09:32:32 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
+<br><br><br>Note<a class="internal-link" href="\предметы\оружия\_стандартные-(примеры).html" target="_self"></a>No abstract.4/18/2024, 12:36:17 PMNote<a class="internal-link" href="\предметы\оружия\оружия.html" target="_self"></a>1. Вы можете выбрать одно основное и одно дополнительное оружие4/18/2024, 11:02:34 AMNote<a class="internal-link" href="\предметы\оружия\сборка_оружия.html" target="_self"></a>1. У каждого оружия (стартовое Простое - 0, Воинское - 1) есть с...4/18/2024, 12:46:43 PM]]></description><link>предметы\оружия\свойства_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Свойства_Оружия.md</guid><pubDate>Thu, 18 Apr 2024 09:45:00 GMT</pubDate></item><item><title><![CDATA[Броня и Уклонение]]></title><description><![CDATA[ 
+ <br><br><br>КД - (Класс Доспеха)<br>
+Классическая система брони DND<br>КУ - (Класс Уклонения)<br>
+Показывает насколько сложно по вам попасть<br>
+* Смотрите по таблице сверху<br>ПБ - (Поглощение Броней)<br>
+Показывает сколько "физического" урона поглощает / невилирует ваша броня<br>
+ПБ = КД - 10<br>
+Поглощаемые Типы Урона:<br>
+Дробящий, Колющий, Рубящий<br>
+Огонь, Холод, Яд, Кислота,<br>
+Электричество, Звук<br>Щит - увеличивает ваш КУ и ваш ПБ]]></description><link>предметы\доспехи\доспехи.html</link><guid isPermaLink="false">Предметы/Доспехи/Доспехи.md</guid><pubDate>Thu, 18 Apr 2024 08:04:21 GMT</pubDate></item><item><title><![CDATA[_Стандартные (Примеры)]]></title><description><![CDATA[ 
+ <br>]]></description><link>предметы\оружия\_стандартные-(примеры).html</link><guid isPermaLink="false">Предметы/Оружия/_Стандартные (Примеры).md</guid><pubDate>Thu, 18 Apr 2024 09:36:17 GMT</pubDate></item><item><title><![CDATA[Основное и Дополнительное оружие]]></title><description><![CDATA[ 
+ <br><br>
+<br>Вы можете выбрать одно основное и одно дополнительное оружие<br>
+Обратите внимание, что если вы используете основное оружие, для которого со свойством <a data-tooltip-position="top" aria-label="Свойства_Оружия > Двуручное" data-href="Свойства_Оружия#Двуручное" href="\предметы\оружия\свойства_оружия.html#Двуручное" class="internal-link" target="_self" rel="noopener">Двуручное</a>, вы не можете экипировать дополнительное оружие, или щиты
+<br>Ваше дополнительное оружие не считается "вторым" 
+<br>Экипируя дополнительное оружие вы не можете экипировать щит
+<br>Вы можете менять основное и дополнительное оружие ничего не тратя
+<br>Негативные свойства Оружия не исчезают мгновенно, на это требуется минимум 10 минут в отдалении, минимум 30 футах, от него
+<br>Дополнительное оружие не может иметь тех же минусов что и основное, если только они не суммируются
+<br><br>
+<br>Вы можете метнуть оружие на расстояние до 30 футов без помехи, или до 60 футов с помехой, выполнив обычный бросок атаки, без добавления бонуса мастерства, нанося урон, как обычно. 
+<br>После броска вы теряете это оружие;
+]]></description><link>предметы\оружия\оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Оружия.md</guid><pubDate>Thu, 18 Apr 2024 08:02:34 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
  <br><br>
 <br>У каждого Щита (стартовое 0) есть своё количество Очков, которые тратятся по таблицам доспехов, оружия и щитов
 <br>Примерная цена оружия расчитывается по формуле, но может определятся мастером в зависимости от Сюжета:<br>
