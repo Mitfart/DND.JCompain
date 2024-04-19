@@ -1,4 +1,17 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 19 Apr 2024 10:01:44 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 19 Apr 2024 10:01:37 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 19 Apr 2024 10:09:49 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 19 Apr 2024 10:09:48 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Основное и Дополнительное оружие]]></title><description><![CDATA[ 
+ <br><br>
+<br>Вы можете выбрать одно основное и одно дополнительное оружие<br>
+Обратите внимание, что если вы используете основное оружие, для которого со свойством <a data-tooltip-position="top" aria-label="Свойства_Оружия > Двуручное" data-href="Свойства_Оружия#Двуручное" href="\предметы\оружия\свойства_оружия.html#Двуручное" class="internal-link" target="_self" rel="noopener">Двуручное</a>, вы не можете экипировать дополнительное оружие
+<br>Ваше дополнительное оружие не считается "вторым" 
+<br>Экипируя дополнительное оружие вы не можете экипировать щит
+<br>Вы можете менять основное и дополнительное оружие ничего не тратя
+<br>Негативные свойства Оружия не исчезают мгновенно, на это требуется минимум 10 минут в отдалении, минимум 30 футах, от него
+<br>Дополнительное оружие не может иметь тех же минусов что и основное, если только они не суммируются
+<br><br>
+<br>Вы можете метнуть оружие на расстояние до 30 футов без помехи, или до 60 футов с помехой, выполнив обычный бросок атаки, без добавления бонуса мастерства, нанося урон, как обычно. 
+<br>После броска вы теряете это оружие;
+]]></description><link>предметы\оружия\оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Оружия.md</guid><pubDate>Fri, 19 Apr 2024 10:08:19 GMT</pubDate></item><item><title><![CDATA[Стандартные_Примеры]]></title><description><![CDATA[ 
+ <br>]]></description><link>предметы\оружия\стандартные_примеры.html</link><guid isPermaLink="false">Предметы/Оружия/Стандартные_Примеры.md</guid><pubDate>Thu, 18 Apr 2024 09:36:17 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
  <br><br>Note<a class="internal-link" href="\__заметки\группа_1\оружия\подковы-бортоломы.html" target="_self"></a>* Саранитовое2/20/2024, 6:36:03 PM<a class="internal-link" href="\__заметки\группа_1\оружия\чакрум.html" target="_self"></a>* Саранитовое2/20/2024, 6:37:45 PM<br><br>
 <br><a data-href="Подковы Бортоломы" href="\__заметки\группа_1\оружия\подковы-бортоломы.html" class="internal-link" target="_self" rel="noopener">Подковы Бортоломы</a>
 <br><a data-href="Чакрум" href="\__заметки\группа_1\оружия\чакрум.html" class="internal-link" target="_self" rel="noopener">Чакрум</a>
@@ -770,20 +783,7 @@ Copy
 <br>Ваш Удвоенный Бонус мастерства
 <br>Ваш Уровень
 
-]]></description><link>предметы\доспехи\свойства_доспехи.html</link><guid isPermaLink="false">Предметы/Доспехи/Свойства_Доспехи.md</guid><pubDate>Thu, 18 Apr 2024 01:17:01 GMT</pubDate></item><item><title><![CDATA[_Стандартные (Примеры)]]></title><description><![CDATA[ 
- <br>]]></description><link>предметы\оружия\_стандартные-(примеры).html</link><guid isPermaLink="false">Предметы/Оружия/_Стандартные (Примеры).md</guid><pubDate>Thu, 18 Apr 2024 09:36:17 GMT</pubDate></item><item><title><![CDATA[Основное и Дополнительное оружие]]></title><description><![CDATA[ 
- <br><br>
-<br>Вы можете выбрать одно основное и одно дополнительное оружие<br>
-Обратите внимание, что если вы используете основное оружие, для которого со свойством <a data-tooltip-position="top" aria-label="Свойства_Оружия > Двуручное" data-href="Свойства_Оружия#Двуручное" href="\предметы\оружия\свойства_оружия.html#Двуручное" class="internal-link" target="_self" rel="noopener">Двуручное</a>, вы не можете экипировать дополнительное оружие, или щиты
-<br>Ваше дополнительное оружие не считается "вторым" 
-<br>Экипируя дополнительное оружие вы не можете экипировать щит
-<br>Вы можете менять основное и дополнительное оружие ничего не тратя
-<br>Негативные свойства Оружия не исчезают мгновенно, на это требуется минимум 10 минут в отдалении, минимум 30 футах, от него
-<br>Дополнительное оружие не может иметь тех же минусов что и основное, если только они не суммируются
-<br><br>
-<br>Вы можете метнуть оружие на расстояние до 30 футов без помехи, или до 60 футов с помехой, выполнив обычный бросок атаки, без добавления бонуса мастерства, нанося урон, как обычно. 
-<br>После броска вы теряете это оружие;
-]]></description><link>предметы\оружия\оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Оружия.md</guid><pubDate>Thu, 18 Apr 2024 08:02:34 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
+]]></description><link>предметы\доспехи\свойства_доспехи.html</link><guid isPermaLink="false">Предметы/Доспехи/Свойства_Доспехи.md</guid><pubDate>Thu, 18 Apr 2024 01:17:01 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
  <br><br>
 <br>У каждого оружия (стартовое Простое - 0, Воинское - 1) есть своё количество Очков, которые тратятся по следующим таблицам
 <br>Примерная цена оружия расчитывается по формуле, но может определятся мастером в зависимости от Сюжета:<br>
