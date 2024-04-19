@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 19 Apr 2024 10:12:28 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 19 Apr 2024 10:12:21 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 19 Apr 2024 10:30:20 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 19 Apr 2024 10:30:10 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
  <br><br>Note<a class="internal-link" href="\__заметки\группа_1\оружия\подковы-бортоломы.html" target="_self"></a>* Саранитовое2/20/2024, 6:36:03 PM<a class="internal-link" href="\__заметки\группа_1\оружия\чакрум.html" target="_self"></a>* Саранитовое2/20/2024, 6:37:45 PM<br><br>
 <br><a data-href="Подковы Бортоломы" href="\__заметки\группа_1\оружия\подковы-бортоломы.html" class="internal-link" target="_self" rel="noopener">Подковы Бортоломы</a>
 <br><a data-href="Чакрум" href="\__заметки\группа_1\оружия\чакрум.html" class="internal-link" target="_self" rel="noopener">Чакрум</a>
@@ -787,13 +787,13 @@ Copy
 <br>У каждого оружия (стартовое Простое - 0, Воинское - 1) есть своё количество Очков, которые тратятся по следующим таблицам
 <br>Примерная цена оружия расчитывается по формуле, но может определятся мастером в зависимости от Сюжета:<br>
 (10 + 25 x Количество Очков) x Количество Свойств^2
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <br>можно атаковать с удвоенного расстояния с помехой, в свой ход
 <br><br><br>
 <br>Цена дополнительных костей равна половине максимального значения кости
 <br>Нельзя Добавлять разные кости урона на оружие
 <br>Дополнительные кости считаются Свойствами при определении цены оружия
-<br><br><br><br>]]></description><link>предметы\оружия\сборка_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Сборка_Оружия.md</guid><pubDate>Thu, 18 Apr 2024 09:46:43 GMT</pubDate></item><item><title><![CDATA[Свойства_Оружия]]></title><description><![CDATA[ 
+<br><br><br><br>]]></description><link>предметы\оружия\сборка_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Сборка_Оружия.md</guid><pubDate>Fri, 19 Apr 2024 10:28:18 GMT</pubDate></item><item><title><![CDATA[Свойства_Оружия]]></title><description><![CDATA[ 
  <br><br>
 Это оружие нужно держать двумя руками, когда вы атакуете им<br>
 Дальность метания данного уменьшена вдвое (в 2 раза)
@@ -884,8 +884,8 @@ Copy
 <br><br>
 Это оружие не могут использовать другие<br>
 Вы добавляете половину своего уровень к урону этим оружием
-<br><br><br>Note<a class="internal-link" href="\предметы\оружия\оружия.html" target="_self"></a>1. Вы можете выбрать одно основное и одно дополнительное оружие4/19/2024, 1:08:19 PMNote<a class="internal-link" href="\предметы\оружия\сборка_оружия.html" target="_self"></a>1. У каждого оружия (стартовое Простое - 0, Воинское - 1) есть с...4/18/2024, 12:46:43 PMNote<a class="internal-link" href="\предметы\оружия\стандартные_примеры.html" target="_self"></a>No abstract.4/18/2024, 12:36:17 PM]]></description><link>предметы\оружия\свойства_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Свойства_Оружия.md</guid><pubDate>Thu, 18 Apr 2024 09:45:00 GMT</pubDate></item><item><title><![CDATA[Стандартные_Примеры]]></title><description><![CDATA[ 
- <br>]]></description><link>предметы\оружия\стандартные_примеры.html</link><guid isPermaLink="false">Предметы/Оружия/Стандартные_Примеры.md</guid><pubDate>Thu, 18 Apr 2024 09:36:17 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
+<br><br><br>Note<a class="internal-link" href="\предметы\оружия\оружия.html" target="_self"></a>1. Вы можете выбрать одно основное и одно дополнительное оружие4/19/2024, 1:08:19 PMNote<a class="internal-link" href="\предметы\оружия\сборка_оружия.html" target="_self"></a>1. У каждого оружия (стартовое Простое - 0, Воинское - 1) есть с...4/19/2024, 1:28:18 PMNote<a class="internal-link" href="\предметы\оружия\стандартные_примеры.html" target="_self"></a>No abstract.4/19/2024, 1:30:02 PM]]></description><link>предметы\оружия\свойства_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Свойства_Оружия.md</guid><pubDate>Thu, 18 Apr 2024 09:45:00 GMT</pubDate></item><item><title><![CDATA[Стандартные_Примеры]]></title><description><![CDATA[ 
+ <br>]]></description><link>предметы\оружия\стандартные_примеры.html</link><guid isPermaLink="false">Предметы/Оружия/Стандартные_Примеры.md</guid><pubDate>Fri, 19 Apr 2024 10:30:02 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
  <br><br>
 <br>У каждого Щита (стартовое 0) есть своё количество Очков, которые тратятся по таблицам доспехов, оружия и щитов
 <br>Примерная цена оружия расчитывается по формуле, но может определятся мастером в зависимости от Сюжета:<br>
