@@ -1,6 +1,6 @@
 {
   "vaultName": "JCompain",
-  "lastExport": 1713613589977,
+  "lastExport": 1713613795389,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -157,703 +157,703 @@
   ],
   "fileInfo": {
     "Классы/Классы.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 333,
       "exportedPath": "классы/классы.html",
       "dependencies": []
     },
     "Мир/Карты/Биомная.jpeg": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 318329,
       "exportedPath": "мир/карты/биомная.jpeg",
       "dependencies": []
     },
     "Мир/Карты/Политическая.jpeg": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 401093,
       "exportedPath": "мир/карты/политическая.jpeg",
       "dependencies": []
     },
     "Мир/Карты/Рельефная.jpeg": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 468034,
       "exportedPath": "мир/карты/рельефная.jpeg",
       "dependencies": []
     },
     "Мир/Карты/Топографическая.jpeg": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 267690,
       "exportedPath": "мир/карты/топографическая.jpeg",
       "dependencies": []
     },
     "Мир/Страны/Священная империя Хар/Блюда.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 4338,
       "exportedPath": "мир/страны/священная-империя-хар/блюда.html",
       "dependencies": []
     },
     "Мир/Страны/Священная империя Хар/Важные Люди.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 287,
       "exportedPath": "мир/страны/священная-империя-хар/важные-люди.html",
       "dependencies": []
     },
     "Мир/Страны/Священная империя Хар/Военная система.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 976,
       "exportedPath": "мир/страны/священная-империя-хар/военная-система.html",
       "dependencies": []
     },
     "Мир/Страны/Священная империя Хар/Священная империя Хар.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 236,
       "exportedPath": "мир/страны/священная-империя-хар/священная-империя-хар.html",
       "dependencies": []
     },
     "Мир/Страны/Священная империя Хар/Система Правления.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2095,
       "exportedPath": "мир/страны/священная-империя-хар/система-правления.html",
       "dependencies": []
     },
     "Мир/Мир.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 982,
       "exportedPath": "мир/мир.html",
       "dependencies": []
     },
     "Мир/Языки.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1106,
       "exportedPath": "мир/языки.html",
       "dependencies": []
     },
     "Правила/“Стакающееся” преимущество и помеха.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 763,
       "exportedPath": "правила/“стакающееся”-преимущество-и-помеха.html",
       "dependencies": []
     },
     "Правила/Атака бонусным действием.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 662,
       "exportedPath": "правила/атака-бонусным-действием.html",
       "dependencies": []
     },
     "Правила/Встать.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 242,
       "exportedPath": "правила/встать.html",
       "dependencies": []
     },
     "Правила/Зелья Бонусным Действием.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 248,
       "exportedPath": "правила/зелья-бонусным-действием.html",
       "dependencies": []
     },
     "Правила/Импровизация.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1354,
       "exportedPath": "правила/импровизация.html",
       "dependencies": []
     },
     "Правила/Истощение.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 288,
       "exportedPath": "правила/истощение.html",
       "dependencies": []
     },
     "Правила/Карточное вдохновение.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 354,
       "exportedPath": "правила/карточное-вдохновение.html",
       "dependencies": []
     },
     "Правила/Криты.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2150,
       "exportedPath": "правила/криты.html",
       "dependencies": []
     },
     "Правила/Окружение - Флангирование.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 697,
       "exportedPath": "правила/окружение-флангирование.html",
       "dependencies": []
     },
     "Правила/Подготовка.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 144,
       "exportedPath": "правила/подготовка.html",
       "dependencies": []
     },
     "Правила/Правила.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 775,
       "exportedPath": "правила/правила.html",
       "dependencies": []
     },
     "Правила/Состояние Здоровья.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 437,
       "exportedPath": "правила/состояние-здоровья.html",
       "dependencies": []
     },
     "Правила/Спасброски от смерти.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 271,
       "exportedPath": "правила/спасброски-от-смерти.html",
       "dependencies": []
     },
     "Правила/Сражение двумя оружиями.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 780,
       "exportedPath": "правила/сражение-двумя-оружиями.html",
       "dependencies": []
     },
     "Расы/Растение/ДРЕВАН.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1986,
       "exportedPath": "расы/растение/древан.html",
       "dependencies": []
     },
     "Расы/Растение/ФУНАЮРЭЙ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 3977,
       "exportedPath": "расы/растение/фунаюрэй.html",
       "dependencies": []
     },
     "Расы/Стандартные.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2576,
       "exportedPath": "расы/стандартные.html",
       "dependencies": []
     },
     "Черты/Измененные/Измененные.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 225,
       "exportedPath": "черты/измененные/измененные.html",
       "dependencies": []
     },
     "Черты/Измененные/Мастер большого оружия - Great Weapon Master.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 524,
       "exportedPath": "черты/измененные/мастер-большого-оружия-great-weapon-master.html",
       "dependencies": []
     },
     "Черты/Измененные/Меткий стрелок - Sharpshooter.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 490,
       "exportedPath": "черты/измененные/меткий-стрелок-sharpshooter.html",
       "dependencies": []
     },
     "Черты/ДРЕВНИЙ РИТУАЛ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2060,
       "exportedPath": "черты/древний-ритуал.html",
       "dependencies": []
     },
     "Черты/МЫШИНЫЙ ПУТЕШЕСТВЕННИК.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2060,
       "exportedPath": "черты/мышиный-путешественник.html",
       "dependencies": []
     },
     "Черты/ПОВЕЛИТЕЛЬ КОРНЕЙ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1432,
       "exportedPath": "черты/повелитель-корней.html",
       "dependencies": []
     },
     "Черты/ЧЁРНАЯ КОШКА.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1205,
       "exportedPath": "черты/чёрная-кошка.html",
       "dependencies": []
     },
     "Черты/Черты.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 264,
       "exportedPath": "черты/черты.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 18,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 97408,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 6197,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 157786,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 4073,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "Мир/Страны/Священная империя Хар/_заметки.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2666,
       "exportedPath": "мир/страны/священная-империя-хар/_заметки.html",
       "dependencies": []
     },
     "Правила/Инициатива.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 163,
       "exportedPath": "правила/инициатива.html",
       "dependencies": []
     },
     "Правила/Комбо атаки.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 3432,
       "exportedPath": "правила/комбо-атаки.html",
       "dependencies": []
     },
     "Правила/Сбор добычи.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 12846,
       "exportedPath": "правила/сбор-добычи.html",
       "dependencies": []
     },
     "Правила/Готовка.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 8021,
       "exportedPath": "правила/готовка.html",
       "dependencies": []
     },
     "Классы/Варвар/Варвар.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 154,
       "exportedPath": "классы/варвар/варвар.html",
       "dependencies": []
     },
     "Классы/Варвар/Путь Кровавого Бедствия.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 7248,
       "exportedPath": "классы/варвар/путь-кровавого-бедствия.html",
       "dependencies": []
     },
     "Классы/Савант/Просвещенный Драконом.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1222,
       "exportedPath": "классы/савант/просвещенный-драконом.html",
       "dependencies": []
     },
     "Заклинания/0/Починка.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 55,
       "exportedPath": "заклинания/0/починка.html",
       "dependencies": []
     },
     "Мир/Карты/Rouvreland 2024-03-27-22-23.map": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2192712,
       "exportedPath": "мир/карты/rouvreland-2024-03-27-22-23.map",
       "dependencies": []
     },
     "Мир/Страны/Республика Хаи/browser_SOTH7Zh41q.png": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 146786,
       "exportedPath": "мир/страны/республика-хаи/browser_soth7zh41q.png",
       "dependencies": []
     },
     "Создание персонажа.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 393,
       "exportedPath": "создание-персонажа.html",
       "dependencies": []
     },
     "Расы/Конструкт/ХАНИВА/Живая оболочка.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1810,
       "exportedPath": "расы/конструкт/ханива/живая-оболочка.html",
       "dependencies": []
     },
     "Расы/Конструкт/ХАНИВА/ХАНИВА.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2189,
       "exportedPath": "расы/конструкт/ханива/ханива.html",
       "dependencies": []
     },
     "Расы/Конструкт/ХАНИВА/Цельнометалический.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1928,
       "exportedPath": "расы/конструкт/ханива/цельнометалический.html",
       "dependencies": []
     },
     "Классы/Ведьма/Ведьма.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 19436,
       "exportedPath": "классы/ведьма/ведьма.html",
       "dependencies": []
     },
     "Классы/Ведьма/Черная Ведьма.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2964,
       "exportedPath": "классы/ведьма/черная-ведьма.html",
       "dependencies": []
     },
     "Классы/Монах/Монах.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 22390,
       "exportedPath": "классы/монах/монах.html",
       "dependencies": []
     },
     "Правила/Безоружный удар.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 127,
       "exportedPath": "правила/безоружный-удар.html",
       "dependencies": []
     },
     "Предметы/Доспехи/Cборка_Доспеха.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 3494,
       "exportedPath": "предметы/доспехи/cборка_доспеха.html",
       "dependencies": []
     },
     "Предметы/Доспехи/Доспехи.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1670,
       "exportedPath": "предметы/доспехи/доспехи.html",
       "dependencies": []
     },
     "Предметы/Доспехи/Свойства_Доспехи.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 8252,
       "exportedPath": "предметы/доспехи/свойства_доспехи.html",
       "dependencies": []
     },
     "Предметы/Оружия/Оружия.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1696,
       "exportedPath": "предметы/оружия/оружия.html",
       "dependencies": []
     },
     "Предметы/Оружия/Сборка_Оружия.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 7523,
       "exportedPath": "предметы/оружия/сборка_оружия.html",
       "dependencies": []
     },
     "Предметы/Оружия/Свойства_Оружия.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 7833,
       "exportedPath": "предметы/оружия/свойства_оружия.html",
       "dependencies": []
     },
     "Предметы/Щиты/Свойства_Щиты.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2091,
       "exportedPath": "предметы/щиты/свойства_щиты.html",
       "dependencies": []
     },
     "Предметы/Щиты/Щиты.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 704,
       "exportedPath": "предметы/щиты/щиты.html",
       "dependencies": []
     },
     "Расы/Вастайи/КОТОВЕЦ/КОТОВЕЦ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2990,
       "exportedPath": "расы/вастайи/котовец/котовец.html",
       "dependencies": []
     },
     "Расы/Вастайи/КОТОВЕЦ/КОТОВЕЦ-ВОЛЬНЫЕ КОГТИ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 606,
       "exportedPath": "расы/вастайи/котовец/котовец-вольные-когти.html",
       "dependencies": []
     },
     "Расы/Вастайи/КОТОВЕЦ/КОТОВЕЦ-ПУСТЫННЫЕ КАРАВАНЩИКИ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1164,
       "exportedPath": "расы/вастайи/котовец/котовец-пустынные-караванщики.html",
       "dependencies": []
     },
     "Расы/Вастайи/МЫШИНЕЦ/МЫШИНЕЦ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1638,
       "exportedPath": "расы/вастайи/мышинец/мышинец.html",
       "dependencies": []
     },
     "Расы/Вастайи/МЫШИНЕЦ/МЫШИНЕЦ-ГОРОДСКАЯ МЫШЬ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 852,
       "exportedPath": "расы/вастайи/мышинец/мышинец-городская-мышь.html",
       "dependencies": []
     },
     "Расы/Вастайи/МЫШИНЕЦ/МЫШИНЕЦ-КРЫСА.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1702,
       "exportedPath": "расы/вастайи/мышинец/мышинец-крыса.html",
       "dependencies": []
     },
     "Расы/Вастайи/МЫШИНЕЦ/МЫШИНЕЦ-ПОЛЕВАЯ МЫШЬ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 279,
       "exportedPath": "расы/вастайи/мышинец/мышинец-полевая-мышь.html",
       "dependencies": []
     },
     "Расы/Вастайи/КИЦУНЭ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 4236,
       "exportedPath": "расы/вастайи/кицунэ.html",
       "dependencies": []
     },
     "Расы/Вастайи/НИСИКИН.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2718,
       "exportedPath": "расы/вастайи/нисикин.html",
       "dependencies": []
     },
     "Расы/Демоноподобные/ОНИРОЖДЁННЫЙ/ОНИРОЖДЁННЫЙ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 743,
       "exportedPath": "расы/демоноподобные/онирождённый/онирождённый.html",
       "dependencies": []
     },
     "Расы/Демоноподобные/ОНИРОЖДЁННЫЙ/ОНИРОЖДЁННЫЙ-ЗЕЛЁНЫЙ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2453,
       "exportedPath": "расы/демоноподобные/онирождённый/онирождённый-зелёный.html",
       "dependencies": []
     },
     "Расы/Демоноподобные/ОНИРОЖДЁННЫЙ/ОНИРОЖДЁННЫЙ-КРАСНЫЙ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2556,
       "exportedPath": "расы/демоноподобные/онирождённый/онирождённый-красный.html",
       "dependencies": []
     },
     "Расы/Демоноподобные/ОНИРОЖДЁННЫЙ/ОНИРОЖДЁННЫЙ-СИНИЙ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2460,
       "exportedPath": "расы/демоноподобные/онирождённый/онирождённый-синий.html",
       "dependencies": []
     },
     "Расы/Демоноподобные/ТЭНГУ/ТЭНГУ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 544,
       "exportedPath": "расы/демоноподобные/тэнгу/тэнгу.html",
       "dependencies": []
     },
     "Расы/Демоноподобные/ТЭНГУ/ТЭНГУ-КАРАСУ.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1832,
       "exportedPath": "расы/демоноподобные/тэнгу/тэнгу-карасу.html",
       "dependencies": []
     },
     "Расы/Демоноподобные/ТЭНГУ/ТЭНГУ-ХАНАТАКА.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1758,
       "exportedPath": "расы/демоноподобные/тэнгу/тэнгу-ханатака.html",
       "dependencies": []
     },
     "Предметы/Щиты/Сборка_Щита.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 1182,
       "exportedPath": "предметы/щиты/сборка_щита.html",
       "dependencies": []
     },
     "Мир/Карты/Лебенхейм 2024-04-18-13-19.map": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 2976109,
       "exportedPath": "мир/карты/лебенхейм-2024-04-18-13-19.map",
       "dependencies": []
     },
     "Мир/Страны/Республика Хаи/browser_6hrqRpW2TQ.png": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 310418,
       "exportedPath": "мир/страны/республика-хаи/browser_6hrqrpw2tq.png",
       "dependencies": []
     },
     "Мир/Страны/Республика Хаи/browser_oBj21TDANC.png": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 348244,
       "exportedPath": "мир/страны/республика-хаи/browser_obj21tdanc.png",
       "dependencies": []
     },
     "Предметы/Оружия/Стандартные_Примеры.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 6800,
       "exportedPath": "предметы/оружия/стандартные_примеры.html",
       "dependencies": []
     },
     "Классы/Бард/Коллегия Мастеров.md": {
-      "modifiedTime": 1713613589977,
-      "sourceSize": 5091,
+      "modifiedTime": 1713613795389,
+      "sourceSize": 5459,
       "exportedPath": "классы/бард/коллегия-мастеров.html",
       "dependencies": []
     },
     "Классы/Бард/Бард.md": {
-      "modifiedTime": 1713613589977,
+      "modifiedTime": 1713613795389,
       "sourceSize": 65,
       "exportedPath": "классы/бард/бард.html",
       "dependencies": []
