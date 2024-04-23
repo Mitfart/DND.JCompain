@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 23 Apr 2024 02:04:51 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 23 Apr 2024 02:04:38 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Содержание]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 23 Apr 2024 02:51:56 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 23 Apr 2024 02:51:48 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Содержание]]></title><description><![CDATA[ 
  <br><br>Note<a class="internal-link" href="\заклинания\0\починка.html" target="_self"></a>Время накладывания:4/6/2024, 3:26:36 PM<br><br>
 <br><a data-href="Починка" href="\заклинания\0\починка.html" class="internal-link" target="_self" rel="noopener">Починка</a>
 <br>]]></description><link>заклинания\0\0.html</link><guid isPermaLink="false">Заклинания/0/0.md</guid><pubDate>Mon, 22 Apr 2024 12:06:11 GMT</pubDate></item><item><title><![CDATA[Починка]]></title><description><![CDATA[ 
@@ -837,7 +837,20 @@ Copy
 <br>Ваш Удвоенный Бонус мастерства
 <br>Ваш Уровень
 
-]]></description><link>предметы\доспехи\свойства_доспехи.html</link><guid isPermaLink="false">Предметы/Доспехи/Свойства_Доспехи.md</guid><pubDate>Thu, 18 Apr 2024 01:17:01 GMT</pubDate></item><item><title><![CDATA[Основное и Дополнительное оружие]]></title><description><![CDATA[ 
+]]></description><link>предметы\доспехи\свойства_доспехи.html</link><guid isPermaLink="false">Предметы/Доспехи/Свойства_Доспехи.md</guid><pubDate>Thu, 18 Apr 2024 01:17:01 GMT</pubDate></item><item><title><![CDATA[Кольца Гармонии]]></title><description><![CDATA[ 
+ <br>Тип: Кольца 
+Редкость: Редкое
+Copy<br>Эти кольца синхронизируют сердцебиение владельцев.<br>
+Один раз до короткого отдыха, когда один из владельцев атакует, другой может реакцией дать преимущество в броске атаки.<br>
+У вас есть по одному использованию этой способности для каждого из колец в паре<br><br>В мире приключений, где опасность таится в каждой тени, связь между сердцами может стать величайшим источником силы.<br>
+Эти артефакты — не просто инструменты для путешествия, а символы неукротимой связи, превосходящей самые темные глубины.]]></description><link>предметы\маг.снаряжение\кольца-гармонии.html</link><guid isPermaLink="false">Предметы/Маг.Снаряжение/Кольца Гармонии.md</guid><pubDate>Tue, 23 Apr 2024 02:51:38 GMT</pubDate></item><item><title><![CDATA[Щит Единства Сердец]]></title><description><![CDATA[ 
+ <br>Тип: Средний Щит
+Редкость: Очень Редкое (требует настройки) 
+Copy<br><br>Владелец и его вторая половинка получают бонус<br>
+<br>+2 КУ и +2 КД, если они находятся в пределах 15 футов друг от друга
+<br>+1 КУ и +1 КД, если они находятся дальше 15 футов друг от друга
+<br><br>Один раз за продолжительный отдых<br>
+Когда вторая половинка становится целью атаки или вредного эффекта в пределах 60 футов, Владелец может реакцией стать целью этой атаки, мгновенно переместившись к Возлюбленному и совершить одну рукопашную атаку оружием как часть той же реакции против атакующего, независимо от дистанции]]></description><link>предметы\маг.снаряжение\щит-единства-сердец.html</link><guid isPermaLink="false">Предметы/Маг.Снаряжение/Щит Единства Сердец.md</guid><pubDate>Tue, 23 Apr 2024 02:08:18 GMT</pubDate></item><item><title><![CDATA[Основное и Дополнительное оружие]]></title><description><![CDATA[ 
  <br><br>
 <br>Вы можете выбрать одно основное и одно дополнительное оружие<br>
 Обратите внимание, что если вы используете основное оружие, для которого со свойством <a data-tooltip-position="top" aria-label="Свойства_Оружия > Двуручное" data-href="Свойства_Оружия#Двуручное" href="\предметы\оружия\свойства_оружия.html#Двуручное" class="internal-link" target="_self" rel="noopener">Двуручное</a>, вы не можете экипировать дополнительное оружие
@@ -959,14 +972,7 @@ Copy
 <br><br>
 Это оружие не могут использовать другие<br>
 Вы добавляете половину своего уровень к урону этим оружием
-<br><br><br>Note<a class="internal-link" href="\предметы\оружия\оружия.html" target="_self"></a>1. Вы можете выбрать одно основное и одно дополнительное оружие4/22/2024, 3:46:24 PMNote<a class="internal-link" href="\предметы\оружия\сборка_оружия.html" target="_self"></a>1. У каждого оружия (стартовое Простое - 0, Воинское - 1) есть с...4/20/2024, 3:59:36 PM]]></description><link>предметы\оружия\свойства_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Свойства_Оружия.md</guid><pubDate>Sat, 20 Apr 2024 13:02:42 GMT</pubDate></item><item><title><![CDATA[Щит Единства Сердец]]></title><description><![CDATA[ 
- <br>Тип: Щит
-Редкость: Очень Редкое (требует настройки) 
-Copy<br><br>Владелец и его вторая половинка получают бонус<br>
-<br>+2 КУ и +2 КД, если они находятся в пределах 15 футов друг от друга
-<br>+1 КУ и +1 КД, если они находятся дальше 15 футов друг от друга
-<br><br>Один раз за продолжительный отдых<br>
-Когда вторая половинка становится целью атаки или вредного эффекта в пределах 60 футов, Владелец может реакцией стать целью этой атаки, мгновенно переместившись к Возлюбленному и совершить одну рукопашную атаку оружием как часть той же реакции против атакующего, независимо от дистанции]]></description><link>предметы\особые\щит-единства-сердец.html</link><guid isPermaLink="false">Предметы/Особые/Щит Единства Сердец.md</guid><pubDate>Tue, 23 Apr 2024 01:53:08 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
+<br><br><br>Note<a class="internal-link" href="\предметы\оружия\оружия.html" target="_self"></a>1. Вы можете выбрать одно основное и одно дополнительное оружие4/22/2024, 3:46:24 PMNote<a class="internal-link" href="\предметы\оружия\сборка_оружия.html" target="_self"></a>1. У каждого оружия (стартовое Простое - 0, Воинское - 1) есть с...4/20/2024, 3:59:36 PM]]></description><link>предметы\оружия\свойства_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Свойства_Оружия.md</guid><pubDate>Sat, 20 Apr 2024 13:02:42 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
  <br><br>
 <br>У каждого Щита (стартовое 0) есть своё количество Очков, которые тратятся по таблицам доспехов, оружия и щитов
 <br>Примерная цена оружия расчитывается по формуле, но может определятся мастером в зависимости от Сюжета:<br>
@@ -1002,16 +1008,17 @@ Copy<br><br>
 <br><a data-href="Сборка_Щита" href="\предметы\щиты\сборка_щита.html" class="internal-link" target="_self" rel="noopener">Сборка_Щита</a>
 <br><a data-href="Свойства_Щиты" href="\предметы\щиты\свойства_щиты.html" class="internal-link" target="_self" rel="noopener">Свойства_Щиты</a>
 <br>]]></description><link>предметы\щиты\щиты.html</link><guid isPermaLink="false">Предметы/Щиты/Щиты.md</guid><pubDate>Mon, 22 Apr 2024 12:42:11 GMT</pubDate></item><item><title><![CDATA[Содержание]]></title><description><![CDATA[ 
- <br><br>FolderContains 0 folders, 3 notes.ДоспехиFolderContains 0 folders, 3 notes.ОружияFolderContains 0 folders, 1 notes.ОсобыеFolderContains 0 folders, 3 notes.Щиты<br><br>
+ <br><br>FolderContains 0 folders, 3 notes.ДоспехиFolderContains 0 folders, 2 notes.Маг.СнаряжениеFolderContains 0 folders, 3 notes.ОружияFolderContains 0 folders, 3 notes.Щиты<br><br>
 <br><a data-href="Доспехи" href="\предметы\доспехи\доспехи.html" class="internal-link" target="_self" rel="noopener">Доспехи</a>
+<br>Маг.Снаряжение
+
+<br><a data-href="Кольца Гармонии" href="\предметы\маг.снаряжение\кольца-гармонии.html" class="internal-link" target="_self" rel="noopener">Кольца Гармонии</a>
+<br><a data-href="Щит Единства Сердец" href="\предметы\маг.снаряжение\щит-единства-сердец.html" class="internal-link" target="_self" rel="noopener">Щит Единства Сердец</a>
+
+
 <br><a data-href="Оружия" href="\предметы\оружия\оружия.html" class="internal-link" target="_self" rel="noopener">Оружия</a>
-<br>Особые
-
-<br><a data-href="Щит Единства Сердец" href="\предметы\особые\щит-единства-сердец.html" class="internal-link" target="_self" rel="noopener">Щит Единства Сердец</a>
-
-
 <br><a data-href="Щиты" href="\предметы\щиты\щиты.html" class="internal-link" target="_self" rel="noopener">Щиты</a>
-<br>]]></description><link>предметы\предметы.html</link><guid isPermaLink="false">Предметы/Предметы.md</guid><pubDate>Tue, 23 Apr 2024 01:44:53 GMT</pubDate></item><item><title><![CDATA[<a href="?query=tag:%D0%A2%D1%91%D0%BC%D0%BD%D0%BE%D0%B5_%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" class="tag" target="_blank" rel="noopener">#Тёмное_зрение</a>]]></title><description><![CDATA[<a class="tag" href="?query=tag:Гуманоид" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Гуманоид</a> <a class="tag" href="?query=tag:Маленький" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Маленький</a> <a class="tag" href="?query=tag:Скорость_25фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Скорость_25фт</a> <a class="tag" href="?query=tag:Тёмное_зрение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Тёмное_зрение</a> <a class="tag" href="?query=tag:Подрасы" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Подрасы</a> 
+<br>]]></description><link>предметы\предметы.html</link><guid isPermaLink="false">Предметы/Предметы.md</guid><pubDate>Tue, 23 Apr 2024 02:30:54 GMT</pubDate></item><item><title><![CDATA[<a href="?query=tag:%D0%A2%D1%91%D0%BC%D0%BD%D0%BE%D0%B5_%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" class="tag" target="_blank" rel="noopener">#Тёмное_зрение</a>]]></title><description><![CDATA[<a class="tag" href="?query=tag:Гуманоид" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Гуманоид</a> <a class="tag" href="?query=tag:Маленький" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Маленький</a> <a class="tag" href="?query=tag:Скорость_25фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Скорость_25фт</a> <a class="tag" href="?query=tag:Тёмное_зрение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Тёмное_зрение</a> <a class="tag" href="?query=tag:Подрасы" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Подрасы</a> 
  <br><br><br>
 У Вас есть острые кошачьи чувства, особенно в темноте. На расстоянии в 60 футов вы при тусклом освещении можете видеть так, как будто это яркое освещение, и в темноте так, как будто это тусклое освещение. В темноте вы не можете различать цвета, только оттенки серого
 <br><br>
