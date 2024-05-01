@@ -1,76 +1,11 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 01 May 2024 10:40:04 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 01 May 2024 10:40:02 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Монах]]></title><description><![CDATA[<a class="tag" href="?query=tag:КХ_1к10" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#КХ_1к10</a> <a class="tag" href="?query=tag:Простое" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Простое</a> <a class="tag" href="?query=tag:Короткие_мечи" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Короткие_мечи</a> <a class="tag" href="?query=tag:Сила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Сила</a> <a class="tag" href="?query=tag:Ловкость" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Ловкость</a> <a class="tag" href="?query=tag:Акробатика" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Акробатика</a> <a class="tag" href="?query=tag:Атлетика" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Атлетика</a> <a class="tag" href="?query=tag:История" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#История</a> <a class="tag" href="?query=tag:Проницательность" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Проницательность</a> <a class="tag" href="?query=tag:Религия" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Религия</a> <a class="tag" href="?query=tag:Скрытность" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Скрытность</a> <a class="tag" href="?query=tag:Уход_за_животными" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Уход_за_животными</a> 
- <br><br><br><br>
-<br>Кость Хитов: <a href=".?query=tag:КХ_1к10" class="tag" target="_blank" rel="noopener">#КХ_1к10</a> за каждый уровень
-<br>Хиты на 1 уровне: 10 + ваш модификатор Телосложения
-<br>Хиты на следующих уровнях: 1к10 (или 6) + модификатор Телосложения за каждый уровень этого класса, после первого (минимум 1)
-<br><br>
-<br>Доспехи:&nbsp;Нет
-<br>Оружие:&nbsp;<a href=".?query=tag:Простое" class="tag" target="_blank" rel="noopener">#Простое</a> <a href=".?query=tag:Короткие_мечи" class="tag" target="_blank" rel="noopener">#Короткие_мечи</a>
-<br>Инструменты:&nbsp;Выберите один вид&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/artisan_s_tools" rel="noopener" class="external-link" href="https://ttg.club/screens/artisan_s_tools" target="_blank">инструмента ремесленников</a>&nbsp;либо&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/musical_instruments" rel="noopener" class="external-link" href="https://ttg.club/screens/musical_instruments" target="_blank">музыкального инструмента</a>
-<br>Спаcброски:&nbsp;<a href=".?query=tag:Сила" class="tag" target="_blank" rel="noopener">#Сила</a> <a href=".?query=tag:Ловкость" class="tag" target="_blank" rel="noopener">#Ловкость</a>
-<br>Навыки:&nbsp;Выберите 2 навыка из следующих: <a href=".?query=tag:Акробатика" class="tag" target="_blank" rel="noopener">#Акробатика</a> <a href=".?query=tag:Атлетика" class="tag" target="_blank" rel="noopener">#Атлетика</a> <a href=".?query=tag:История" class="tag" target="_blank" rel="noopener">#История</a> <a href=".?query=tag:Проницательность" class="tag" target="_blank" rel="noopener">#Проницательность</a> <a href=".?query=tag:Религия" class="tag" target="_blank" rel="noopener">#Религия</a> <a href=".?query=tag:Скрытность" class="tag" target="_blank" rel="noopener">#Скрытность</a> <a href=".?query=tag:Уход_за_животными" class="tag" target="_blank" rel="noopener">#Уход_за_животными</a>
-<br><br>Вы начинаете со следующим снаряжением в дополнение к снаряжению, полученному за вашу предысторию:<br>
-<br>а)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/weapons/Shortsword" rel="noopener" class="external-link" href="https://ttg.club/weapons/Shortsword" target="_blank">короткий меч</a>&nbsp;или б) любое простое оружие
-<br>а)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/items/Dungeoneer's_Pack" rel="noopener" class="external-link" href="https://ttg.club/items/Dungeoneer's_Pack" target="_blank">набор исследователя подземелий</a>&nbsp;или б)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/items/Explorer's_Pack" rel="noopener" class="external-link" href="https://ttg.club/items/Explorer's_Pack" target="_blank">набор путешественника</a>
-<br>10&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/weapons/Dart" rel="noopener" class="external-link" href="https://ttg.club/weapons/Dart" target="_blank">дротиков</a><br>
-В качестве альтернативы базовому снаряжению, вы можете получить&nbsp;5к4&nbsp;зм. монет и купить себе&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/items" rel="noopener" class="external-link" href="https://ttg.club/items" target="_blank">снаряжение</a>&nbsp;самостоятельно.
-<br><br><br><br>1-й уровень, умение Монаха 
-Copy<br>Если вы не носите доспехи, ваш <br>
-<br>КД = 10 + мод Ловкости + мод Мудрости
-<br><br>
-<br>КУ = 10 + Лов + Муд
-<br>КД = 10 + Муд
-<br><br>1-й уровень, умение Монаха
-Copy<br>Вы можете научиться использовать различное оружие в качестве оружия монаха, а не только простое оружие ближнего боя и короткие мечи. Вы можете овладеть любым оружием во время длительного отдыха, если оно не обладает тяжелым или особым свойствами. Это оружие считается для вас оружием монаха. Одновременно у вас может быть только 1 специальное оружие<br><br>1-й уровень, умение Монаха
-Copy<br>Ваше знание боевых искусств позволяет вам эффективно использовать в бою безоружные удары и оружие монахов.<br>
-Если вы безоружны или используете только монашеское оружие, и не носите ни доспехов, ни щита, вы получаете следующие преимущества:<br>
-<br>Вы можете использовать&nbsp;Ловкость&nbsp;вместо&nbsp;Силы&nbsp;для бросков атак и урона ваших безоружных ударов и атак монашеским оружием
-<br>Вы можете использовать кость <a data-tooltip-position="top" aria-label="МОНАХ > ^716e46" data-href="МОНАХ#^716e46" href="\классы\монах\монах.html#^716e46" class="internal-link" target="_self" rel="noopener">1к6</a> вместо обычной кости урона ваших <a data-tooltip-position="top" aria-label="https://ttg.club/screens/unarmed_strike" rel="noopener" class="external-link" href="https://ttg.club/screens/unarmed_strike" target="_blank">безоружных_ударов</a> или атак монашеским оружием. Эта кость увеличивается с вашим уровнем, как показано в колонке <a data-tooltip-position="top" aria-label="МОНАХ > ^716e46" data-href="МОНАХ#^716e46" href="\классы\монах\монах.html#^716e46" class="internal-link" target="_self" rel="noopener">БИ</a> (боевые искусства)
-<br>При <a data-tooltip-position="top" aria-label="https://ttg.club/screens/unarmed_strike" rel="noopener" class="external-link" href="https://ttg.club/screens/unarmed_strike" target="_blank">безоружном_ударе</a> или атаке монашеским оружием вы можете атаковать <a data-tooltip-position="top" aria-label="https://ttg.club/screens/unarmed_strike" rel="noopener" class="external-link" href="https://ttg.club/screens/unarmed_strike" target="_blank">безоружным_ударом</a>, как часть того же действия (на каждую атаку), если вы используете 2 оружия в обоих руках, данная способность не работает 
-<br><br>2-й уровень, умение Монаха
-Copy<br>Ваши тренировки позволяют вам управлять мистической энергией ци. Ваш доступ к этой энергии выражается количеством очков ци. Ваш уровень монаха определяет это количество, согласно колонке <a data-tooltip-position="top" aria-label="МОНАХ > ^716e46" data-href="МОНАХ#^716e46" href="\классы\монах\монах.html#^716e46" class="internal-link" target="_self" rel="noopener">Ци</a><br>Вы можете использовать эти очки чтобы активировать различные умения ци. Вначале вам известны следующие три умения: <a data-href="#Поступь ветра" href="\#Поступь_ветра" class="internal-link" target="_self" rel="noopener">Поступь ветра</a>, <a data-href="#Терпеливая оборона" href="\#Терпеливая_оборона" class="internal-link" target="_self" rel="noopener">Терпеливая оборона</a> и <a data-tooltip-position="top" aria-label="МОНАХ > ^91321d" data-href="МОНАХ#^91321d" href="\классы\монах\монах.html#^91321d" class="internal-link" target="_self" rel="noopener">Шквал ударов</a>. С повышением уровня в этом классе вы выучите новые умения ци<br>Все потраченные очки ци восполняются по окончании короткого или продолжительного отдыха. Вы должны потратить как минимум 30 минут на медитацию для их восстановления. Некоторые из ваших умений ци требуют от цели спасброска, позволяющего избежать эффекта. Сл такого спасброска определяется следующим образом:<br>Сл спасброска ци = 8 + БМ + мод Мудрости<br><br>
-<br>Вы можете потратить 1 очко ци в свой ход, чтобы совершить бонусным действием <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Disengage" rel="noopener" class="external-link" href="https://ttg.club/screens/Disengage" target="_blank">Отход</a> или <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Dash" rel="noopener" class="external-link" href="https://ttg.club/screens/Dash" target="_blank">Рывок</a>. В этот ход дальность ваших прыжков удваивается
-<br><br>
-<br>Вы тратите 1 очко ци в свой ход, чтобы совершить бонусным действием <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Dodge" rel="noopener" class="external-link" href="https://ttg.club/screens/Dodge" target="_blank">Уклонение</a>
-<br><br>
-<br>Сразу же после того, как вы в свой ход совершили действие Атака, вы можете потратить 1 очко ци, чтобы совершить бонусным действием две <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Unarmed_Strike" rel="noopener" class="external-link" href="https://ttg.club/screens/Unarmed_Strike" target="_blank">безоружные атаки</a>
-<br><br>2-й уровень, умение Монаха
-Copy<br>Ваша скорость увеличивается, если вы не носите доспехов и щит. Как показано в таблице, согласно колонке <a data-tooltip-position="top" aria-label="МОНАХ > ^716e46" data-href="МОНАХ#^716e46" href="\классы\монах\монах.html#^716e46" class="internal-link" target="_self" rel="noopener">ПБД</a><br><br>
-<br>вы получаете возможность в свой ход перемещаться по вертикальным поверхностям и по поверхности жидкости, не падая во время движения
-<br><br>3-й уровень, умение Монаха
-Copy<br>У вас сильная защита как снаружи, так и внутри. Вы невосприимчивы к болезням и имеете преимущество в спасбросках против яда, а также устойчивость к урону от яда<br><br>3-й уровень, умение Монаха
-Copy<br>Вы посвящаете себя монашеской традиции. Ваша традиция предоставляет вам возможности на 3-м уровне и снова на 6-м, 11-м и 17-м уровнях<br><br>3-й уровень, умение Монаха
-Copy<br>Вы можете использовать свою реакцию, чтобы отразить или перехватить удар, когда в вас попадает атака. Когда вы делаете это, любой наносимый дробящий, колющий или режущий урон, уменьшается на<br>1d10 (6) + мод Ловкости + уровень монаха<br>Если вы уменьшите урон до 0, вы можете потратить 1 очко ци на безоружную атаку существа, если оно находится в пределах досягаемости<br>Если атака была дальнобойной, вы можете метнуть снаряд обратно в существо, если снаряд достаточно мал, чтобы вы могли держать ее в одной руке, и у вас свободна хотя бы одна рука.<br>Если вы поймаете снаряд таким образом, вы можете потратить 1 очко ци на дальнюю атаку с дальностью 30/60фт, используя оружие или боеприпас, которые вы только что поймали. Вы совершаете эту атаку с БМ, независимо от ваших навыков владения оружием, и снаряд считается основным оружием для атаки.<br><br>
-<br>Вы можете использовать свою реакцию, чтобы отразить атаку и занять оборонительную стойку. В этой стойке вы можете отразить дополнительную атаку. Атака существа по-прежнему стоит 1 ци каждый раз, когда вы уменьшаете урон от атаки до нуля. Эта стойка сохраняется до начала вашего следующего хода.
-<br><br>
-<br>Вы можете отразить 2 дополнительные атаки, всего 3
-<br><br>4-й уровень, умение Монаха
-Copy<br>При достижении 4, 8, 12, 16 и 19 уровней вы можете повысить значение одной из ваших характеристик на 2 или двух характеристик на 1 или выбрать черту. Как обычно, значение характеристики при этом не должно превысить 20<br><br>4-й уровень, умение Монаха
-Copy<br>Постоянный поток ци по всему телу помогает восстанавливать его при травмах. Когда вы восстанавливаете очки жизни из любого источника, в том числе с помощью дайса хитов, вы получаете дополнительно<br>Хил = Хил + мод Мудрости<br><br>4-й уровень, умение Монаха
-Copy<br>Если вы упали, вы можете реакцией уменьшить высоту падения на уровень монаха * 5<br><br>5-й уровень, умение Монаха
-Copy<br>Вы можете атаковать дважды, вместо одного раза, всякий раз, когда вы выполняете атакующее действие в свой ход<br><br>5-й уровень, умение Монаха
-Copy<br>Вы можете вмешиваться в поток ци в теле противника. Когда вы поражаете другое существо атакой ближнего боя, вы можете потратить 1ци на попытку ошеломляющего удара. Цель должна успешно выполнить спасительный бросок Телосложения &nbsp;или быть оглушена до конца вашего следующего хода.<br>
-<br>Вы можете использовать эту способность один раз за ход
-<br><br>5-й уровень, умение Монаха
-Copy<br>Когда вы промахиваетесь при броске атаки, вы можете потратить 1-3 ци, чтобы увеличить свой бросок атаки на 2 за ци<br><br>6-й уровень, умение Монаха
-Copy<br>ваши безоружные удары считаются магическими при определении преодоления сопротивления и иммунитета к немагическим атакам и урону<br><br>7-го уровня, умение Монаха
-Copy<br>Ваша ловкость позволяет вам уклоняться от эффектов, направленных на определённую область, вроде дыхания синего дракона или заклинания огненный шар [fireball]<br>Если вы попадаете под действие эффекта, позволяющего совершить спасбросок Ловкости, чтобы получить только половину урона, вы вместо этого не получаете урона при успешном спасброске и получаете только половину урона при проваленном<br><br>7-й уровень, умение Монаха
-Copy<br>Вы невосприимчивы к очарованию<br>
-Кроме того, всякий раз, когда вы делаете спас-бросок и терпите неудачу, вы можете потратить 1 очко ци, чтобы повторить его и получить второй результат<br><br>10-го уровня, умение Монаха
-Copy<br>Вы невосприимчивы к повреждениям ядом и отравленному состоянию<br><br>11-го уровня, умение Монаха
-Copy<br>Если ваше специальное оружие магическое, ваша ци наполняется магией оружия. Ваши удары без оружия наносят любой дополнительный урон, который есть у вашего специального оружия, а также приобретают любые его магические свойства<br>
-<br>Бонусы от “перчаток” и подобных оружий не применяются
-<br>Если ваше специальное оружие использует заряды, вы можете использовать заряд из этого оружия при атаке без оружия<br>Например, если у вас был длинный меч +1, который наносил дополнительный урон 1d6 и имел шанс сбить существо с ног при попадании, ваши кулаки действовали бы как оружие +1, а также наносили бы дополнительный урон 1d6 огнем и имели шанс сбить существо с ног<br><br>13-й уровень, умение Монаха
-Copy<br>Вы понимаете, как взаимодействовать с энергией ци в чужом разуме, и теперь вы понимаете речь на любом языке. Кроме того, все существа, способные понимать хотя бы один язык, понимают то, что вы сказали<br><br>14-го уровня, умение Монаха
-Copy<br>Ваш разум и тело были сосредоточены посредством постоянной медитации. Вы приобретаете БМ для спас-бросков: телосложения, интеллекта, мудрости, харизмы и смертельных<br><br>15-й уровень, умение Монаха
-Copy<br>Ваша ци поддерживает вас, и ваше тело больше не подвержено признакам старения. Вы не можете быть состарены магически. Впрочем, вы всё ещё можете умереть от старости. Кроме того, вам больше не требуется еда и вода<br><br>15-й уровень, умение Монаха
-Copy<br>Когда вы выполняете бросок за инициативу и у вас 0 ци, вы получаете 4 очка ци<br><br>18-й уровень, умение Монаха
-Copy<br>Вы можете действием потратить 4 ци, чтобы стать невидимым на 1 минуту<br>
-В течение этого времени вы получаете сопротивление всем видам урона кроме урона силовым полем<br>
-Кроме того, вы можете потратить 8 ци, чтобы использовать заклинание проекция в астрал [astral projection] без применения материальных компонентов<br>
-Вы не можете перемещать кого-либо вместе с собой<br><br>20-й уровень, умение Монаха
-Copy<br>Ваше владение ци позволяет вам выполнять базовые техники без особых усилий. Вы можете использовать <a data-tooltip-position="top" aria-label="МОНАХ > ^4dcc74" data-href="МОНАХ#^4dcc74" href="\классы\монах\монах.html#^4dcc74" class="internal-link" target="_self" rel="noopener">Шквал ударов</a>, <a data-tooltip-position="top" aria-label="МОНАХ > ^0c7d98" data-href="МОНАХ#^0c7d98" href="\классы\монах\монах.html#^0c7d98" class="internal-link" target="_self" rel="noopener">Терпеливая оборона</a> и <a data-tooltip-position="top" aria-label="МОНАХ > ^8c9df1" data-href="МОНАХ#^8c9df1" href="\классы\монах\монах.html#^8c9df1" class="internal-link" target="_self" rel="noopener">Поступь ветра</a> не тратя очки ци<br>
-Также ваши показатели ловкости и телосложения +4, максимум данных характеристик равен 24<br><br><br>]]></description><link>классы\монах\монах.html</link><guid isPermaLink="false">Классы/Монах/Монах.md</guid><pubDate>Wed, 01 May 2024 10:39:56 GMT</pubDate></item><item><title><![CDATA[Свойства_Доспехи]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 01 May 2024 17:57:25 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 01 May 2024 17:57:23 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Крыло Калдера]]></title><description><![CDATA[ 
+ <br>Тип: Средний Щит
+Редкость: Очень Редкое (требует настройки) 
+Copy<br><br>Владелец и его вторая половинка получают бонус<br>
+<br>+2 КУ и +2 КД, если они находятся в пределах 15 футов друг от друга
+<br>+1 КУ и +1 КД, если они находятся дальше 15 футов друг от друга
+<br><br>Один раз за продолжительный отдых<br>
+Когда вторая половинка становится целью атаки или вредного эффекта в пределах 60 футов, Владелец может реакцией стать целью этой атаки, мгновенно переместившись к Возлюбленному и совершить одну рукопашную атаку оружием как часть той же реакции против атакующего, независимо от дистанции<br><br>]]></description><link>мелетис\предметы\маг.снаряжение\крыло-калдера.html</link><guid isPermaLink="false">Мелетис/Предметы/Маг.Снаряжение/Крыло Калдера.md</guid><pubDate>Wed, 01 May 2024 17:57:12 GMT</pubDate></item><item><title><![CDATA[Свойства_Доспехи]]></title><description><![CDATA[ 
  <br><br>
 Вы удваиваете ПБ от этого доспеха, но ваш КУ уменьшается вдвое (в два раза)
 <br><br>
@@ -118,7 +53,7 @@ Copy
 *Требование: Отсутствие "Зазубренный"*
 Copy
 <br>
-<br>Каждый раз при лечении вы уменьшаете его на количество равное вашему модификатору Телосложения
+<br>Каждый раз при лечении вы уменьшаете его на количество равное вашему бонусу мастерства
 <br>Вы лечитесь в 2 раза хуже
 <br>Вы не можете исцеляться
 <br><br>
@@ -190,7 +125,179 @@ Copy
 <br>Ваш Удвоенный Бонус мастерства
 <br>Ваш Уровень
 
-]]></description><link>предметы\доспехи\свойства_доспехи.html</link><guid isPermaLink="false">Предметы/Доспехи/Свойства_Доспехи.md</guid><pubDate>Wed, 01 May 2024 08:40:53 GMT</pubDate></item><item><title><![CDATA[Содержание]]></title><description><![CDATA[ 
+]]></description><link>предметы\доспехи\свойства_доспехи.html</link><guid isPermaLink="false">Предметы/Доспехи/Свойства_Доспехи.md</guid><pubDate>Wed, 01 May 2024 17:10:22 GMT</pubDate></item><item><title><![CDATA[Свойства_Оружия]]></title><description><![CDATA[ 
+ <br><br>
+*Требование: не "Легкое"*
+Copy
+Это оружие нужно держать двумя руками, когда вы атакуете им<br>
+Дальность метания данного уменьшена вдвое (в 2 раза)
+<br><br>
+*Требование: не "Двуручное"*
+Copy
+Экипируя Основное и дополнительное оружие с этим свойством, вы можете атаковать дополнительным оружием как "<a data-tooltip-position="top" aria-label="https://ttg.club/screens/offhand_attack" rel="noopener" class="external-link" href="https://ttg.club/screens/offhand_attack" target="_blank">вторым</a>"
+<br><br>
+-1 к проверкам и спасброскам Ловкости<br>
+Дальность метания данного уменьшена вдвое (в 2 раза)
+<br><br>
+*Требование: Дистанция атаки больше 10 фт
+Copy
+Вы совершаете с&nbsp;помехой&nbsp;атаки по существам, находящимся в пределах половины вашей досягаемости<br>
+(Досягаемость 10 =&gt; помеха в 5)
+<br><br>
+-1 к Классу Доспеха
+<br><br>
+-1 к проверкам и спасброскам Ловкости<br>
+Когда вы совершаете бросок урона, вы можете перебросить кость урона этого оружия и использовать любой из вариантов
+<br><br>
+*Требование: Дальнобойное оружие*
+Copy
+Если ваша Сила ниже 18, вы не можете использовать данное оружие 
+<br><br>
++1 к броскам атаки этим оружием
+<br><br>
+Когда вы совершаете бросок урона, вы можете перебросить кость урона этого оружия и использовать любой из вариантов
+<br><br>
+Если вы выбрасываете максимальное значение на кости урона оружия вы добавляете ещё 1 кость урона оружия
+
+<br>Это свойтво также работает на дополтельные кости урона от этого свойства
+
+<br><br>
+При критической атаке оружием вы можете испугать цель, наложив на неё Ужас
+<br><br>
+Требование: Свойство "<a data-href="#Смертоносное" href="\#Смертоносное" class="internal-link" target="_self" rel="noopener">Смертоносное</a>"<br>
+Если вы выбрасываете максимальное значение на кости урона оружия вы добавляете ещё 1 кость урона оружия
+<br><br>
+После атаки бросьте свою кость урона, при выпадении 1, вам нужно будет Действием перезарядить его
+<br><br>
+При попадании атакой, враги в пределах 5 футов от цели получает половину урона атаки этого оружия 
+<br><br>
++1 к проверкам навыков
+<br><br>
+Значение 1 характеристики на ваш выбор не может быть выше 10
+<br><br>
++1 ко всем спасброскам
+<br><br>
+-1 к характеристике и +1 к другой
+<br><br>
+Вы с преимущетвом атакуете цель, если в пределах 10 футов от вас нет ни одного сущетва, не считая цели
+<br><br>
+Атакуя вы можете изменить кость урона своего оружия на к20, но при этом враги получают преимущество на атаки по вам до конца вашего следующего хода
+<br><br>
+Ваше оружие может быть скрыто
+<br><br>
+Добавляет Бонус мастерства к урону
+<br><br>
+Каждый раз атакуя этим оружием вы должны преуспеть в спасброске Телосложения сложностью 5 + модификатор Атаки оружия, иначе получая степень истощения
+<br><br>
+При промахе атаки вы можете перебросить один к20, вы должны использовать новый результат
+<br><br>
+Если у вас выпало 1 на кости урона оружием, то вы можете перебросить эту кость
+<br><br>
+Добавляет ваш Бонус Мастерства к лечению исходящему от вас 
+
+<br>не действует на носителя
+
+<br><br>
+При успешной атаке цель должна пройти спасбросок Телосложнеия, равный половине урона или 10, в зависимости от того, что выше<br>
+В случае провала цель не может восстанавливать Хиты до начала вашего следующего хода
+<br><br>
+Вы можете попытаться Схватить цель на расстоянии равном удвоенной дальности вашей атаки (минимум 15 футов), при успехе притягивая её к себе
+<br><br>
+Своей атакой вы можете поразить ВСЕХ врагов, выстроившихся в линию в пределах досягаемости
+<br><br>
+Своей атакой вы можете поразить ВСЕХ врагов, в пределах досягаемости
+<br><br>
+При успешной атаке цель должна пройти спасбросок Телосложнеия, равный половине урона или 10, в зависимости от того, что выше<br>
+В случае провала цель становиться Ошелослена до начала вашего следующего хода
+<br><br>
+При успешной атаке вы можете оттолкнуть врага на 5 футов от себя
+<br><br>
+При успешной атаке вы можете совершить дополнительно атаку по ближайшему существу в области вашей досягаемости.<br>
+Ваше оружие может отскакивать количество раз, равное вашему Бонусу Мастерства, до тех пор пока не промажет
+<br><br>
+Игнорирует все укрытия
+<br><br>
+Восстанавливает 1 / 5 урона оружием, округляя в меньшую сторону
+<br><br>
+При успешной атаке вы можете увеличить количество костей урона этой атаки потратив денег на сумму равную количеству бонусных костей умноженному на  максимальное значение кости урона оружия умноженное на ваш уровень<br>
+Пример: 1к6 | 5 уровень | 3 доп.Кости<br>
+=&gt; 6 x 5 x 3 = 90 монет, атака нанесет 4к6 урона
+<br><br>
+Это оружие не могут использовать другие<br>
+Вы добавляете половину своего уровня к урону этим оружием
+<br><br><br>Note<a class="internal-link" href="\предметы\оружия\оружия.html" target="_self"></a>1. Вы можете выбрать одно основное и одно дополнительное оружие4/23/2024, 10:37:09 AMNote<a class="internal-link" href="\предметы\оружия\сборка_оружия.html" target="_self"></a>1. У каждого оружия (стартовое Простое - 0, Воинское - 1) есть с...4/25/2024, 12:52:52 PM]]></description><link>предметы\оружия\свойства_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Свойства_Оружия.md</guid><pubDate>Wed, 01 May 2024 17:31:16 GMT</pubDate></item><item><title><![CDATA[Монах]]></title><description><![CDATA[<a class="tag" href="?query=tag:КХ_1к10" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#КХ_1к10</a> <a class="tag" href="?query=tag:Простое" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Простое</a> <a class="tag" href="?query=tag:Короткие_мечи" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Короткие_мечи</a> <a class="tag" href="?query=tag:Сила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Сила</a> <a class="tag" href="?query=tag:Ловкость" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Ловкость</a> <a class="tag" href="?query=tag:Акробатика" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Акробатика</a> <a class="tag" href="?query=tag:Атлетика" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Атлетика</a> <a class="tag" href="?query=tag:История" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#История</a> <a class="tag" href="?query=tag:Проницательность" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Проницательность</a> <a class="tag" href="?query=tag:Религия" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Религия</a> <a class="tag" href="?query=tag:Скрытность" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Скрытность</a> <a class="tag" href="?query=tag:Уход_за_животными" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Уход_за_животными</a> 
+ <br><br><br><br>
+<br>Кость Хитов: <a href=".?query=tag:КХ_1к10" class="tag" target="_blank" rel="noopener">#КХ_1к10</a> за каждый уровень
+<br>Хиты на 1 уровне: 10 + ваш модификатор Телосложения
+<br>Хиты на следующих уровнях: 1к10 (или 6) + модификатор Телосложения за каждый уровень этого класса, после первого (минимум 1)
+<br><br>
+<br>Доспехи:&nbsp;Нет
+<br>Оружие:&nbsp;<a href=".?query=tag:Простое" class="tag" target="_blank" rel="noopener">#Простое</a> <a href=".?query=tag:Короткие_мечи" class="tag" target="_blank" rel="noopener">#Короткие_мечи</a>
+<br>Инструменты:&nbsp;Выберите один вид&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/artisan_s_tools" rel="noopener" class="external-link" href="https://ttg.club/screens/artisan_s_tools" target="_blank">инструмента ремесленников</a>&nbsp;либо&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/musical_instruments" rel="noopener" class="external-link" href="https://ttg.club/screens/musical_instruments" target="_blank">музыкального инструмента</a>
+<br>Спаcброски:&nbsp;<a href=".?query=tag:Сила" class="tag" target="_blank" rel="noopener">#Сила</a> <a href=".?query=tag:Ловкость" class="tag" target="_blank" rel="noopener">#Ловкость</a>
+<br>Навыки:&nbsp;Выберите 2 навыка из следующих: <a href=".?query=tag:Акробатика" class="tag" target="_blank" rel="noopener">#Акробатика</a> <a href=".?query=tag:Атлетика" class="tag" target="_blank" rel="noopener">#Атлетика</a> <a href=".?query=tag:История" class="tag" target="_blank" rel="noopener">#История</a> <a href=".?query=tag:Проницательность" class="tag" target="_blank" rel="noopener">#Проницательность</a> <a href=".?query=tag:Религия" class="tag" target="_blank" rel="noopener">#Религия</a> <a href=".?query=tag:Скрытность" class="tag" target="_blank" rel="noopener">#Скрытность</a> <a href=".?query=tag:Уход_за_животными" class="tag" target="_blank" rel="noopener">#Уход_за_животными</a>
+<br><br>Вы начинаете со следующим снаряжением в дополнение к снаряжению, полученному за вашу предысторию:<br>
+<br>а)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/weapons/Shortsword" rel="noopener" class="external-link" href="https://ttg.club/weapons/Shortsword" target="_blank">короткий меч</a>&nbsp;или б) любое простое оружие
+<br>а)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/items/Dungeoneer's_Pack" rel="noopener" class="external-link" href="https://ttg.club/items/Dungeoneer's_Pack" target="_blank">набор исследователя подземелий</a>&nbsp;или б)&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/items/Explorer's_Pack" rel="noopener" class="external-link" href="https://ttg.club/items/Explorer's_Pack" target="_blank">набор путешественника</a>
+<br>10&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/weapons/Dart" rel="noopener" class="external-link" href="https://ttg.club/weapons/Dart" target="_blank">дротиков</a><br>
+В качестве альтернативы базовому снаряжению, вы можете получить&nbsp;5к4&nbsp;зм. монет и купить себе&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/items" rel="noopener" class="external-link" href="https://ttg.club/items" target="_blank">снаряжение</a>&nbsp;самостоятельно.
+<br><br><br><br>1-й уровень, умение Монаха 
+Copy<br>Если вы не носите доспехи, ваш <br>
+<br>КД = 10 + мод Ловкости + мод Мудрости
+<br><br>
+<br>КУ = 10 + Лов + Муд
+<br>КД = 10 + Муд
+<br><br>1-й уровень, умение Монаха
+Copy<br>Вы можете научиться использовать различное оружие в качестве оружия монаха, а не только простое оружие ближнего боя и короткие мечи. Вы можете овладеть любым оружием во время длительного отдыха, если оно не обладает тяжелым или особым свойствами. Это оружие считается для вас оружием монаха. Одновременно у вас может быть только 1 специальное оружие<br><br>1-й уровень, умение Монаха
+Copy<br>Ваше знание боевых искусств позволяет вам эффективно использовать в бою безоружные удары и оружие монахов.<br>
+Если вы безоружны или используете только монашеское оружие, и не носите ни доспехов, ни щита, вы получаете следующие преимущества:<br>
+<br>Вы можете использовать&nbsp;Ловкость&nbsp;вместо&nbsp;Силы&nbsp;для бросков атак и урона ваших безоружных ударов и атак монашеским оружием
+<br>Вы можете использовать кость <a data-tooltip-position="top" aria-label="МОНАХ > ^716e46" data-href="МОНАХ#^716e46" href="\классы\монах\монах.html#^716e46" class="internal-link" target="_self" rel="noopener">1к6</a> вместо обычной кости урона ваших <a data-tooltip-position="top" aria-label="https://ttg.club/screens/unarmed_strike" rel="noopener" class="external-link" href="https://ttg.club/screens/unarmed_strike" target="_blank">безоружных_ударов</a> или атак монашеским оружием. Эта кость увеличивается с вашим уровнем, как показано в колонке <a data-tooltip-position="top" aria-label="МОНАХ > ^716e46" data-href="МОНАХ#^716e46" href="\классы\монах\монах.html#^716e46" class="internal-link" target="_self" rel="noopener">БИ</a> (боевые искусства)
+<br>При <a data-tooltip-position="top" aria-label="https://ttg.club/screens/unarmed_strike" rel="noopener" class="external-link" href="https://ttg.club/screens/unarmed_strike" target="_blank">безоружном_ударе</a> или атаке монашеским оружием вы можете атаковать <a data-tooltip-position="top" aria-label="https://ttg.club/screens/unarmed_strike" rel="noopener" class="external-link" href="https://ttg.club/screens/unarmed_strike" target="_blank">безоружным_ударом</a>, как часть того же действия (на каждую атаку), если вы используете 2 оружия в обоих руках, данная способность не работает 
+<br><br>2-й уровень, умение Монаха
+Copy<br>Ваши тренировки позволяют вам управлять мистической энергией ци. Ваш доступ к этой энергии выражается количеством очков ци. Ваш уровень монаха определяет это количество, согласно колонке <a data-tooltip-position="top" aria-label="МОНАХ > ^716e46" data-href="МОНАХ#^716e46" href="\классы\монах\монах.html#^716e46" class="internal-link" target="_self" rel="noopener">Ци</a><br>Вы можете использовать эти очки чтобы активировать различные умения ци. Вначале вам известны следующие три умения: <a data-href="#Поступь ветра" href="\#Поступь_ветра" class="internal-link" target="_self" rel="noopener">Поступь ветра</a>, <a data-href="#Терпеливая оборона" href="\#Терпеливая_оборона" class="internal-link" target="_self" rel="noopener">Терпеливая оборона</a> и <a data-tooltip-position="top" aria-label="МОНАХ > ^91321d" data-href="МОНАХ#^91321d" href="\классы\монах\монах.html#^91321d" class="internal-link" target="_self" rel="noopener">Шквал ударов</a>. С повышением уровня в этом классе вы выучите новые умения ци<br>Все потраченные очки ци восполняются по окончании короткого или продолжительного отдыха. Вы должны потратить как минимум 30 минут на медитацию для их восстановления. Некоторые из ваших умений ци требуют от цели спасброска, позволяющего избежать эффекта. Сл такого спасброска определяется следующим образом:<br>Сл спасброска ци = 8 + БМ + мод Мудрости<br><br>
+<br>Вы можете потратить 1 очко ци в свой ход, чтобы совершить бонусным действием <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Disengage" rel="noopener" class="external-link" href="https://ttg.club/screens/Disengage" target="_blank">Отход</a> или <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Dash" rel="noopener" class="external-link" href="https://ttg.club/screens/Dash" target="_blank">Рывок</a>. В этот ход дальность ваших прыжков удваивается
+<br><br>
+<br>Вы тратите 1 очко ци в свой ход, чтобы совершить бонусным действием <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Dodge" rel="noopener" class="external-link" href="https://ttg.club/screens/Dodge" target="_blank">Уклонение</a>
+<br><br>
+<br>Сразу же после того, как вы в свой ход совершили действие Атака, вы можете потратить 1 очко ци, чтобы совершить бонусным действием две <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Unarmed_Strike" rel="noopener" class="external-link" href="https://ttg.club/screens/Unarmed_Strike" target="_blank">безоружные атаки</a>
+<br><br>2-й уровень, умение Монаха
+Copy<br>Ваша скорость увеличивается, если вы не носите доспехов и щит. Как показано в таблице, согласно колонке <a data-tooltip-position="top" aria-label="МОНАХ > ^716e46" data-href="МОНАХ#^716e46" href="\классы\монах\монах.html#^716e46" class="internal-link" target="_self" rel="noopener">ПБД</a><br><br>
+<br>вы получаете возможность в свой ход перемещаться по вертикальным поверхностям и по поверхности жидкости, не падая во время движения
+<br><br>3-й уровень, умение Монаха
+Copy<br>У вас сильная защита как снаружи, так и внутри. Вы невосприимчивы к болезням и имеете преимущество в спасбросках против яда, а также устойчивость к урону от яда<br><br>3-й уровень, умение Монаха
+Copy<br>Вы посвящаете себя монашеской традиции. Ваша традиция предоставляет вам возможности на 3-м уровне и снова на 6-м, 11-м и 17-м уровнях<br><br>3-й уровень, умение Монаха
+Copy<br>Вы можете использовать свою реакцию, чтобы отразить или перехватить удар, когда в вас попадает атака. Когда вы делаете это, любой наносимый дробящий, колющий или режущий урон, уменьшается на<br>1d10 (6) + мод Ловкости + уровень монаха<br>Если вы уменьшите урон до 0, вы можете потратить 1 очко ци на безоружную атаку существа, если оно находится в пределах досягаемости<br>Если атака была дальнобойной, вы можете метнуть снаряд обратно в существо, если снаряд достаточно мал, чтобы вы могли держать ее в одной руке, и у вас свободна хотя бы одна рука.<br>Если вы поймаете снаряд таким образом, вы можете потратить 1 очко ци на дальнюю атаку с дальностью 30/60фт, используя оружие или боеприпас, которые вы только что поймали. Вы совершаете эту атаку с БМ, независимо от ваших навыков владения оружием, и снаряд считается основным оружием для атаки.<br><br>
+<br>Вы можете использовать свою реакцию, чтобы отразить атаку и занять оборонительную стойку. В этой стойке вы можете отразить дополнительную атаку. Атака существа по-прежнему стоит 1 ци каждый раз, когда вы уменьшаете урон от атаки до нуля. Эта стойка сохраняется до начала вашего следующего хода.
+<br><br>
+<br>Вы можете отразить 2 дополнительные атаки, всего 3
+<br><br>4-й уровень, умение Монаха
+Copy<br>При достижении 4, 8, 12, 16 и 19 уровней вы можете повысить значение одной из ваших характеристик на 2 или двух характеристик на 1 или выбрать черту. Как обычно, значение характеристики при этом не должно превысить 20<br><br>4-й уровень, умение Монаха
+Copy<br>Постоянный поток ци по всему телу помогает восстанавливать его при травмах. Когда вы восстанавливаете очки жизни из любого источника, в том числе с помощью дайса хитов, вы получаете дополнительно<br>Хил = Хил + мод Мудрости<br><br>4-й уровень, умение Монаха
+Copy<br>Если вы упали, вы можете реакцией уменьшить высоту падения на уровень монаха * 5<br><br>5-й уровень, умение Монаха
+Copy<br>Вы можете атаковать дважды, вместо одного раза, всякий раз, когда вы выполняете атакующее действие в свой ход<br><br>5-й уровень, умение Монаха
+Copy<br>Вы можете вмешиваться в поток ци в теле противника. Когда вы поражаете другое существо атакой ближнего боя, вы можете потратить 1ци на попытку ошеломляющего удара. Цель должна успешно выполнить спасительный бросок Телосложения &nbsp;или быть оглушена до конца вашего следующего хода.<br>
+<br>Вы можете использовать эту способность один раз за ход
+<br><br>5-й уровень, умение Монаха
+Copy<br>Когда вы промахиваетесь при броске атаки, вы можете потратить 1-3 ци, чтобы увеличить свой бросок атаки на 2 за ци<br><br>6-й уровень, умение Монаха
+Copy<br>ваши безоружные удары считаются магическими при определении преодоления сопротивления и иммунитета к немагическим атакам и урону<br><br>7-го уровня, умение Монаха
+Copy<br>Ваша ловкость позволяет вам уклоняться от эффектов, направленных на определённую область, вроде дыхания синего дракона или заклинания огненный шар [fireball]<br>Если вы попадаете под действие эффекта, позволяющего совершить спасбросок Ловкости, чтобы получить только половину урона, вы вместо этого не получаете урона при успешном спасброске и получаете только половину урона при проваленном<br><br>7-й уровень, умение Монаха
+Copy<br>Вы невосприимчивы к очарованию<br>
+Кроме того, всякий раз, когда вы делаете спас-бросок и терпите неудачу, вы можете потратить 1 очко ци, чтобы повторить его и получить второй результат<br><br>10-го уровня, умение Монаха
+Copy<br>Вы невосприимчивы к повреждениям ядом и отравленному состоянию<br><br>11-го уровня, умение Монаха
+Copy<br>Если ваше специальное оружие магическое, ваша ци наполняется магией оружия. Ваши удары без оружия наносят любой дополнительный урон, который есть у вашего специального оружия, а также приобретают любые его магические свойства<br>
+<br>Бонусы от “перчаток” и подобных оружий не применяются
+<br>Если ваше специальное оружие использует заряды, вы можете использовать заряд из этого оружия при атаке без оружия<br>Например, если у вас был длинный меч +1, который наносил дополнительный урон 1d6 и имел шанс сбить существо с ног при попадании, ваши кулаки действовали бы как оружие +1, а также наносили бы дополнительный урон 1d6 огнем и имели шанс сбить существо с ног<br><br>13-й уровень, умение Монаха
+Copy<br>Вы понимаете, как взаимодействовать с энергией ци в чужом разуме, и теперь вы понимаете речь на любом языке. Кроме того, все существа, способные понимать хотя бы один язык, понимают то, что вы сказали<br><br>14-го уровня, умение Монаха
+Copy<br>Ваш разум и тело были сосредоточены посредством постоянной медитации. Вы приобретаете БМ для спас-бросков: телосложения, интеллекта, мудрости, харизмы и смертельных<br><br>15-й уровень, умение Монаха
+Copy<br>Ваша ци поддерживает вас, и ваше тело больше не подвержено признакам старения. Вы не можете быть состарены магически. Впрочем, вы всё ещё можете умереть от старости. Кроме того, вам больше не требуется еда и вода<br><br>15-й уровень, умение Монаха
+Copy<br>Когда вы выполняете бросок за инициативу и у вас 0 ци, вы получаете 4 очка ци<br><br>18-й уровень, умение Монаха
+Copy<br>Вы можете действием потратить 4 ци, чтобы стать невидимым на 1 минуту<br>
+В течение этого времени вы получаете сопротивление всем видам урона кроме урона силовым полем<br>
+Кроме того, вы можете потратить 8 ци, чтобы использовать заклинание проекция в астрал [astral projection] без применения материальных компонентов<br>
+Вы не можете перемещать кого-либо вместе с собой<br><br>20-й уровень, умение Монаха
+Copy<br>Ваше владение ци позволяет вам выполнять базовые техники без особых усилий. Вы можете использовать <a data-tooltip-position="top" aria-label="МОНАХ > ^4dcc74" data-href="МОНАХ#^4dcc74" href="\классы\монах\монах.html#^4dcc74" class="internal-link" target="_self" rel="noopener">Шквал ударов</a>, <a data-tooltip-position="top" aria-label="МОНАХ > ^0c7d98" data-href="МОНАХ#^0c7d98" href="\классы\монах\монах.html#^0c7d98" class="internal-link" target="_self" rel="noopener">Терпеливая оборона</a> и <a data-tooltip-position="top" aria-label="МОНАХ > ^8c9df1" data-href="МОНАХ#^8c9df1" href="\классы\монах\монах.html#^8c9df1" class="internal-link" target="_self" rel="noopener">Поступь ветра</a> не тратя очки ци<br>
+Также ваши показатели ловкости и телосложения +4, максимум данных характеристик равен 24<br><br><br>]]></description><link>классы\монах\монах.html</link><guid isPermaLink="false">Классы/Монах/Монах.md</guid><pubDate>Wed, 01 May 2024 10:39:56 GMT</pubDate></item><item><title><![CDATA[Содержание]]></title><description><![CDATA[ 
  <br><br><br><br>
 <br><a data-href="Доспехи" href="\предметы\доспехи\доспехи.html" class="internal-link" target="_self" rel="noopener">Доспехи</a>
 <br><a data-href="Оружия" href="\предметы\оружия\оружия.html" class="internal-link" target="_self" rel="noopener">Оружия</a>
@@ -705,14 +812,7 @@ Copy<br>Страна разделена на множество княжеств
 <br><br><img alt="Эрида.jpg" src="\мелетис\мир\боги\картинки\эрида.jpg">]]></description><link>мелетис\мир\боги\эрида-богиня-хаоса.html</link><guid isPermaLink="false">Мелетис/Мир/Боги/Эрида - богиня хаоса.md</guid><pubDate>Tue, 30 Apr 2024 11:16:41 GMT</pubDate><enclosure url="мелетис\мир\боги\картинки\эрида.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="мелетис\мир\боги\картинки\эрида.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Крыло Вистерии]]></title><description><![CDATA[ 
  <br>Тип: Простое Оружие
 Редкость: Очень Редкое
-Copy<br>]]></description><link>мелетис\предметы\маг.снаряжение\крыло-вистерии.html</link><guid isPermaLink="false">Мелетис/Предметы/Маг.Снаряжение/Крыло Вистерии.md</guid><pubDate>Tue, 30 Apr 2024 11:19:21 GMT</pubDate></item><item><title><![CDATA[Крыло Калдера]]></title><description><![CDATA[ 
- <br>Тип: Средний Щит
-Редкость: Очень Редкое (требует настройки) 
-Copy<br><br>Владелец и его вторая половинка получают бонус<br>
-<br>+2 КУ и +2 КД, если они находятся в пределах 15 футов друг от друга
-<br>+1 КУ и +1 КД, если они находятся дальше 15 футов друг от друга
-<br><br>Один раз за продолжительный отдых<br>
-Когда вторая половинка становится целью атаки или вредного эффекта в пределах 60 футов, Владелец может реакцией стать целью этой атаки, мгновенно переместившись к Возлюбленному и совершить одну рукопашную атаку оружием как часть той же реакции против атакующего, независимо от дистанции<br><br>]]></description><link>мелетис\предметы\маг.снаряжение\крыло-калдера.html</link><guid isPermaLink="false">Мелетис/Предметы/Маг.Снаряжение/Крыло Калдера.md</guid><pubDate>Tue, 30 Apr 2024 11:19:28 GMT</pubDate></item><item><title><![CDATA[“Стакающееся” преимущество и помеха]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> 
+Copy<br>]]></description><link>мелетис\предметы\маг.снаряжение\крыло-вистерии.html</link><guid isPermaLink="false">Мелетис/Предметы/Маг.Снаряжение/Крыло Вистерии.md</guid><pubDate>Tue, 30 Apr 2024 11:19:21 GMT</pubDate></item><item><title><![CDATA[“Стакающееся” преимущество и помеха]]></title><description><![CDATA[<a class="tag" href="?query=tag:Правила" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Правила</a> 
  <br><a href=".?query=tag:Правила" class="tag" target="_blank" rel="noopener">#Правила</a><br><br>Бонусы из таблицы суммируются
 Copy<br><br>Шрафы из таблицы суммируются
 Copy]]></description><link>правила\homebrew\“стакающееся”-преимущество-и-помеха.html</link><guid isPermaLink="false">Правила/Homebrew/“Стакающееся” преимущество и помеха.md</guid><pubDate>Sun, 14 Apr 2024 19:35:43 GMT</pubDate></item><item><title><![CDATA[Содержание]]></title><description><![CDATA[ 
@@ -1002,104 +1102,7 @@ Copy<br>
 <br><br><br>
 <br>Цена дополнительных костей равна 1 + половине максимального значения кости
 <br>Нельзя Добавлять разные кости урона на оружие
-<br><br><br><br>]]></description><link>предметы\оружия\сборка_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Сборка_Оружия.md</guid><pubDate>Thu, 25 Apr 2024 09:52:52 GMT</pubDate></item><item><title><![CDATA[Свойства_Оружия]]></title><description><![CDATA[ 
- <br><br>
-*Требование: не "Легкое"*
-Copy
-Это оружие нужно держать двумя руками, когда вы атакуете им<br>
-Дальность метания данного уменьшена вдвое (в 2 раза)
-<br><br>
-*Требование: не "Двуручное"*
-Copy
-Экипируя Основное и дополнительное оружие с этим свойством, вы можете атаковать дополнительным оружием как "<a data-tooltip-position="top" aria-label="https://ttg.club/screens/offhand_attack" rel="noopener" class="external-link" href="https://ttg.club/screens/offhand_attack" target="_blank">вторым</a>"
-<br><br>
--1 к проверкам и спасброскам Ловкости<br>
-Дальность метания данного уменьшена вдвое (в 2 раза)
-<br><br>
-*Требование: Дистанция атаки больше 10 фт
-Copy
-Вы совершаете с&nbsp;помехой&nbsp;атаки по существам, находящимся в пределах половины вашей досягаемости<br>
-(Досягаемость 10 =&gt; помеха в 5)
-<br><br>
--1 к Классу Доспеха
-<br><br>
--1 к проверкам и спасброскам Ловкости<br>
-Когда вы совершаете бросок урона, вы можете перебросить кость урона этого оружия и использовать любой из вариантов
-<br><br>
-*Требование: Дальнобойное оружие*
-Copy
-Если ваша Сила ниже 18, вы не можете использовать данное оружие 
-<br><br>
-+1 к броскам атаки этим оружием
-<br><br>
-Когда вы совершаете бросок урона, вы можете перебросить кость урона этого оружия и использовать любой из вариантов
-<br><br>
-Если вы выбрасываете максимальное значение на кости урона оружия вы добавляете ещё 1 кость урона оружия
-
-<br>Это свойтво также работает на дополтельные кости урона от этого свойства
-
-<br><br>
-При критической атаке оружием вы можете испугать цель, наложив на неё Ужас
-<br><br>
-Требование: Свойство "<a data-href="#Смертоносное" href="\#Смертоносное" class="internal-link" target="_self" rel="noopener">Смертоносное</a>"<br>
-Если вы выбрасываете максимальное значение на кости урона оружия вы добавляете ещё 1 кость урона оружия
-<br><br>
-После атаки бросьте свою кость урона, при выпадении 1, вам нужно будет Действием перезарядить его
-<br><br>
-При попадании атакой, враги в пределах 5 футов от цели получает половину урона атаки этого оружия 
-<br><br>
-+1 к проверкам навыков
-<br><br>
-Значение 1 характеристики на ваш выбор не может быть выше 10
-<br><br>
-+1 ко всем спасброскам
-<br><br>
--1 к характеристике и +1 к другой
-<br><br>
-Вы с преимущетвом атакуете цель, если в пределах 10 футов от вас нет ни одного сущетва, не считая цели
-<br><br>
-Атакуя вы можете изменить кость урона своего оружия на к20, но при этом враги получают преимущество на атаки по вам до конца вашего следующего хода
-<br><br>
-Ваше оружие может быть скрыто
-<br><br>
-Добавляет Бонус мастерства к урону
-<br><br>
-Каждый раз атакуя этим оружием вы должны преуспеть в спасброске Телосложения сложностью 5 + модификатор Атаки оружия, иначе получая степень истощения
-<br><br>
-При промахе атаки вы можете перебросить один к20, вы должны использовать новый результат
-<br><br>
-Если у вас выпало 1 на кости урона оружием, то вы можете перебросить эту кость
-<br><br>
-Добавляет ваш Бонус Мастерства к лечению исходящему от вас (не действует на носителя)
-<br><br>
-При успешной атаке цель должна пройти спасбросок Телосложнеия, равный половине урона или 10, в зависимости от того, что выше<br>
-В случае провала цель не может восстанавливать Хиты до начала вашего следующего хода
-<br><br>
-Вы можете попытаться Схватить цель на расстоянии равном удвоенной дальности вашей атаки (минимум 15 футов), при успехе притягивая её к себе
-<br><br>
-Своей атакой вы можете поразить ВСЕХ врагов, выстроившихся в линию в пределах досягаемости
-<br><br>
-Своей атакой вы можете поразить ВСЕХ врагов, в пределах досягаемости
-<br><br>
-При успешной атаке цель должна пройти спасбросок Телосложнеия, равный половине урона или 10, в зависимости от того, что выше<br>
-В случае провала цель становиться Ошелослена до начала вашего следующего хода
-<br><br>
-При успешной атаке вы можете оттолкнуть врага на 5 футов от себя
-<br><br>
-При успешной атаке вы можете совершить дополнительно атаку по ближайшему существу в области вашей досягаемости.<br>
-Ваше оружие может отскакивать количество раз, равное вашему Бонусу Мастерства, до тех пор пока не промажет
-<br><br>
-Игнорирует все укрытия
-<br><br>
-Восстанавливает 1 / 5 урона оружием, округляя в меньшую сторону
-<br><br>
-При успешной атаке вы можете увеличить количество костей урона этой атаки потратив денег на сумму равную количеству бонусных костей умноженному на  максимальное значение кости урона оружия умноженное на ваш уровень<br>
-Пример: 1к6 | 5 уровень | 3 доп.Кости<br>
-=&gt; 6 x 5 x 3 = 90 монет, атака нанесет 4к6 урона
-<br><br>
-Это оружие не могут использовать другие<br>
-Вы добавляете половину своего уровня к урону этим оружием
-<br><br><br>Note<a class="internal-link" href="\предметы\доспехи\cборка_доспеха.html" target="_self"></a>1. У каждого доспеха (стартовое 0) есть своё количество Очков, к...4/24/2024, 11:56:35 PMNote<a class="internal-link" href="\предметы\доспехи\доспехи.html" target="_self"></a>КД - (Класс Доспеха)4/25/2024, 12:29:39 AM]]></description><link>предметы\оружия\свойства_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Свойства_Оружия.md</guid><pubDate>Tue, 23 Apr 2024 08:00:42 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
+<br><br><br><br>]]></description><link>предметы\оружия\сборка_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Сборка_Оружия.md</guid><pubDate>Thu, 25 Apr 2024 09:52:52 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
  <br><br>
 <br>У каждого Щита (стартовое 0) есть своё количество Очков, которые тратятся по таблицам доспехов, оружия и щитов
 <br>Примерная цена оружия расчитывается по формуле, но может определятся мастером в зависимости от Сюжета:<br>
