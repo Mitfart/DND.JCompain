@@ -1,4 +1,12 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 02 May 2024 13:16:36 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 02 May 2024 13:16:35 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Король]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 02 May 2024 14:21:41 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 02 May 2024 14:21:40 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Митинки]]></title><description><![CDATA[ 
+ <br>Средний Щит (КУ +1, КД +2)
+Copy<br>]]></description><link>лебенхейм\предметы\маг.снаряжение\митинки.html</link><guid isPermaLink="false">Лебенхейм/Предметы/Маг.Снаряжение/Митинки.md</guid><pubDate>Thu, 02 May 2024 14:18:35 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
+ <br><br>
+<br>У каждого Щита (стартовое 0) есть своё количество Очков, которые тратятся по таблицам доспехов, оружия и щитов
+<br>Цена урона для щитов на 1 больше (Начальный Урон щита = 1к4)
+<br>Примерная цена оружия расчитывается по формуле, но может определятся мастером в зависимости от Сюжета:<br>
+ЦД + 25 x Количество Очков x Количество Свойств^2
+<br>]]></description><link>предметы\щиты\сборка_щита.html</link><guid isPermaLink="false">Предметы/Щиты/Сборка_Щита.md</guid><pubDate>Thu, 02 May 2024 13:48:13 GMT</pubDate></item><item><title><![CDATA[Король]]></title><description><![CDATA[ 
  <br><br>
 <br>Игроки решают, какой будет сумма ставки и ставят "начальную ставку"<br>
 (вы собираетесь делать ее часто, поэтому, сумма, вероятно, будет небольшой, от 2 до 10 монет)
@@ -1165,12 +1173,7 @@ Copy<br>
 <br><br><br>
 <br>Цена дополнительных костей равна 1 + половине максимального значения кости
 <br>Нельзя Добавлять разные кости урона на оружие
-<br><br><br><br>]]></description><link>предметы\оружия\сборка_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Сборка_Оружия.md</guid><pubDate>Thu, 25 Apr 2024 09:52:52 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
- <br><br>
-<br>У каждого Щита (стартовое 0) есть своё количество Очков, которые тратятся по таблицам доспехов, оружия и щитов
-<br>Примерная цена оружия расчитывается по формуле, но может определятся мастером в зависимости от Сюжета:<br>
-ЦД + 25 x Количество Очков x Количество Свойств^2
-<br>]]></description><link>предметы\щиты\сборка_щита.html</link><guid isPermaLink="false">Предметы/Щиты/Сборка_Щита.md</guid><pubDate>Thu, 18 Apr 2024 00:38:03 GMT</pubDate></item><item><title><![CDATA[Свойства_Щиты]]></title><description><![CDATA[ 
+<br><br><br><br>]]></description><link>предметы\оружия\сборка_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Сборка_Оружия.md</guid><pubDate>Thu, 25 Apr 2024 09:52:52 GMT</pubDate></item><item><title><![CDATA[Свойства_Щиты]]></title><description><![CDATA[ 
  <br><br>
 Этот щит можно держать как одной, так и двумя руками
 Одной рукой - ваша скорость снижается на треть (1/3), и вы совершаете проверки Ловкости с Помехой
