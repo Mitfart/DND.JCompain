@@ -1,4 +1,14 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 02 May 2024 14:48:46 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 02 May 2024 14:48:45 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Митинки]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 06 May 2024 13:09:32 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 06 May 2024 13:09:30 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Этажи]]></title><description><![CDATA[ 
+ <br><br>
+<br>Расходники - Зелья Лечения, Резистов, Взрывная руда, и тп
+<br>
+<br>Аура Босса - Бафф союзников и/или Дебаф противников
+<br>ОСУ - Особые сопротивления / Уязвимости
+<br>Особое действие - Легендарное действие, действие логова, измененные базовые действие, необычне действия и тп
+<br><br>
+<br>Сложность Спасбросков от эффектов мобов подсчитываются, а не стандартные
+<br>Мастер ВСЕГДА предупреждает о особых эффектах моба
+<br>]]></description><link>мелетис\мир\подземелье\этажи.html</link><guid isPermaLink="false">Мелетис/Мир/Подземелье/Этажи.md</guid><pubDate>Mon, 06 May 2024 13:08:06 GMT</pubDate></item><item><title><![CDATA[Митинки]]></title><description><![CDATA[ 
  <br>Средний Щит (КУ +1, КД +2)
 Copy<br>]]></description><link>лебенхейм\предметы\маг.снаряжение\митинки.html</link><guid isPermaLink="false">Лебенхейм/Предметы/Маг.Снаряжение/Митинки.md</guid><pubDate>Thu, 02 May 2024 14:48:31 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
  <br><br>
