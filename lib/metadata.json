@@ -1,6 +1,6 @@
 {
   "vaultName": "JCompain",
-  "lastExport": 1715111210948,
+  "lastExport": 1715177665932,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -141,9 +141,13 @@
     "Черты/Измененные/Измененные.md",
     "Черты/Измененные/Мастер большого оружия - Great Weapon Master.md",
     "Черты/Измененные/Меткий стрелок - Sharpshooter.md",
+    "Черты/Особые/Быстрый стрелок.md",
     "Черты/Особые/Валькирия Адского Заката.md",
+    "Черты/Особые/Ведущий танцор.md",
+    "Черты/Особые/Дополнительная атака.md",
     "Черты/Особые/Особые.md",
     "Черты/Особые/Парный танец.md",
+    "Черты/Особые/Ускоренные рефлексы.md",
     "Черты/ДРЕВНИЙ РИТУАЛ.md",
     "Черты/МЫШИНЫЙ ПУТЕШЕСТВЕННИК.md",
     "Черты/ПОВЕЛИТЕЛЬ КОРНЕЙ.md",
@@ -178,7 +182,23 @@
     "lib/styles/obsidian.css",
     "lib/styles/other-plugins.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "мелетис/мир/боги/картинки/аид.jpg",
+    "мелетис/мир/боги/картинки/аид_2.jpg",
+    "мелетис/мир/боги/картинки/аполлон.jpg",
+    "мелетис/мир/боги/картинки/арес.jpg",
+    "мелетис/мир/боги/картинки/артемида.jpg",
+    "мелетис/мир/боги/картинки/афродита.jpg",
+    "мелетис/мир/боги/картинки/геката.jpg",
+    "мелетис/мир/боги/картинки/гера.jpg",
+    "мелетис/мир/боги/картинки/гефест.jpg",
+    "мелетис/мир/боги/картинки/горгона.jpg",
+    "мелетис/мир/боги/картинки/дионис.jpg",
+    "мелетис/мир/боги/картинки/нюкта.jpg",
+    "мелетис/мир/боги/картинки/персефона.jpg",
+    "мелетис/мир/боги/картинки/посейдон.jpg",
+    "мелетис/мир/боги/картинки/селена.jpg",
+    "мелетис/мир/боги/картинки/эрида.jpg"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -1060,8 +1080,8 @@
       "dependencies": []
     },
     "Черты/Особые/Особые.md": {
-      "modifiedTime": 1715111210948,
-      "sourceSize": 188,
+      "modifiedTime": 1715177665932,
+      "sourceSize": 348,
       "exportedPath": "черты/особые/особые.html",
       "dependencies": []
     },
@@ -1096,7 +1116,7 @@
       "dependencies": []
     },
     "Черты/Черты.md": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 287,
       "exportedPath": "черты/черты.html",
       "dependencies": []
@@ -1204,177 +1224,201 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1715111210948,
-      "sourceSize": 158084,
+      "modifiedTime": 1715177665932,
+      "sourceSize": 160968,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1715111210948,
-      "sourceSize": 9726,
+      "modifiedTime": 1715177665932,
+      "sourceSize": 10062,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 157786,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 4073,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1715111210948,
+      "modifiedTime": 1715177665932,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Черты/Особые/Быстрый стрелок.md": {
+      "modifiedTime": 1715177665932,
+      "sourceSize": 749,
+      "exportedPath": "черты/особые/быстрый-стрелок.html",
+      "dependencies": []
+    },
+    "Черты/Особые/Ведущий танцор.md": {
+      "modifiedTime": 1715177665932,
+      "sourceSize": 848,
+      "exportedPath": "черты/особые/ведущий-танцор.html",
+      "dependencies": []
+    },
+    "Черты/Особые/Дополнительная атака.md": {
+      "modifiedTime": 1715177665932,
+      "sourceSize": 313,
+      "exportedPath": "черты/особые/дополнительная-атака.html",
+      "dependencies": []
+    },
+    "Черты/Особые/Ускоренные рефлексы.md": {
+      "modifiedTime": 1715177665932,
+      "sourceSize": 519,
+      "exportedPath": "черты/особые/ускоренные-рефлексы.html",
       "dependencies": []
     }
   }
