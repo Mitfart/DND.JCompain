@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 20 May 2024 17:31:09 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 20 May 2024 17:30:54 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[БЛЕСТЯЩЕЕ ПЕРО]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 21 May 2024 20:38:40 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 21 May 2024 20:38:24 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[БЛЕСТЯЩЕЕ ПЕРО]]></title><description><![CDATA[ 
  <br>Заговор,&nbsp;Воплощение
 Copy<br><br>Заклинатель бросает волшебное перо <br>Перо пролетает до 30 футов по прямой в выбранном вами направлении, прежде чем упасть на землю, и останавливается раньше, если ударится о твердую поверхность<br>Если перо ударяется о существо, это существо должно сделать спасбросок&nbsp;Ловкости:<br>
 <br>При неудаче - перо попадает в существо
@@ -650,21 +650,48 @@ Copy<br>Страна разделена на множество княжеств
 <br><a data-href="Языки" href="\лебенхейм\мир\языки.html" class="internal-link" target="_self" rel="noopener">Языки</a>
 <br>]]></description><link>лебенхейм\мир\мир.html</link><guid isPermaLink="false">Лебенхейм/Мир/Мир.md</guid><pubDate>Thu, 02 May 2024 10:55:55 GMT</pubDate></item><item><title><![CDATA[Языки]]></title><description><![CDATA[<a class="tag" href="?query=tag:Общий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общий</a> <a class="tag" href="?query=tag:Гуманоид" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Гуманоид</a> <a class="tag" href="?query=tag:Элементаль" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Элементаль</a> <a class="tag" href="?query=tag:Дракон" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Дракон</a> <a class="tag" href="?query=tag:Гномий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Гномий</a> <a class="tag" href="?query=tag:Вастайи" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Вастайи</a> <a class="tag" href="?query=tag:Гуманоид" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Гуманоид</a> <a class="tag" href="?query=tag:Элементаль" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Элементаль</a> <a class="tag" href="?query=tag:Растение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Растение</a> <a class="tag" href="?query=tag:Демонический" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Демонический</a> <a class="tag" href="?query=tag:Демон" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Демон</a> <a class="tag" href="?query=tag:Дварфский" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Дварфский</a> <a class="tag" href="?query=tag:Великаний" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Великаний</a> <a class="tag" href="?query=tag:Великан" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Великан</a> <a class="tag" href="?query=tag:Драконий" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Драконий</a> <a class="tag" href="?query=tag:Дракон" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Дракон</a> <a class="tag" href="?query=tag:Первичный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Первичный</a> <a class="tag" href="?query=tag:Древний" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Древний</a> 
  <br><br>А также у большинства Вастайи есть свой язык: Мышиный, Грунговский и тп<br>
-Подобные языки используются редко, так как ими нельзя передать сложные понятия]]></description><link>лебенхейм\мир\языки.html</link><guid isPermaLink="false">Лебенхейм/Мир/Языки.md</guid><pubDate>Mon, 22 Apr 2024 12:36:25 GMT</pubDate></item><item><title><![CDATA[Митинки]]></title><description><![CDATA[ 
- <br>Средний Щит (КУ +1, КД +2)
-Copy<br>]]></description><link>лебенхейм\предметы\маг.снаряжение\митинки.html</link><guid isPermaLink="false">Лебенхейм/Предметы/Маг.Снаряжение/Митинки.md</guid><pubDate>Fri, 10 May 2024 18:25:40 GMT</pubDate></item><item><title><![CDATA[Содержание]]></title><description><![CDATA[ 
- <br><br>FolderContains 3 folders, 2 notes.МирFolderContains 1 folders, 0 notes.Предметы<br><br>
-<br><a data-href="Мир" href="\лебенхейм\мир\мир.html" class="internal-link" target="_self" rel="noopener">Мир</a>
-<br>Предметы
+Подобные языки используются редко, так как ими нельзя передать сложные понятия]]></description><link>лебенхейм\мир\языки.html</link><guid isPermaLink="false">Лебенхейм/Мир/Языки.md</guid><pubDate>Mon, 22 Apr 2024 12:36:25 GMT</pubDate></item><item><title><![CDATA[Амулет мага +1]]></title><description><![CDATA[ 
+ <br>чудесный предмет, необычный
+Copy<br>
+<br>Настройка:&nbsp;требуется: заклинатель
+<br>Стоимость по&nbsp;XGE:&nbsp;(1к6) * 100
+<br>Пока вы носите этот амулет, вы получаете бонус&nbsp;+1&nbsp;к броскам атаки заклинаниями и Сл спасбросков ваших заклинаний<br>Вы получаете 1 ячейку заклинаний 1 уровня, восстанавливающуюся после продолжительного отдыха, раз в сутки<br><br>]]></description><link>лебенхейм\предметы\маг.снаряжение\амулет-мага-+1.html</link><guid isPermaLink="false">Лебенхейм/Предметы/Маг.Снаряжение/Амулет мага +1.md</guid><pubDate>Tue, 21 May 2024 20:38:07 GMT</pubDate><enclosure url="лебенхейм\предметы\картинки\амулет-мага.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="лебенхейм\предметы\картинки\амулет-мага.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Венец Знаний]]></title><description><![CDATA[ 
+ <br>чудесный предмет, необычный
+Copy<br>
+<br>Настройка:&nbsp;нет
+<br>Стоимость по&nbsp;XGE:&nbsp;(1к6) * 100<br>
+Увеличивает Интеллект до 17<br>
+Не действует, если ваш Интеллект выше
+<br><br>]]></description><link>лебенхейм\предметы\маг.снаряжение\венец-знаний.html</link><guid isPermaLink="false">Лебенхейм/Предметы/Маг.Снаряжение/Венец Знаний.md</guid><pubDate>Tue, 21 May 2024 20:37:33 GMT</pubDate><enclosure url="лебенхейм\предметы\картинки\венец-знаний.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="лебенхейм\предметы\картинки\венец-знаний.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Луна]]></title><description><![CDATA[ 
+ <br>Воинское, Очень Редкое
+Copy<br><br><br><br><br>Оружие Дополнительно наносит&nbsp;1к4 урона Некротикой любой цели, по которой попадёт<br>При метании, оружие становится невидимым, благодаря чему вас не раскрывают, после атаки из скрытности, также если рядом с целью есть союзник, вы атакуете с преимуществом<br>При метании, оружие возвращается к своей "паре" в конце хода (к <a data-tooltip-position="top" aria-label="Солнце" data-href="#Солнце" href="\#Солнце" class="internal-link" target="_self" rel="noopener">Солнцe</a>)<br><br><br><br><br><br>Оружие Дополнительно наносит&nbsp;1к4 урона Излучением любой цели, по которой попадёт<br>При метании, оружие теряет физическую форму, благодаря чему наносит урон Излучением при попадании<br>При метании, оружие возвращается к своей "паре" в конце хода (к <a data-tooltip-position="top" aria-label="Луна" data-href="#Луна" href="\#Луна" class="internal-link" target="_self" rel="noopener">Луне</a>)<br><br><br><br><br><br>Оружие Дополнительно наносит&nbsp;2к6 урона Излучением или Некротикой любой цели, по которой попадёт<br>Вместо колющего урона вы добавляете <br><br>]]></description><link>лебенхейм\предметы\маг.снаряжение\клинки-затмения.html</link><guid isPermaLink="false">Лебенхейм/Предметы/Маг.Снаряжение/Клинки Затмения.md</guid><pubDate>Tue, 21 May 2024 17:20:54 GMT</pubDate><enclosure url="лебенхейм\предметы\картинки\клинки-затмения.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="лебенхейм\предметы\картинки\клинки-затмения.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Меч Ледяного Пламени]]></title><description><![CDATA[ 
+ <br>Воинское, Редкое
+Copy<br><br><br><br>Пока вы держите оружие, вы можете покрыть его Огнем или Льдом<br>Когда покрыто, оружие дополнительно наносит&nbsp;1к6 Огненого или Ледяного урона любой цели, по которой попадёт<br><br><img alt="Меч Ледяного Пламени.jpg" src="\лебенхейм\предметы\картинки\меч-ледяного-пламени.jpg">]]></description><link>лебенхейм\предметы\маг.снаряжение\меч-ледяного-пламени.html</link><guid isPermaLink="false">Лебенхейм/Предметы/Маг.Снаряжение/Меч Ледяного Пламени.md</guid><pubDate>Tue, 21 May 2024 17:15:32 GMT</pubDate><enclosure url="лебенхейм\предметы\картинки\меч-ледяного-пламени.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="лебенхейм\предметы\картинки\меч-ледяного-пламени.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[! ИЗМЕНЕНЫ !]]></title><description><![CDATA[ 
+ <br><br>Средний Щит (КУ +1, КД +2)
+Copy<br>]]></description><link>лебенхейм\предметы\маг.снаряжение\митинки.html</link><guid isPermaLink="false">Лебенхейм/Предметы/Маг.Снаряжение/Митинки.md</guid><pubDate>Tue, 21 May 2024 19:54:24 GMT</pubDate></item><item><title><![CDATA[Содержание]]></title><description><![CDATA[ 
+ <br><br>FolderContains 3 folders, 2 notes.МирFolderContains 2 folders, 0 notes.Предметы<br><br>
+<br>
+<a data-href="Мир" href="\лебенхейм\мир\мир.html" class="internal-link" target="_self" rel="noopener">Мир</a>
 
-<br>Маг.Снаряжение
+<br>
+Предметы
 
+<br>
+Картинки
+
+<br>
+Маг.Снаряжение
+
+<br><a data-href="Амулет мага +1" href="\лебенхейм\предметы\маг.снаряжение\амулет-мага-+1.html" class="internal-link" target="_self" rel="noopener">Амулет мага +1</a>
+<br><a data-href="Венец Знаний" href="\лебенхейм\предметы\маг.снаряжение\венец-знаний.html" class="internal-link" target="_self" rel="noopener">Венец Знаний</a>
+<br><a data-href="Клинки Затмения" href="\лебенхейм\предметы\маг.снаряжение\клинки-затмения.html" class="internal-link" target="_self" rel="noopener">Клинки Затмения</a>
+<br><a data-href="Меч Ледяного Пламени" href="\лебенхейм\предметы\маг.снаряжение\меч-ледяного-пламени.html" class="internal-link" target="_self" rel="noopener">Меч Ледяного Пламени</a>
 <br><a data-href="Митинки" href="\лебенхейм\предметы\маг.снаряжение\митинки.html" class="internal-link" target="_self" rel="noopener">Митинки</a>
 
 
 
 
-<br>]]></description><link>лебенхейм\лебенхейм.html</link><guid isPermaLink="false">Лебенхейм/Лебенхейм.md</guid><pubDate>Tue, 07 May 2024 19:25:31 GMT</pubDate></item><item><title><![CDATA[Аид - бог смерти]]></title><description><![CDATA[ 
+<br>]]></description><link>лебенхейм\лебенхейм.html</link><guid isPermaLink="false">Лебенхейм/Лебенхейм.md</guid><pubDate>Tue, 21 May 2024 20:37:58 GMT</pubDate></item><item><title><![CDATA[Аид - бог смерти]]></title><description><![CDATA[ 
  <br>
 <br>Данные способности являются примером. Конкретные способности вы можете обговорить с мастером 
 <br><br><img alt="Аид.jpg" src="\мелетис\мир\боги\картинки\аид.jpg"><img alt="Аид_2.jpg" src="\мелетис\мир\боги\картинки\аид_2.jpg">]]></description><link>мелетис\мир\боги\аид-бог-смерти.html</link><guid isPermaLink="false">Мелетис/Мир/Боги/Аид - бог смерти.md</guid><pubDate>Tue, 30 Apr 2024 11:15:32 GMT</pubDate><enclosure url="мелетис\мир\боги\картинки\аид.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="мелетис\мир\боги\картинки\аид.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Аполлон - бог солнца]]></title><description><![CDATA[ 
@@ -1265,7 +1292,7 @@ Copy
 <br><br><br><br><br>
 <br><a data-href="Сборка_Оружия" href="\предметы\оружия\сборка_оружия.html" class="internal-link" target="_self" rel="noopener">Сборка_Оружия</a>
 <br><a data-href="Свойства_Оружия" href="\предметы\оружия\свойства_оружия.html" class="internal-link" target="_self" rel="noopener">Свойства_Оружия</a>
-<br>]]></description><link>предметы\оружия\оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Оружия.md</guid><pubDate>Tue, 23 Apr 2024 07:37:09 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
+<br>]]></description><link>предметы\оружия\оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Оружия.md</guid><pubDate>Tue, 21 May 2024 14:23:56 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
  <br><br>
 <br>У каждого оружия (стартовое Простое - 0, Воинское - 1) есть своё количество Очков, которые тратятся по следующим таблицам
 <br>Примерная цена оружия расчитывается по формуле, но может определятся мастером в зависимости от Сюжета:<br>
@@ -1275,7 +1302,7 @@ Copy
 <br><br><br>
 <br>Цена дополнительных костей равна 1 + половине максимального значения кости
 <br>Нельзя Добавлять разные кости урона на оружие
-<br><br><br><br>]]></description><link>предметы\оружия\сборка_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Сборка_Оружия.md</guid><pubDate>Thu, 25 Apr 2024 09:52:52 GMT</pubDate></item><item><title><![CDATA[Свойства_Оружия]]></title><description><![CDATA[ 
+<br><br><br><br>]]></description><link>предметы\оружия\сборка_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Сборка_Оружия.md</guid><pubDate>Tue, 21 May 2024 14:57:43 GMT</pubDate></item><item><title><![CDATA[Свойства_Оружия]]></title><description><![CDATA[ 
  <br><br>
 *Требование: не "Легкое"*
 Copy
@@ -1287,6 +1314,8 @@ Copy
 Экипируя Основное и Дополнительное оружие с свойством <a data-href="#Легкое" href="\#Легкое" class="internal-link" target="_self" rel="noopener">Легкое</a>, вы можете добавить урон Дополнительного оружия к урону Основного
 Вы не добавляете модификатор характеристики к урону от Дополнительного оружия, если он положительный, но отнимаете, если он отрицательный
 Также, при промахе Основным оружием, вы можете атаковать Дополнительным оружием как часть той же атаки
+<br><br>
+При зачаровании одного оружия из "пары", второе автоматически получает то же зачарование, также если одно теряет зачарование, второе тоже его теряет
 <br><br>
 -1 к проверкам и спасброскам Ловкости<br>
 Дальность метания данного уменьшена вдвое (в 2 раза)
@@ -1377,7 +1406,7 @@ Copy
 <br><br>
 Это оружие не могут использовать другие<br>
 Вы добавляете половину своего уровня к урону этим оружием
-<br><br><br>Note<a class="internal-link" href="\предметы\оружия\оружия.html" target="_self"></a>1. Вы можете выбрать одно основное и одно дополнительное оружие4/23/2024, 10:37:09 AMNote<a class="internal-link" href="\предметы\оружия\сборка_оружия.html" target="_self"></a>1. У каждого оружия (стартовое Простое - 0, Воинское - 1) есть с...4/25/2024, 12:52:52 PM]]></description><link>предметы\оружия\свойства_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Свойства_Оружия.md</guid><pubDate>Mon, 20 May 2024 14:46:19 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
+<br><br><br>Note<a class="internal-link" href="\предметы\оружия\оружия.html" target="_self"></a>1. Вы можете выбрать одно основное и одно дополнительное оружие5/21/2024, 5:23:56 PMNote<a class="internal-link" href="\предметы\оружия\сборка_оружия.html" target="_self"></a>1. У каждого оружия (стартовое Простое - 0, Воинское - 1) есть с...5/21/2024, 5:57:43 PM]]></description><link>предметы\оружия\свойства_оружия.html</link><guid isPermaLink="false">Предметы/Оружия/Свойства_Оружия.md</guid><pubDate>Tue, 21 May 2024 14:57:06 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
  <br><br>
 <br>У каждого Щита (стартовое 0) есть своё количество Очков, которые тратятся по таблицам доспехов, оружия и щитов
 <br>Цена урона для щитов на 1 больше (Начальный Урон щита = 1к4)
