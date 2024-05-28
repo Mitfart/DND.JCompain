@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 28 May 2024 11:59:35 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 28 May 2024 11:59:18 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[БЛЕСТЯЩЕЕ ПЕРО]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JCompain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>JCompain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 28 May 2024 22:27:09 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 28 May 2024 22:26:51 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[БЛЕСТЯЩЕЕ ПЕРО]]></title><description><![CDATA[ 
  <br>Заговор,&nbsp;Воплощение
 Copy<br><br>Заклинатель бросает волшебное перо <br>Перо пролетает до 30 футов по прямой в выбранном вами направлении, прежде чем упасть на землю, и останавливается раньше, если ударится о твердую поверхность<br>Если перо ударяется о существо, это существо должно сделать спасбросок&nbsp;Ловкости:<br>
 <br>При неудаче - перо попадает в существо
@@ -841,13 +841,14 @@ Copy<br><br><br><br>Пока вы держите оружие, вы можете
  <br><br>Бонусы из таблицы суммируются
 Copy<br><br>Шрафы из таблицы суммируются
 Copy]]></description><link>правила\homebrew\“стакающееся”-преимущество-и-помеха.html</link><guid isPermaLink="false">Правила/Homebrew/“Стакающееся” преимущество и помеха.md</guid><pubDate>Mon, 20 May 2024 14:41:03 GMT</pubDate></item><item><title><![CDATA[Содержание]]></title><description><![CDATA[ 
- <br><br>Note<a class="internal-link" href="\правила\homebrew\готовка.html" target="_self"></a>СП - Сложность приготовления5/8/2024, 8:05:02 PMNote<a class="internal-link" href="\правила\homebrew\комбо-атаки.html" target="_self"></a>Комбо атаки - это эффектные моменты синхронного боя, совершаемые...2/23/2024, 9:05:51 PMNote<a class="internal-link" href="\правила\homebrew\окружение-флангирование.html" target="_self"></a>- Если несколько существ находятся на расстоянии 5фт от цели, пр...5/20/2024, 5:41:28 PMNote<a class="internal-link" href="\правила\homebrew\сбор-добычи.html" target="_self"></a>После убийства существа его компоненты нужно быстро собрать, пок...5/22/2024, 1:06:14 PMNote<a class="internal-link" href="\правила\homebrew\“стакающееся”-преимущество-и-помеха.html" target="_self"></a>Бонусы из таблицы суммируются5/20/2024, 5:41:03 PM<br><br>
+ <br><br>Note<a class="internal-link" href="\правила\homebrew\готовка.html" target="_self"></a>СП - Сложность приготовления5/8/2024, 8:05:02 PMNote<a class="internal-link" href="\правила\homebrew\комбо-атаки.html" target="_self"></a>Комбо атаки - это эффектные моменты синхронного боя, совершаемые...2/23/2024, 9:05:51 PMNote<a class="internal-link" href="\правила\homebrew\окружение-флангирование.html" target="_self"></a>- Если несколько существ находятся на расстоянии 5фт от цели, пр...5/20/2024, 5:41:28 PMNote<a class="internal-link" href="\правила\homebrew\размеры.html" target="_self"></a>1 Клетка = 2 метра5/28/2024, 10:13:31 PMNote<a class="internal-link" href="\правила\homebrew\сбор-добычи.html" target="_self"></a>После убийства существа его компоненты нужно быстро собрать, пок...5/22/2024, 1:06:14 PMNote<a class="internal-link" href="\правила\homebrew\“стакающееся”-преимущество-и-помеха.html" target="_self"></a>Бонусы из таблицы суммируются5/20/2024, 5:41:03 PM<br><br>
 <br><a data-href="“Стакающееся” преимущество и помеха" href="\правила\homebrew\“стакающееся”-преимущество-и-помеха.html" class="internal-link" target="_self" rel="noopener">“Стакающееся” преимущество и помеха</a>
 <br><a data-href="Готовка" href="\правила\homebrew\готовка.html" class="internal-link" target="_self" rel="noopener">Готовка</a>
 <br><a data-href="Комбо атаки" href="\правила\homebrew\комбо-атаки.html" class="internal-link" target="_self" rel="noopener">Комбо атаки</a>
 <br><a data-href="Окружение - Флангирование" href="\правила\homebrew\окружение-флангирование.html" class="internal-link" target="_self" rel="noopener">Окружение - Флангирование</a>
+<br><a data-href="Размеры" href="\правила\homebrew\размеры.html" class="internal-link" target="_self" rel="noopener">Размеры</a>
 <br><a data-href="Сбор добычи" href="\правила\homebrew\сбор-добычи.html" class="internal-link" target="_self" rel="noopener">Сбор добычи</a>
-<br>]]></description><link>правила\homebrew\homebrew.html</link><guid isPermaLink="false">Правила/Homebrew/Homebrew.md</guid><pubDate>Mon, 22 Apr 2024 12:08:09 GMT</pubDate></item><item><title><![CDATA[Требования по количеству еды]]></title><description><![CDATA[ 
+<br>]]></description><link>правила\homebrew\homebrew.html</link><guid isPermaLink="false">Правила/Homebrew/Homebrew.md</guid><pubDate>Tue, 28 May 2024 19:00:43 GMT</pubDate></item><item><title><![CDATA[Требования по количеству еды]]></title><description><![CDATA[ 
  <br><br><br><br>СП - Сложность приготовления
 Copy<br>
 <br>Выбор ингредиентов - игроки ингредиенты, которые они хотят приготовить
@@ -893,7 +894,8 @@ Copy<br>
 <br>
 Если окруженный совершает атаку по возможности, все окружившие могут совершить атаку по возможности по нему
 
-]]></description><link>правила\homebrew\окружение-флангирование.html</link><guid isPermaLink="false">Правила/Homebrew/Окружение - Флангирование.md</guid><pubDate>Mon, 20 May 2024 14:41:28 GMT</pubDate></item><item><title><![CDATA[ПРАВИЛА СБОРА ДОБЫЧИ]]></title><description><![CDATA[ 
+]]></description><link>правила\homebrew\окружение-флангирование.html</link><guid isPermaLink="false">Правила/Homebrew/Окружение - Флангирование.md</guid><pubDate>Mon, 20 May 2024 14:41:28 GMT</pubDate></item><item><title><![CDATA[Размеры]]></title><description><![CDATA[ 
+ <br>1 Клетка = 2 метра<br>]]></description><link>правила\homebrew\размеры.html</link><guid isPermaLink="false">Правила/Homebrew/Размеры.md</guid><pubDate>Tue, 28 May 2024 19:13:31 GMT</pubDate></item><item><title><![CDATA[ПРАВИЛА СБОРА ДОБЫЧИ]]></title><description><![CDATA[ 
  <br><br>После убийства существа его компоненты нужно быстро собрать, пока они не испортились. В этом процессе есть 5 шагов:
 Copy<br>
 <br>ОПИСАНИЕ
@@ -1078,11 +1080,11 @@ Copy<br>
 Вы не добавляете модификатор характеристики к урону от Дополнительного оружия, если он положительный, но отнимаете, если он отрицательный
 Также, при промахе Основным оружием, вы можете атаковать Дополнительным оружием как часть той же атаки
 ]]></description><link>правила\измененные\сражение-двумя-оружиями.html</link><guid isPermaLink="false">Правила/Измененные/Сражение двумя оружиями.md</guid><pubDate>Mon, 20 May 2024 14:47:04 GMT</pubDate></item><item><title><![CDATA[Содержание]]></title><description><![CDATA[ 
- <br><br>FolderContains 0 folders, 6 notes.HomebrewFolderContains 0 folders, 15 notes.ИзмененныеNote<a class="internal-link" href="\правила\состояние-здоровья.html" target="_self"></a>Убедительная просьба также описывать состояние ваших персонажей ...5/20/2024, 5:41:38 PM<br><br>
+ <br><br>FolderContains 0 folders, 7 notes.HomebrewFolderContains 0 folders, 15 notes.ИзмененныеNote<a class="internal-link" href="\правила\состояние-здоровья.html" target="_self"></a>Убедительная просьба также описывать состояние ваших персонажей ...5/20/2024, 5:41:38 PM<br><br>
 <br><a data-href="Homebrew" href="\правила\homebrew\homebrew.html" class="internal-link" target="_self" rel="noopener">Homebrew</a>
 <br><a data-href="Измененные" href="\правила\измененные\измененные.html" class="internal-link" target="_self" rel="noopener">Измененные</a>
 <br><a data-href="Состояние Здоровья" href="\правила\состояние-здоровья.html" class="internal-link" target="_self" rel="noopener">Состояние Здоровья</a>
-<br>]]></description><link>правила\правила.html</link><guid isPermaLink="false">Правила/Правила.md</guid><pubDate>Fri, 17 May 2024 22:44:37 GMT</pubDate></item><item><title><![CDATA[Состояние Здоровья]]></title><description><![CDATA[ 
+<br>]]></description><link>правила\правила.html</link><guid isPermaLink="false">Правила/Правила.md</guid><pubDate>Tue, 28 May 2024 19:00:43 GMT</pubDate></item><item><title><![CDATA[Состояние Здоровья]]></title><description><![CDATA[ 
  <br><br>Убедительная просьба также описывать состояние ваших персонажей друг-другу]]></description><link>правила\состояние-здоровья.html</link><guid isPermaLink="false">Правила/Состояние Здоровья.md</guid><pubDate>Mon, 20 May 2024 14:41:38 GMT</pubDate></item><item><title><![CDATA[Правила:]]></title><description><![CDATA[ 
  <br><br>
 <br>У каждого доспеха (стартовое 0) есть своё количество Очков, которые тратятся по следующим таблицам
@@ -1419,7 +1421,141 @@ Copy
 <br><a data-href="Доспехи" href="\предметы\доспехи\доспехи.html" class="internal-link" target="_self" rel="noopener">Доспехи</a>
 <br><a data-href="Оружия" href="\предметы\оружия\оружия.html" class="internal-link" target="_self" rel="noopener">Оружия</a>
 <br><a data-href="Щиты" href="\предметы\щиты\щиты.html" class="internal-link" target="_self" rel="noopener">Щиты</a>
-<br>]]></description><link>предметы\предметы.html</link><guid isPermaLink="false">Предметы/Предметы.md</guid><pubDate>Wed, 01 May 2024 10:33:00 GMT</pubDate></item><item><title><![CDATA[<a href="?query=tag:%D0%A2%D1%91%D0%BC%D0%BD%D0%BE%D0%B5_%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" class="tag" target="_blank" rel="noopener">#Тёмное_зрение</a>]]></title><description><![CDATA[<a class="tag" href="?query=tag:Гуманоид" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Гуманоид</a> <a class="tag" href="?query=tag:Маленький" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Маленький</a> <a class="tag" href="?query=tag:Скорость_25фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Скорость_25фт</a> <a class="tag" href="?query=tag:Тёмное_зрение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Тёмное_зрение</a> <a class="tag" href="?query=tag:Подрасы" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Подрасы</a> 
+<br>]]></description><link>предметы\предметы.html</link><guid isPermaLink="false">Предметы/Предметы.md</guid><pubDate>Wed, 01 May 2024 10:33:00 GMT</pubDate></item><item><title><![CDATA[База]]></title><description><![CDATA[ 
+ <br>Со старта у вас есть 5 очков для определения способностей вашей расы<br><br><br>
+<br>Стат не может быть меньше 6
+<br><br><br><br><br><br><br><br><br><br>]]></description><link>расы\_новая-система\база.html</link><guid isPermaLink="false">Расы/_НОВАЯ СИСТЕМА/База.md</guid><pubDate>Tue, 28 May 2024 21:38:58 GMT</pubDate></item><item><title><![CDATA[Способности]]></title><description><![CDATA[ 
+ <br><br>
+На определенном расстоянии (см. ниже) вы при тусклом освещении можете видеть так, как будто это яркое освещение, и в темноте так, как будто это тусклое освещение.<br>
+В темноте вы не можете различать цвета, только оттенки серого.
+
+<br>Малое - 30 фт
+<br>Обычное - 60 фт
+<br>Превосходное - 120 фт
+
+<br><br>
+Вы получаете Сопротивление к 1 типу урона:<br>
+Дробящий, Колющий, Рубящий<br>
+Огонь, Холод, Яд, Кислота,<br>
+Электричество, Звук<br>
+Излучение, Некротический,<br>
+Психический, Силовой
+<br><br>
+Вы получаете Уязвимость к 1 типу урона:<br>
+Дробящий, Колющий, Рубящий<br>
+Огонь, Холод, Яд, Кислота,<br>
+Электричество, Звук<br>
+Излучение, Некротический,<br>
+Психический, Силовой
+<br><br>
+Вы получаете скорость Полета:
+
+<br>Обычная - x1
+<br>Мастерская - x2
+<br>Легендарная - x3
+<br>WTF??? - x6
+
+<br><br>
+Вы получаете скорость Плаванья:
+
+<br>Обычная - x1
+<br>Мастерская - x2
+<br>Легендарная - x3
+<br>WTF??? - x6
+
+<br><br>
+Вы получаете скорость Лазанья:
+
+<br>Обычная - x1
+<br>Мастерская - x2
+<br>Легендарная - x3
+<br>WTF??? - x6
+
+<br><br>
+Вы можете: 
+
+<br>использовать покупаемую кость урона вместо обычного урона ваших <a data-href="Безоружный удар" href="\правила\измененные\безоружный-удар.html" class="internal-link" target="_self" rel="noopener">Безоружный удар</a>
+<br>выбирать тип урона из: Дробящего, Колющего или Рубящего
+<br>Использовть Ловкость вместо силы для атак и урона ваших <a data-href="Безоружный удар" href="\правила\измененные\безоружный-удар.html" class="internal-link" target="_self" rel="noopener">Безоружный удар</a>
+
+<br><br><br>
+Ваш&nbsp;КД&nbsp;увеличивается на БМ
+<br><br>
+Ваш&nbsp;КУ&nbsp;увеличивается на БМ
+<br><br>
+Досягаемость ваших рукопашных атак увеличивается на 5 футов.
+<br><br>
+Вам нет необходимости спать и вас невозможно магически усыпить.<br>
+Вы можете закончить&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/long_rest" rel="noopener" class="external-link" href="https://ttg.club/screens/long_rest" target="_blank">продолжительный отдых</a>&nbsp;за 4 часа, если проводите это время в медитации, подобной трансу, во время которой вы сохраняете сознание.
+<br><br>
+При определении вашей грузоподъёмности, а также веса, который вы можете толкать, тянуть и поднимать, вы считаетесь существом на один размер больше.
+<br><br>
+Умелый (+): Вы получаете Преимущество на 1 Спасбросок<br>
+Неумелый (-): Вы получаете Помеху на 1 Спасбросок
+<br><br>
+Одаренный (+): Вы получаете Преимущество на проверки 1 навыка<br>
+Бездарный (-): Вы получаете Помеху на проверки 1 навыка
+<br><br>
+Вы можете совершать, деяствия <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Dash" rel="noopener" class="external-link" href="https://ttg.club/screens/Dash" target="_blank">Рывок</a>, <a data-tooltip-position="top" aria-label="https://ttg.club/screens/Disengage" rel="noopener" class="external-link" href="https://ttg.club/screens/Disengage" target="_blank">Отход</a>&nbsp;или&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/Hide" rel="noopener" class="external-link" href="https://ttg.club/screens/Hide" target="_blank">Засада</a>&nbsp;бонусным действием
+<br><br>
+Вы можете дышать на суше и под водой
+<br><br>
+Пока вы дееспособны, вы можете задерживать дыхание на неопределённое время.
+<br><br>
+Вы можете перемещаться по&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/Difficult_Terrain_Move" rel="noopener" class="external-link" href="https://ttg.club/screens/Difficult_Terrain_Move" target="_blank">труднопроходимой местности</a>, не затрачивая дополнительное движение
+<br><br>
+Вы можете принять облик любого зверя, или представителя другой расы (гуманоида), которого вы видели: 
+<br>
+<br>Вы сами решаете, как вы будете выглядеть, определяя рост, вес, цвета всего тела, длину волос
+<br>Вы также можете регулировать свой размер между Средним, Маленьким и Крошечным
+<br>ваши игровые характеристики не меняются, вы не получаете скорость Полета, Лазанья, или Плаванья, а также любые особые чувства, или особенности
+<br>Макс.ПО равно половине уровня, округляя в меньшую сторону
+<br>Время "Перевоплощения" равно классу опасности, минимум 1, раундов, во время которых вы считаетесь <a data-tooltip-position="top" aria-label="https://ttg.club/screens/paralyzed" rel="noopener" class="external-link" href="https://ttg.club/screens/paralyzed" target="_blank">парализованным</a>
+
+Вы не можете скопировать внешний вид существа, которого ни разу не видели. Ваша одежда и снаряжение не меняются вместе с изменением внешнего вида
+Вы остаётесь в новом облике до тех пор, пока не вернётесь к своему истинному облику, для этого требуется столько же времени, сколько и для Перевоплощения, или пока не умрёте
+
+
+<br><br>
+Если вы двигаетесь по крайней мере на 30 футов по направлению к цели, а затем попадаете по ней рукопашной атакой в этом же ходу, то вы можете совершить одну атаку&nbsp;бонусным действием
+<br><br>
+Если ваши хиты опустились до 0, но вы при этом не убиты, ваши хиты вместо этого опускаются до 1.<br>
+Вы не можете использовать эту способность снова, пока не закончите продолжительный отдых.
+<br><br>
+Вы можете прыгать на длину равную вашей скорости передвижения, а в высоту - до половины, с разбегом или без.
+<br><br>
+Если вы провалили бросок атаки, проверку характеристики или спасбросок, вы можете использовать свои узы взаимопомощи, чтобы получить бонус к броску, равный числу союзников, которых вы можете видеть в пределах 30 футов от вас (максимальный бонус равен&nbsp;БМ).<br>
+Вы можете использовать эту особенность количество раз, равное вашему бонусу мастерства. Вы восстанавливаете все потраченные использования по окончании продолжительного отдыха.
+<br><br>
+Вы совершаете с&nbsp;преимуществом&nbsp;броски атаки по существу, если в пределах 5 футов от вашей цели находится как минимум один из ваших дееспособных союзников.
+<br><br>
+Ни одно существо не может с&nbsp;преимуществом&nbsp;совершать бросок атаки против вас, пока вы не&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/incapacitated" rel="noopener" class="external-link" href="https://ttg.club/screens/incapacitated" target="_blank">недееспособны</a><br>
+Но если у сещуства автокрит, оно все ещё попадает по вам
+<br><br>
+Вы получаете одну&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/traits" rel="noopener" class="external-link" href="https://ttg.club/traits" target="_blank">черту</a>&nbsp;по вашему выбору, требованиям которой вы удовлетворяете. 
+<br><br>
+Если при броске атаки, проверке характеристики или спасброске у вас выпало «1», вы можете перебросить кость, и должны использовать новый результат.
+<br><br>
+Вы совершаете с&nbsp;помехой&nbsp;броски атаки и проверки&nbsp;Мудрости (Внимательность), основанные на зрении, если вы, цель вашей атаки или изучаемый предмет расположены на прямом солнечном свете.
+<br><br>
+Вы можете Действием потратить&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/Hit_Points_and_Hit_Dice" rel="noopener" class="external-link" href="https://ttg.club/screens/Hit_Points_and_Hit_Dice" target="_blank">Кость Хитов</a>, бросить её и восстановить количество хитов, равное результату броска плюс ваш модификатор&nbsp;Телосложения (минимум 1 хит)<br>
+Но при этом вы не можете лечиться от заклинаний.
+<br><br>
+Когда вы падаете и не&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/incapacitated" rel="noopener" class="external-link" href="https://ttg.club/screens/incapacitated" target="_blank">недееспособны</a>, вы можете вычесть из падения до 20 x БМ футов при расчете урона от падения, и вы можете перемещаться на 2 фута по горизонтали на каждый 1 фут, который вы спускаетесь.
+<br><br>
+Вы совершаете с&nbsp;преимуществом&nbsp;cпасброски против смерти.
+<br><br>
+Когда вы берете эту способность, выберите зверя маленького или крошечного размера.<br>
+Бонус действием вы можете превратиться в выбранного зверя. При этом ваша одежда и снаряжение сливаются с вашей формой, и вы не получаете от них никаких преимуществ во время превращения.<br>
+Вы сами определяете особенности своего облика в лисьей форме, включая окраску и размер. Все остальные игровые параметры остаются неизменными.<br>
+Вы остаетесь в этой форме до тех пор, пока не используете бонус действие, чтобы вернуться в свою изначальную форму.
+<br><br>
+Ваша скорость путешествий удваивается, также удваивается скорость ваших спутников, если они находятся не далее, чем 60 футов от вас, и вы не являетесь недееспособным<br>
+Труднопроходимая местность не замедляет путешествие группы<br>
+Даже когда вы занимаетесь другой деятельностью во время путешествия, вы остаётесь готовы к опасности<br>
+Когда вы ищете пищу, то находите в два раза больше, чем обычно
+]]></description><link>расы\_новая-система\способности.html</link><guid isPermaLink="false">Расы/_НОВАЯ СИСТЕМА/Способности.md</guid><pubDate>Tue, 28 May 2024 21:56:22 GMT</pubDate></item><item><title><![CDATA[Статы]]></title><description><![CDATA[ 
+ <br>]]></description><link>расы\_новая-система\статы.html</link><guid isPermaLink="false">Расы/_НОВАЯ СИСТЕМА/Статы.md</guid><pubDate>Tue, 28 May 2024 22:20:35 GMT</pubDate></item><item><title><![CDATA[<a href="?query=tag:%D0%A2%D1%91%D0%BC%D0%BD%D0%BE%D0%B5_%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" class="tag" target="_blank" rel="noopener">#Тёмное_зрение</a>]]></title><description><![CDATA[<a class="tag" href="?query=tag:Гуманоид" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Гуманоид</a> <a class="tag" href="?query=tag:Маленький" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Маленький</a> <a class="tag" href="?query=tag:Скорость_25фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Скорость_25фт</a> <a class="tag" href="?query=tag:Тёмное_зрение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Тёмное_зрение</a> <a class="tag" href="?query=tag:Подрасы" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Подрасы</a> 
  <br><br><br>
 У Вас есть острые кошачьи чувства, особенно в темноте. На расстоянии в 60 футов вы при тусклом освещении можете видеть так, как будто это яркое освещение, и в темноте так, как будто это тусклое освещение. В темноте вы не можете различать цвета, только оттенки серого
 <br><br>
@@ -1653,7 +1789,7 @@ Copy<br><br><br>
 Вы можете действием пустить корни в любую рыхлую поверхность. Таким образом корни удерживают вас на месте даруя иммунитет к состоянию сбитый с ног, но при этом любая ваша скорость равна 0. Помимо этого, находясь в подобном положении ваши рукопашные атаки дополнительно наносят урон равный вашему модификатору Силы. Вы можете прервать укоренение действием
 <br><br>
 Ваша грубая кора защищает вас от ударов. Вы получаете +1 к КД
-]]></description><link>расы\растение\древан.html</link><guid isPermaLink="false">Расы/Растение/ДРЕВАН.md</guid><pubDate>Mon, 22 Apr 2024 12:19:51 GMT</pubDate></item><item><title><![CDATA[<a href="?query=tag:%D0%9E%D0%B1%D0%BC%D0%B0%D0%BD%D1%87%D0%B8%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D1%8C" class="tag" target="_blank" rel="noopener">#Обманчивая_внешность</a>]]></title><description><![CDATA[<a class="tag" href="?query=tag:Растение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Растение</a> <a class="tag" href="?query=tag:Маленький" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Маленький</a> <a class="tag" href="?query=tag:Крошечный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Крошечный</a> <a class="tag" href="?query=tag:Скорость_10фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Скорость_10фт</a> <a class="tag" href="?query=tag:Плаванье" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Плаванье</a> <a class="tag" href="?query=tag:Лазанье" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Лазанье</a> <a class="tag" href="?query=tag:Обманчивая_внешность" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Обманчивая_внешность</a> <a class="tag" href="?query=tag:Фотосинтез" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Фотосинтез</a> <a class="tag" href="?query=tag:Общающиеся_с_растениями" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общающиеся_с_растениями</a> 
+]]></description><link>расы\растение\древан.html</link><guid isPermaLink="false">Расы/Растение/ДРЕВАН.md</guid><pubDate>Mon, 22 Apr 2024 12:19:51 GMT</pubDate></item><item><title><![CDATA[<a href="?query=tag:%D0%9E%D0%B1%D0%BC%D0%B0%D0%BD%D1%87%D0%B8%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D1%8C" class="tag" target="_blank" rel="noopener">#Обманчивая_внешность</a>]]></title><description><![CDATA[<a class="tag" href="?query=tag:Растение" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Растение</a> <a class="tag" href="?query=tag:Маленький" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Маленький</a> <a class="tag" href="?query=tag:Крошечный" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Крошечный</a> <a class="tag" href="?query=tag:Скорость_10фт" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Скорость_10фт</a> <a class="tag" href="?query=tag:Плаванье" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Плаванье</a> <a class="tag" href="?query=tag:Обманчивая_внешность" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Обманчивая_внешность</a> <a class="tag" href="?query=tag:Фотосинтез" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Фотосинтез</a> <a class="tag" href="?query=tag:Общающиеся_с_растениями" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Общающиеся_с_растениями</a> 
  <br><br><br>
 Если существо не наблюдало за вами, это существо должно преуспеть в проверке Интеллекта (Расследование) Сл 18, чтобы определить, что вы не являетесь обычным растением
 <br><br>
@@ -1676,7 +1812,7 @@ Copy<br><br><br>
 <br>«Фонтан» производит 5 галлонов (19 литров) воды.
 <br>«Гейзер» производит 30 галлонов (114 литров) воды, которая вырывается струёй 30 футов длиной и 1 фут шириной. Держа графин, вы можете бонусным действием нацелиться графином на существо, которое видите в пределах 30 футов от себя. Цель должна преуспеть в спасброске Силы Сл 13, иначе получит 1к4 дробящего урона и будет сбита с ног. Вместо существа вы можете нацелиться на предмет, который никто не несёт и не носит, и который весит не больше 200 фунтов. Предмет или падает или толкается на 15 футов от вас
 
-]]></description><link>расы\растение\фунаюрэй.html</link><guid isPermaLink="false">Расы/Растение/ФУНАЮРЭЙ.md</guid><pubDate>Wed, 22 May 2024 23:37:49 GMT</pubDate></item><item><title><![CDATA[Расы]]></title><description><![CDATA[ 
+]]></description><link>расы\растение\фунаюрэй.html</link><guid isPermaLink="false">Расы/Растение/ФУНАЮРЭЙ.md</guid><pubDate>Tue, 28 May 2024 22:01:07 GMT</pubDate></item><item><title><![CDATA[Расы]]></title><description><![CDATA[ 
  <br>Способности расы можно выбирать из стандартных или мультивселенной
 Copy<br><br><br>
 Вы знаете: 2 <a data-tooltip-position="top" aria-label="Языки" data-href="Языки" href="\лебенхейм\мир\языки.html" class="internal-link" target="_self" rel="noopener">языка</a> на выбор
