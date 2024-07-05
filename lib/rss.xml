@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lebenheim]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://mitfart.github.io/DND.JCompain/</link><image><url>https://mitfart.github.io/DND.JCompain/lib/media/favicon.png</url><title>Lebenheim</title><link>https://mitfart.github.io/DND.JCompain/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 05 Jul 2024 03:27:51 GMT</lastBuildDate><atom:link href="https://mitfart.github.io/DND.JCompain/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 05 Jul 2024 03:27:20 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Волшебная палочка паралича]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lebenheim]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://mitfart.github.io/DND.JCompain/</link><image><url>https://mitfart.github.io/DND.JCompain/lib/media/favicon.png</url><title>Lebenheim</title><link>https://mitfart.github.io/DND.JCompain/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 05 Jul 2024 09:20:52 GMT</lastBuildDate><atom:link href="https://mitfart.github.io/DND.JCompain/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 05 Jul 2024 09:20:10 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Волшебная палочка паралича]]></title><description><![CDATA[ 
  <br>Волшебная палочка, Редкое
 Требует настройки
 Copy<br>У этой волшебной палочки 7 зарядов.<br>
@@ -1012,13 +1012,7 @@ Copy<br><br><br>
 Ваше тело имеет встроенную защиту, которую можно усилить доспехом:<br>
 Вы можете встраивать только те доспехи, которыми вы владеете, и не можете встраивать щиты. Чтобы надеть доспех, вы должны встроить его в свое тело. Для этого вы должны быть в контакте с доспехом в течение 1 часа. Чтобы снять доспех, вы должны потратить 1 час на их извлечение<br>
 Вы можете встраивать или извлекать доспехи во время отдыха. Пока вы живы, ваши доспехи не могут быть изъяты из вашего тела против вашей воли
-<br><br><br><br><br>
-Вашу форму нелзя изменить никаким образом против вашей воли.<br>
-Исключение: Божественное вмешательство
-<br><br><br><br>
-Вы можете Действием потратить&nbsp;<a data-tooltip-position="top" aria-label="https://ttg.club/screens/Hit_Points_and_Hit_Dice" rel="noopener" class="external-link" href="https://ttg.club/screens/Hit_Points_and_Hit_Dice" target="_blank">Кость Хитов</a>, бросить её и восстановить количество хитов, равное результату броска плюс ваш модификатор&nbsp;Телосложения (минимум 1 хит)<br>
-Но при этом вы не можете лечиться от заклинаний.
-<br><br><br>
+<br><br><br><br><br><br><br><br>
 <a data-href="ХАНИВА-Цельнометалический" href="https://mitfart.github.io/DND.JCompain/лебенхейм/расы/конструкт-и-другие/ханива/ханива-цельнометалический.html" class="internal-link" target="_self" rel="noopener">ХАНИВА-Цельнометалический</a><br>
 <a data-href="ХАНИВА-Живая оболочка" href="https://mitfart.github.io/DND.JCompain/лебенхейм/расы/конструкт-и-другие/ханива/ханива-живая-оболочка.html" class="internal-link" target="_self" rel="noopener">ХАНИВА-Живая оболочка</a>
 ]]></description><link>https://mitfart.github.io/DND.JCompain/лебенхейм/расы/конструкт-и-другие/ханива/ханива.html</link><guid isPermaLink="false">Лебенхейм/Расы/Конструкт и Другие/ХАНИВА/ХАНИВА.md</guid><pubDate>Sun, 30 Jun 2024 00:06:43 GMT</pubDate></item><item><title><![CDATA[ХАНИВА-Живая оболочка]]></title><description><![CDATA[<a class="tag" href="https://mitfart.github.io/DND.JCompain/?query=tag:Монстр" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Монстр</a> 
@@ -1146,7 +1140,7 @@ Copy<br><br><br>
 
 
 <br><a data-href="Расы" href="https://mitfart.github.io/DND.JCompain/лебенхейм/расы/расы.html" class="internal-link" target="_self" rel="noopener">Расы</a>
-<br>]]></description><link>https://mitfart.github.io/DND.JCompain/лебенхейм/лебенхейм.html</link><guid isPermaLink="false">Лебенхейм/Лебенхейм.md</guid><pubDate>Thu, 04 Jul 2024 22:36:24 GMT</pubDate></item><item><title><![CDATA[“Стакающееся” преимущество и помеха]]></title><description><![CDATA[ 
+<br>]]></description><link>https://mitfart.github.io/DND.JCompain/лебенхейм/лебенхейм.html</link><guid isPermaLink="false">Лебенхейм/Лебенхейм.md</guid><pubDate>Fri, 05 Jul 2024 09:17:39 GMT</pubDate></item><item><title><![CDATA[“Стакающееся” преимущество и помеха]]></title><description><![CDATA[ 
  <br><br>Бонусы из таблицы суммируются
 Copy<br><br>Шрафы из таблицы суммируются
 Copy]]></description><link>https://mitfart.github.io/DND.JCompain/правила/homebrew/“стакающееся”-преимущество-и-помеха.html</link><guid isPermaLink="false">Правила/Homebrew/“Стакающееся” преимущество и помеха.md</guid><pubDate>Mon, 20 May 2024 14:41:03 GMT</pubDate></item><item><title><![CDATA[Содержание]]></title><description><![CDATA[ 
@@ -1470,7 +1464,7 @@ Copy<br>
 <br>Примерная цена оружия расчитывается по формуле, но может определятся мастером в зависимости от Сюжета:<br>
 ЦД + 25 x Количество Очков x Количество Свойств^2
 <br>]]></description><link>https://mitfart.github.io/DND.JCompain/правила/предметы/доспехи/cборка_доспеха.html</link><guid isPermaLink="false">Правила/Предметы/Доспехи/Cборка_Доспеха.md</guid><pubDate>Fri, 17 May 2024 22:52:14 GMT</pubDate></item><item><title><![CDATA[Броня и Уклонение]]></title><description><![CDATA[ 
- <br><br><br>КД - (Класс Доспеха)<br>
+ <br><br>Вы можете добавить свой бонус мастерства к КУ или ПБ, или распределить его, на ваш выбор.<br><br>КД - (Класс Доспеха)<br>
 Классическая система брони DND<br>КУ - (Класс Уклонения)<br>
 Показывает насколько сложно по вам попасть<br>
 * Смотрите по таблице сверху<br>ПБ - (Поглощение Броней)<br>
@@ -1502,7 +1496,7 @@ Copy<br>
 <br><br><br>
 <br><a data-href="Cборка_Доспеха" href="https://mitfart.github.io/DND.JCompain/правила/предметы/доспехи/cборка_доспеха.html" class="internal-link" target="_self" rel="noopener">Cборка_Доспеха</a>
 <br><a data-href="Свойства_Доспехи" href="https://mitfart.github.io/DND.JCompain/правила/предметы/доспехи/свойства_доспехи.html" class="internal-link" target="_self" rel="noopener">Свойства_Доспехи</a>
-<br>]]></description><link>https://mitfart.github.io/DND.JCompain/правила/предметы/доспехи/доспехи.html</link><guid isPermaLink="false">Правила/Предметы/Доспехи/Доспехи.md</guid><pubDate>Sun, 16 Jun 2024 14:18:20 GMT</pubDate></item><item><title><![CDATA[Свойства_Доспехи]]></title><description><![CDATA[ 
+<br>]]></description><link>https://mitfart.github.io/DND.JCompain/правила/предметы/доспехи/доспехи.html</link><guid isPermaLink="false">Правила/Предметы/Доспехи/Доспехи.md</guid><pubDate>Fri, 05 Jul 2024 09:19:58 GMT</pubDate></item><item><title><![CDATA[Свойства_Доспехи]]></title><description><![CDATA[ 
  <br><br>
 Вы удваиваете ПБ от этого доспеха, но ваш КУ уменьшается вдвое (в два раза)
 <br><br>
