@@ -1,6 +1,6 @@
 {
   "vaultName": "Lebenheim",
-  "lastExport": 1722809435452,
+  "lastExport": 1722810932626,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -612,751 +612,751 @@
   ],
   "fileInfo": {
     "Заклинания/0/Дружба.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 169,
       "exportedPath": "заклинания/0/дружба.html",
       "dependencies": []
     },
     "Заклинания/0/Починка.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 115,
       "exportedPath": "заклинания/0/починка.html",
       "dependencies": []
     },
     "Заклинания/0/Сопротивление.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 223,
       "exportedPath": "заклинания/0/сопротивление.html",
       "dependencies": []
     },
     "Заклинания/0/Указание.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 281,
       "exportedPath": "заклинания/0/указание.html",
       "dependencies": []
     },
     "Заклинания/1/Ведьмин снаряд.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 487,
       "exportedPath": "заклинания/1/ведьмин-снаряд.html",
       "dependencies": []
     },
     "Заклинания/1/Вызов страха.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 110,
       "exportedPath": "заклинания/1/вызов-страха.html",
       "dependencies": []
     },
     "Заклинания/1/Гневная кара.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 162,
       "exportedPath": "заклинания/1/гневная-кара.html",
       "dependencies": []
     },
     "Заклинания/1/Град шипов.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 193,
       "exportedPath": "заклинания/1/град-шипов.html",
       "dependencies": []
     },
     "Заклинания/1/Дрожь земли.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 103,
       "exportedPath": "заклинания/1/дрожь-земли.html",
       "dependencies": []
     },
     "Заклинания/1/Катапульта.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 283,
       "exportedPath": "заклинания/1/катапульта.html",
       "dependencies": []
     },
     "Заклинания/1/Луч болезни.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 572,
       "exportedPath": "заклинания/1/луч-болезни.html",
       "dependencies": []
     },
     "Заклинания/1/Направленный снаряд.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 103,
       "exportedPath": "заклинания/1/направленный-снаряд.html",
       "dependencies": []
     },
     "Заклинания/1/Палящая кара.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 103,
       "exportedPath": "заклинания/1/палящая-кара.html",
       "dependencies": []
     },
     "Заклинания/1/Поглощение стихий.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 165,
       "exportedPath": "заклинания/1/поглощение-стихий.html",
       "dependencies": []
     },
     "Заклинания/1/Псевдожизнь.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 176,
       "exportedPath": "заклинания/1/псевдожизнь.html",
       "dependencies": []
     },
     "Заклинания/1/Сверкающие брызги.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 163,
       "exportedPath": "заклинания/1/сверкающие-брызги.html",
       "dependencies": []
     },
     "Заклинания/1/Силок.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 113,
       "exportedPath": "заклинания/1/силок.html",
       "dependencies": []
     },
     "Заклинания/1/Усыпление.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 109,
       "exportedPath": "заклинания/1/усыпление.html",
       "dependencies": []
     },
     "Заклинания/1/Щит.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 199,
       "exportedPath": "заклинания/1/щит.html",
       "dependencies": []
     },
     "Заклинания/1/Щит веры.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 131,
       "exportedPath": "заклинания/1/щит-веры.html",
       "dependencies": []
     },
     "Заклинания/2/Дребезги.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 105,
       "exportedPath": "заклинания/2/дребезги.html",
       "dependencies": []
     },
     "Заклинания/2/Защитный ветер.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 138,
       "exportedPath": "заклинания/2/защитный-ветер.html",
       "dependencies": []
     },
     "Заклинания/2/Исцеляющий дух.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 233,
       "exportedPath": "заклинания/2/исцеляющий-дух.html",
       "dependencies": []
     },
     "Заклинания/2/Клеймящая кара.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 193,
       "exportedPath": "заклинания/2/клеймящая-кара.html",
       "dependencies": []
     },
     "Заклинания/2/Лунный луч.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 156,
       "exportedPath": "заклинания/2/лунный-луч.html",
       "dependencies": []
     },
     "Заклинания/2/Луч слабости.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 179,
       "exportedPath": "заклинания/2/луч-слабости.html",
       "dependencies": []
     },
     "Заклинания/2/Молебен лечения.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 247,
       "exportedPath": "заклинания/2/молебен-лечения.html",
       "dependencies": []
     },
     "Заклинания/2/Небесные письмена.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 133,
       "exportedPath": "заклинания/2/небесные-письмена.html",
       "dependencies": []
     },
     "Заклинания/2/Облако кинжалов.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 277,
       "exportedPath": "заклинания/2/облако-кинжалов.html",
       "dependencies": []
     },
     "Заклинания/2/Охраняющая связь.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 195,
       "exportedPath": "заклинания/2/охраняющая-связь.html",
       "dependencies": []
     },
     "Заклинания/2/Палящий луч.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 105,
       "exportedPath": "заклинания/2/палящий-луч.html",
       "dependencies": []
     },
     "Заклинания/2/Поиск ловушек.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 167,
       "exportedPath": "заклинания/2/поиск-ловушек.html",
       "dependencies": []
     },
     "Заклинания/2/Пылающий шар.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 105,
       "exportedPath": "заклинания/2/пылающий-шар.html",
       "dependencies": []
     },
     "Заклинания/2/Раскалённый металл.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 380,
       "exportedPath": "заклинания/2/раскалённый-металл.html",
       "dependencies": []
     },
     "Заклинания/2/Снежный шквал Сниллока.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 115,
       "exportedPath": "заклинания/2/снежный-шквал-сниллока.html",
       "dependencies": []
     },
     "Заклинания/2/Теневой клинок.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 103,
       "exportedPath": "заклинания/2/теневой-клинок.html",
       "dependencies": []
     },
     "Заклинания/3/Аура живучести.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 126,
       "exportedPath": "заклинания/3/аура-живучести.html",
       "dependencies": []
     },
     "Заклинания/3/Защита от энергии.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 235,
       "exportedPath": "заклинания/3/защита-от-энергии.html",
       "dependencies": []
     },
     "Заклинания/3/Молния.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 104,
       "exportedPath": "заклинания/3/молния.html",
       "dependencies": []
     },
     "Заклинания/3/Огненный шар.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 98,
       "exportedPath": "заклинания/3/огненный-шар.html",
       "dependencies": []
     },
     "Заклинания/3/Ослепляющая кара.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 105,
       "exportedPath": "заклинания/3/ослепляющая-кара.html",
       "dependencies": []
     },
     "Заклинания/3/Передача жизни.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 255,
       "exportedPath": "заклинания/3/передача-жизни.html",
       "dependencies": []
     },
     "Заклинания/3/Прикосновение вампира.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 105,
       "exportedPath": "заклинания/3/прикосновение-вампира.html",
       "dependencies": []
     },
     "Заклинания/3/Пылающие стрелы.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 137,
       "exportedPath": "заклинания/3/пылающие-стрелы.html",
       "dependencies": []
     },
     "Заклинания/3/Ускорение.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 83,
       "exportedPath": "заклинания/3/ускорение.html",
       "dependencies": []
     },
     "Заклинания/4/Болезненное сияние.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 198,
       "exportedPath": "заклинания/4/болезненное-сияние.html",
       "dependencies": []
     },
     "Заклинания/4/Верный пёс Морденкайнена.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 152,
       "exportedPath": "заклинания/4/верный-пёс-морденкайнена.html",
       "dependencies": []
     },
     "Заклинания/4/Вызов малых элементалей.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 134,
       "exportedPath": "заклинания/4/вызов-малых-элементалей.html",
       "dependencies": []
     },
     "Заклинания/4/Каменная кожа.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 309,
       "exportedPath": "заклинания/4/каменная-кожа.html",
       "dependencies": []
     },
     "Заклинания/4/Оглушающая кара.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 107,
       "exportedPath": "заклинания/4/оглушающая-кара.html",
       "dependencies": []
     },
     "Заклинания/4/Огненный щит.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 169,
       "exportedPath": "заклинания/4/огненный-щит.html",
       "dependencies": []
     },
     "Заклинания/4/Проклятье стихий.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 105,
       "exportedPath": "заклинания/4/проклятье-стихий.html",
       "dependencies": []
     },
     "Заклинания/4/Страж веры.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 380,
       "exportedPath": "заклинания/4/страж-веры.html",
       "dependencies": []
     },
     "Заклинания/5/Водоворот.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 145,
       "exportedPath": "заклинания/5/водоворот.html",
       "dependencies": []
     },
     "Заклинания/5/Вызов залпа.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 105,
       "exportedPath": "заклинания/5/вызов-залпа.html",
       "dependencies": []
     },
     "Заклинания/5/Вызов элементаля.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 127,
       "exportedPath": "заклинания/5/вызов-элементаля.html",
       "dependencies": []
     },
     "Заклинания/5/Конус холода.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 160,
       "exportedPath": "заклинания/5/конус-холода.html",
       "dependencies": []
     },
     "Заклинания/5/Множественное лечение ран.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 193,
       "exportedPath": "заклинания/5/множественное-лечение-ран.html",
       "dependencies": []
     },
     "Заклинания/5/Обессиливание.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 190,
       "exportedPath": "заклинания/5/обессиливание.html",
       "dependencies": []
     },
     "Заклинания/5/Обет.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 126,
       "exportedPath": "заклинания/5/обет.html",
       "dependencies": []
     },
     "Заклинания/5/Разрушительная волна.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 107,
       "exportedPath": "заклинания/5/разрушительная-волна.html",
       "dependencies": []
     },
     "Заклинания/5/Священное оружие.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 210,
       "exportedPath": "заклинания/5/священное-оружие.html",
       "dependencies": []
     },
     "Заклинания/5/Удар стального ветра.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 104,
       "exportedPath": "заклинания/5/удар-стального-ветра.html",
       "dependencies": []
     },
     "Заклинания/6/Вызов феи.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 121,
       "exportedPath": "заклинания/6/вызов-феи.html",
       "dependencies": []
     },
     "Заклинания/6/Облачение.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 401,
       "exportedPath": "заклинания/6/облачение.html",
       "dependencies": []
     },
     "Заклинания/6/Отилюков ледяной шар.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 116,
       "exportedPath": "заклинания/6/отилюков-ледяной-шар.html",
       "dependencies": []
     },
     "Заклинания/6/Первородный страж.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 141,
       "exportedPath": "заклинания/6/первородный-страж.html",
       "dependencies": []
     },
     "Заклинания/6/Поражение.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 96,
       "exportedPath": "заклинания/6/поражение.html",
       "dependencies": []
     },
     "Заклинания/6/Раскидывание.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 131,
       "exportedPath": "заклинания/6/раскидывание.html",
       "dependencies": []
     },
     "Заклинания/6/Стена клинков.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 104,
       "exportedPath": "заклинания/6/стена-клинков.html",
       "dependencies": []
     },
     "Заклинания/6/Трансформация Тензера.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 148,
       "exportedPath": "заклинания/6/трансформация-тензера.html",
       "dependencies": []
     },
     "Заклинания/7/Вызов небожителя.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 127,
       "exportedPath": "заклинания/7/вызов-небожителя.html",
       "dependencies": []
     },
     "Заклинания/7/Меч Морденкайнена.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 142,
       "exportedPath": "заклинания/7/меч-морденкайнена.html",
       "dependencies": []
     },
     "Заклинания/7/Огненная буря.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 101,
       "exportedPath": "заклинания/7/огненная-буря.html",
       "dependencies": []
     },
     "Заклинания/8/Аура святости.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 307,
       "exportedPath": "заклинания/8/аура-святости.html",
       "dependencies": []
     },
     "Заклинания/8/Цунами.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 133,
       "exportedPath": "заклинания/8/цунами.html",
       "dependencies": []
     },
     "Заклинания/9/Метеоритный дождь.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 313,
       "exportedPath": "заклинания/9/метеоритный-дождь.html",
       "dependencies": []
     },
     "Заклинания/9/Слово силы Смерть.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 117,
       "exportedPath": "заклинания/9/слово-силы-смерть.html",
       "dependencies": []
     },
     "Заклинания/Заклинания.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2806,
       "exportedPath": "заклинания/заклинания.html",
       "dependencies": []
     },
     "Классы/Бард/Бард.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 109,
       "exportedPath": "классы/бард/бард.html",
       "dependencies": []
     },
     "Классы/Бард/Коллегия Мастеров.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 5461,
       "exportedPath": "классы/бард/коллегия-мастеров.html",
       "dependencies": []
     },
     "Классы/Варвар/Путь Кровавого Бедствия.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 6678,
       "exportedPath": "классы/варвар/путь-кровавого-бедствия.html",
       "dependencies": []
     },
     "Классы/Варвар/Путь Кровавого наследия.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 10512,
       "exportedPath": "классы/варвар/путь-кровавого-наследия.html",
       "dependencies": []
     },
     "Классы/Варвар/Путь Ледяного Титана.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 5048,
       "exportedPath": "классы/варвар/путь-ледяного-титана.html",
       "dependencies": []
     },
     "Классы/Магус/Орден Эхо.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 3208,
       "exportedPath": "классы/магус/орден-эхо.html",
       "dependencies": []
     },
     "Классы/Савант/Просвещенный Драконом.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1215,
       "exportedPath": "классы/савант/просвещенный-драконом.html",
       "dependencies": []
     },
     "Классы/Савант/Савант.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 117,
       "exportedPath": "классы/савант/савант.html",
       "dependencies": []
     },
     "Классы/Классы.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 322,
       "exportedPath": "классы/классы.html",
       "dependencies": []
     },
     "Компании/3rd Party/Авернус/Предметы/Картинки/Ярость Стихий.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 49799,
       "exportedPath": "компании/3rd-party/авернус/предметы/картинки/ярость-стихий.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Авернус/Предметы/Маг.Снаряжение/Волшебная палочка паралича.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 977,
       "exportedPath": "компании/3rd-party/авернус/предметы/маг.снаряжение/волшебная-палочка-паралича.html",
       "dependencies": []
     },
     "Компании/3rd Party/Авернус/Предметы/Маг.Снаряжение/Ярость Стихий.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2634,
       "exportedPath": "компании/3rd-party/авернус/предметы/маг.снаряжение/ярость-стихий.html",
       "dependencies": []
     },
     "Компании/3rd Party/Авернус/Авернус.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 282,
       "exportedPath": "компании/3rd-party/авернус/авернус.html",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Авашонцы/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 96589,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/1.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Авашонцы/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 129678,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/2.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Авашонцы/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 46369,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/3.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Авашонцы/4.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 100862,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/4.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Авашонцы/5.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 55806,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/5.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Авашонцы/6.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 36778,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/6.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Авашонцы/7.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 457639,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/7.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Авашонцы/8.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 436938,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/8.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Аршази/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 36922,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/аршази/1.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Аршази/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 155069,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/аршази/2.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Гамшунги/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 182130,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/гамшунги/1.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Гамшунги/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 36592,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/гамшунги/2.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Гамшунги/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 90071,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/гамшунги/3.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Гамшунги/4.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 129419,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/гамшунги/4.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Кажары/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 119048,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/кажары/1.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Кажары/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 120915,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/кажары/2.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Кажары/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 92650,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/кажары/3.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Саргеты/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 42494,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/саргеты/1.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Саргеты/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 62047,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/саргеты/2.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Саргеты/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 52167,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/саргеты/3.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Фарсийцы/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 63262,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/фарсийцы/1.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Фарсийцы/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 47712,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/фарсийцы/2.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Фарсийцы/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 55753,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/фарсийцы/3.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Фарсийцы/4.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 70436,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/фарсийцы/4.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Шахасы/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 35345,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы/1.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Шахасы/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 73792,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы/2.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Шахасы/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 84738,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы/3.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Шахасы/4.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 44460,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы/4.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Шахасы Верпаны/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 48614,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы-верпаны/1.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Шахасы Верпаны/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 53202,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы-верпаны/2.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Шахасы Верпаны/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 63252,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы-верпаны/3.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Картинки/Шахасы Верпаны/4.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 77261,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы-верпаны/4.jpg",
       "dependencies": []
     },
     "Компании/3rd Party/Арашах/Расы/Авашонец.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2123,
       "exportedPath": "компании/3rd-party/арашах/расы/авашонец.html",
       "dependencies": [
@@ -1371,7 +1371,7 @@
       ]
     },
     "Компании/3rd Party/Арашах/Расы/Аршази.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1617,
       "exportedPath": "компании/3rd-party/арашах/расы/аршази.html",
       "dependencies": [
@@ -1380,7 +1380,7 @@
       ]
     },
     "Компании/3rd Party/Арашах/Расы/Гамшунг.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 3631,
       "exportedPath": "компании/3rd-party/арашах/расы/гамшунг.html",
       "dependencies": [
@@ -1391,7 +1391,7 @@
       ]
     },
     "Компании/3rd Party/Арашах/Расы/Кажар.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2937,
       "exportedPath": "компании/3rd-party/арашах/расы/кажар.html",
       "dependencies": [
@@ -1401,7 +1401,7 @@
       ]
     },
     "Компании/3rd Party/Арашах/Расы/Саргет.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1926,
       "exportedPath": "компании/3rd-party/арашах/расы/саргет.html",
       "dependencies": [
@@ -1411,7 +1411,7 @@
       ]
     },
     "Компании/3rd Party/Арашах/Расы/Фарсийец.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1149,
       "exportedPath": "компании/3rd-party/арашах/расы/фарсийец.html",
       "dependencies": [
@@ -1422,7 +1422,7 @@
       ]
     },
     "Компании/3rd Party/Арашах/Расы/Шахас.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 6359,
       "exportedPath": "компании/3rd-party/арашах/расы/шахас.html",
       "dependencies": [
@@ -1437,25 +1437,25 @@
       ]
     },
     "Компании/3rd Party/Арашах/Арашах.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 3143,
       "exportedPath": "компании/3rd-party/арашах/арашах.html",
       "dependencies": []
     },
     "Компании/3rd Party/3rd Party.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 117,
       "exportedPath": "компании/3rd-party/3rd-party.html",
       "dependencies": []
     },
     "Компании/Вазервелт/Вазервелт.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1645014,
       "exportedPath": "компании/вазервелт/вазервелт.png",
       "dependencies": []
     },
     "Компании/Вазервелт/Вазервелт.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 12281,
       "exportedPath": "компании/вазервелт/вазервелт.html",
       "dependencies": [
@@ -1463,385 +1463,385 @@
       ]
     },
     "Компании/Вазервелт/Вазервелт 2024-07-08-01-48.map": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1252400,
       "exportedPath": "компании/вазервелт/вазервелт-2024-07-08-01-48.map",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Материки/Альхарар.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 161,
       "exportedPath": "компании/лебенхейм/мир/география/материки/альхарар.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Материки/Арктика.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43,
       "exportedPath": "компании/лебенхейм/мир/география/материки/арктика.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Материки/Арктур.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 247,
       "exportedPath": "компании/лебенхейм/мир/география/материки/арктур.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Материки/Материки.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 193,
       "exportedPath": "компании/лебенхейм/мир/география/материки/материки.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Материки/Матес.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 195,
       "exportedPath": "компании/лебенхейм/мир/география/материки/матес.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Острова/Аскальдорн/Аскальдорн.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43,
       "exportedPath": "компании/лебенхейм/мир/география/острова/аскальдорн/аскальдорн.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Острова/Аскальдорн/Истинный лед.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43,
       "exportedPath": "компании/лебенхейм/мир/география/острова/аскальдорн/истинный-лед.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Острова/Ирнес.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 81,
       "exportedPath": "компании/лебенхейм/мир/география/острова/ирнес.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Острова/Камэ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 113,
       "exportedPath": "компании/лебенхейм/мир/география/острова/камэ.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Острова/Острова.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 132,
       "exportedPath": "компании/лебенхейм/мир/география/острова/острова.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Регионы/Мертвый туман.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43,
       "exportedPath": "компании/лебенхейм/мир/география/регионы/мертвый-туман.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Регионы/Регионы.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 145,
       "exportedPath": "компании/лебенхейм/мир/география/регионы/регионы.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Кехия/Крепости/Крахэнстаг.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43,
       "exportedPath": "компании/лебенхейм/мир/география/страны/кехия/крепости/крахэнстаг.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Кехия/Крепости/Крепости.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 140,
       "exportedPath": "компании/лебенхейм/мир/география/страны/кехия/крепости/крепости.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Кехия/Кехия.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 140,
       "exportedPath": "компании/лебенхейм/мир/география/страны/кехия/кехия.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хаи/Хаи.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 6863,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хаи/хаи.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Воды/Воды.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 134,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/воды/воды.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Воды/Саммели.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 54,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/воды/саммели.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Города/Города.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 164,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/города/города.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Города/Йошира.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 42,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/города/йошира.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Города/Наран.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 42,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/города/наран.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Города/Оное.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 42,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/города/оное.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Картинки/Архитектура/71c14bd10506eb60b756855a3631b843.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 100570,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/картинки/архитектура/71c14bd10506eb60b756855a3631b843.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Картинки/Архитектура/87d96ab92a787ab47e398c8fe55c34d5.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 57097,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/картинки/архитектура/87d96ab92a787ab47e398c8fe55c34d5.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Картинки/Архитектура/256cfbdfdab17499f801b06f6504f05b.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 124434,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/картинки/архитектура/256cfbdfdab17499f801b06f6504f05b.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Картинки/Архитектура/00278f1c841f9726bccd9cbf664549bf.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 100869,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/картинки/архитектура/00278f1c841f9726bccd9cbf664549bf.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Картинки/Архитектура/44149cd25d8834b9148bf9ec930c584e.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 51090,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/картинки/архитектура/44149cd25d8834b9148bf9ec930c584e.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Картинки/Архитектура/108384e6287cb292f751cf0dcd9b127f.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 95259,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/картинки/архитектура/108384e6287cb292f751cf0dcd9b127f.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Картинки/Архитектура/c27ccbed3a2995152e03abe8406ed4eb.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 115849,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/картинки/архитектура/c27ccbed3a2995152e03abe8406ed4eb.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Картинки/Архитектура/f80a0fffb5c35191cc1422a151e13c13.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 92255,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/картинки/архитектура/f80a0fffb5c35191cc1422a151e13c13.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Картинки/Промышленность/s-l1600.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 129492,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/картинки/промышленность/s-l1600.webp",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Организации/Авангард Манри.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 324,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/организации/авангард-манри.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Организации/Королевская элитная гвардия.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 151,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/организации/королевская-элитная-гвардия.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Организации/Организации.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 254,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/организации/организации.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Организации/Орден Коюсуши.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 255,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/организации/орден-коюсуши.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Организации/Орден Шикото.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 64,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/организации/орден-шикото.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Организации/Стражи света.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 202,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/организации/стражи-света.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Персонажи/Караши.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 69,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/персонажи/караши.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Персонажи/Люмиона.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 42,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/персонажи/люмиона.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Персонажи/Персонажи.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 172,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/персонажи/персонажи.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Персонажи/Харбор.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 42,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/персонажи/харбор.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Промышленность/Петрицит.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/промышленность/петрицит.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Промышленность/Промышленность.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 172,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/промышленность/промышленность.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Промышленность/Харийская сталь.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 71,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/промышленность/харийская-сталь.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Прочее/Блюда.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 5496,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/прочее/блюда.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Прочее/Военная система.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 976,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/прочее/военная-система.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Прочее/Прочее.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 206,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/прочее/прочее.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Прочее/Система Правления.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2096,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/прочее/система-правления.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/События/Восстание магов.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/события/восстание-магов.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/События/События.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 149,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/события/события.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Хар/Хар.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 28891,
       "exportedPath": "компании/лебенхейм/мир/география/страны/хар/хар.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Давиер.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43,
       "exportedPath": "компании/лебенхейм/мир/география/страны/давиер.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Йафагусия.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43,
       "exportedPath": "компании/лебенхейм/мир/география/страны/йафагусия.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Кхатар.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43,
       "exportedPath": "компании/лебенхейм/мир/география/страны/кхатар.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Ормстер.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43,
       "exportedPath": "компании/лебенхейм/мир/география/страны/ормстер.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/География/Страны/Страны.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 208,
       "exportedPath": "компании/лебенхейм/мир/география/страны/страны.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Дымный Дракон/04e67c21dca490dbb3dbbf55b8632cd4.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 44201,
       "exportedPath": "компании/лебенхейм/мир/группировки/дымный-дракон/04e67c21dca490dbb3dbbf55b8632cd4.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Дымный Дракон/4ff77142ae324aac54c2ae6402ca3241.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 45170,
       "exportedPath": "компании/лебенхейм/мир/группировки/дымный-дракон/4ff77142ae324aac54c2ae6402ca3241.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Дымный Дракон/9a29ebc539fbb340be7d012c60907886.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 60097,
       "exportedPath": "компании/лебенхейм/мир/группировки/дымный-дракон/9a29ebc539fbb340be7d012c60907886.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Дымный Дракон/d2396c04123ff5684977f69d58206867.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 31302,
       "exportedPath": "компании/лебенхейм/мир/группировки/дымный-дракон/d2396c04123ff5684977f69d58206867.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Дымный Дракон/peiyou-liu-3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 484974,
       "exportedPath": "компании/лебенхейм/мир/группировки/дымный-дракон/peiyou-liu-3.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Дымный Дракон/sun-haiyang- (2).jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 592741,
       "exportedPath": "компании/лебенхейм/мир/группировки/дымный-дракон/sun-haiyang-(2).jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Дымный Дракон/Дымный Дракон.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1013,
       "exportedPath": "компании/лебенхейм/мир/группировки/дымный-дракон/дымный-дракон.html",
       "dependencies": [
@@ -1851,85 +1851,85 @@
       ]
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/5fe1665ee87cd68f6e262b762f4bbc8f.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 29130,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/5fe1665ee87cd68f6e262b762f4bbc8f.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/19a695288718af3bf65182652ac55339.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 9826,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/19a695288718af3bf65182652ac55339.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/182a7ea18777604a359624eff2f5eacc.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 86104,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/182a7ea18777604a359624eff2f5eacc.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/ApplicationFrameHost_AXWoKed1n8.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 50764,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/applicationframehost_axwoked1n8.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/browser_bF9Auz4PWD.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 10230,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/browser_bf9auz4pwd.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/browser_KZNTLKe0AD.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 120105,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/browser_kzntlke0ad.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/browser_sYJCWjrPHl.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 14953,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/browser_syjcwjrphl.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/Obsidian_6Ge4WYhOQT.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7809,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/obsidian_6ge4wyhoqt.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/Obsidian_aVrEidfZjf.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 9669,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/obsidian_avreidfzjf.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/Obsidian_Ph4Mem7ZaG.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 9073,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/obsidian_ph4mem7zag.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/Obsidian_r9L9QjwAVn.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7872,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/obsidian_r9l9qjwavn.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/Obsidian_RJyfFE3T1H.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7011,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/obsidian_rjyffe3t1h.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Картинки/Obsidian_SY5rvLqp6W.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7971,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/obsidian_sy5rvlqp6w.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Группировки/Группировки.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 48198,
       "exportedPath": "компании/лебенхейм/мир/группировки/группировки.html",
       "dependencies": [
@@ -1946,241 +1946,241 @@
       ]
     },
     "Компании/Лебенхейм/Мир/Игры/Гемблер.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 795,
       "exportedPath": "компании/лебенхейм/мир/игры/гемблер.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Игры/Короли и Кристьяне.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 45,
       "exportedPath": "компании/лебенхейм/мир/игры/короли-и-кристьяне.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Игры/Король.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7531,
       "exportedPath": "компании/лебенхейм/мир/игры/король.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Известные Боги/Киндрэд.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 119,
       "exportedPath": "компании/лебенхейм/мир/известные-боги/киндрэд.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Известные Боги/Уль-Зарфу.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1664,
       "exportedPath": "компании/лебенхейм/мир/известные-боги/уль-зарфу.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Карты/Rouvreland 2024-03-27-22-23.map": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2192712,
       "exportedPath": "компании/лебенхейм/мир/карты/rouvreland-2024-03-27-22-23.map",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Карты/Биомная.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 300229,
       "exportedPath": "компании/лебенхейм/мир/карты/биомная.jpeg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Карты/Валькарар 2024-04-22-16-13.map": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2003055,
       "exportedPath": "компании/лебенхейм/мир/карты/валькарар-2024-04-22-16-13.map",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Карты/Высотная.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 293029,
       "exportedPath": "компании/лебенхейм/мир/карты/высотная.jpeg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Карты/Лебенхейм 2024-08-03-11-47.map": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2852475,
       "exportedPath": "компании/лебенхейм/мир/карты/лебенхейм-2024-08-03-11-47.map",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Карты/Политическая.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 316526,
       "exportedPath": "компании/лебенхейм/мир/карты/политическая.jpeg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Легенды/Братья/Кураи.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 288,
       "exportedPath": "компании/лебенхейм/мир/легенды/братья/кураи.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Легенды/Братья/Раито.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 166,
       "exportedPath": "компании/лебенхейм/мир/легенды/братья/раито.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Легенды/Братья/Сэру.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 141,
       "exportedPath": "компании/лебенхейм/мир/легенды/братья/сэру.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Легенды/Безумный маг.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 169,
       "exportedPath": "компании/лебенхейм/мир/легенды/безумный-маг.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Легенды/Гунахар.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 117,
       "exportedPath": "компании/лебенхейм/мир/легенды/гунахар.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Легенды/Доран.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 225,
       "exportedPath": "компании/лебенхейм/мир/легенды/доран.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Легенды/Легенды.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 290,
       "exportedPath": "компании/лебенхейм/мир/легенды/легенды.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Легенды/Первородные боги.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43,
       "exportedPath": "компании/лебенхейм/мир/легенды/первородные-боги.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/9ff0e9635c0d2bd2fe150fa5f818c7e6.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 19277,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/9ff0e9635c0d2bd2fe150fa5f818c7e6.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/86fe6247b8fed199f1bd9aec412a49ad.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 25599,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/86fe6247b8fed199f1bd9aec412a49ad.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/954f99df14a628ad7906e4223af0b558.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 19875,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/954f99df14a628ad7906e4223af0b558.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/c6dba2eba8910a2e5e525da2f665183d.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 29673,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/c6dba2eba8910a2e5e525da2f665183d.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/toart-studio- (4).jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 402884,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/toart-studio-(4).jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/toart-studio- (5).jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 388887,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/toart-studio-(5).jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/toart-studio-1 (1).jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 549564,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/toart-studio-1-(1).jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/toart-studio-2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 469180,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/toart-studio-2.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/toart-studio-3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 429618,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/toart-studio-3.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/toart-studio-3 (1).jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 436513,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/toart-studio-3-(1).jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/toart-studio-33.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 491691,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/toart-studio-33.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/toart-studio-long.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 323517,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/toart-studio-long.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/0_Картинки/toart-studio-week08.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 347112,
       "exportedPath": "компании/лебенхейм/мир/расы/0_картинки/toart-studio-week08.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/Вастайи/Водные/Водные.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 6586,
       "exportedPath": "компании/лебенхейм/мир/расы/вастайи/водные/водные.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Расы/Вастайи/Вастайи.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 10822,
       "exportedPath": "компании/лебенхейм/мир/расы/вастайи/вастайи.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/События/Война Титанов.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 143,
       "exportedPath": "компании/лебенхейм/мир/события/война-титанов.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Устои мира/Картинки/Магия/browser_lOM3KgeGLG.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 179733,
       "exportedPath": "компании/лебенхейм/мир/устои-мира/картинки/магия/browser_lom3kgeglg.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Устои мира/Картинки/Магия/browser_OTFq4N0EL6.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 222825,
       "exportedPath": "компании/лебенхейм/мир/устои-мира/картинки/магия/browser_otfq4n0el6.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Устои мира/Картинки/Магия/browser_tbP1k380l7.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 184488,
       "exportedPath": "компании/лебенхейм/мир/устои-мира/картинки/магия/browser_tbp1k380l7.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Устои мира/Демон.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2132,
       "exportedPath": "компании/лебенхейм/мир/устои-мира/демон.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Устои мира/Магия.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 11258,
       "exportedPath": "компании/лебенхейм/мир/устои-мира/магия.html",
       "dependencies": [
@@ -2190,13 +2190,13 @@
       ]
     },
     "Компании/Лебенхейм/Мир/Устои мира/Мир духов.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 3938,
       "exportedPath": "компании/лебенхейм/мир/устои-мира/мир-духов.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Мир/Макорра.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 8170,
       "exportedPath": "компании/лебенхейм/мир/макорра.html",
       "dependencies": [
@@ -2206,325 +2206,325 @@
       ]
     },
     "Компании/Лебенхейм/Мир/Языки.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 3342,
       "exportedPath": "компании/лебенхейм/мир/языки.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/10/Азурит.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1249015,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/азурит.jpeg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/10/Бирюза.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 149118,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/бирюза.jpeg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/10/Гематит.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 285744,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/гематит.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/10/Глазчатый агат.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 265440,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/глазчатый-агат.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/10/Голубой кварц.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 196266,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/голубой-кварц.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/10/Лазурит.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 306130,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/лазурит.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/10/Малахит.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1151081,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/малахит.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/10/Моховой агат.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 75963,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/моховой-агат.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/10/Обсидиан.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 98875,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/обсидиан.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/10/Полосчатый агат.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 117107,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/полосчатый-агат.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/10/Родохрозит.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 241757,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/родохрозит.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/10/Тигровый глаз.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 141122,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/тигровый-глаз.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/50/Гелиотроп.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 126846,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/гелиотроп.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/50/Звёздчатый розовый кварц.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 26221,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/звёздчатый-розовый-кварц.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/50/Кварц.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 346060,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/кварц.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/50/Лунный камень.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1072865,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/лунный-камень.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/50/Оникс.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 502053,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/оникс.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/50/Сардоникс.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 52198,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/сардоникс.jpeg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/50/Сердолик.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1246170,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/сердолик.png",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/50/Халцедон.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 54082,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/халцедон.jpeg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/50/Хризопраз.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 426452,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/хризопраз.webp",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/50/Циркон.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 69744,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/циркон.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/50/Цитрин.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 176187,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/цитрин.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/50/Яшма.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 135397,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/яшма.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/100/Аметист.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 244388,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/аметист.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/100/Гагат.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 147767,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/гагат.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/100/Гранат.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 117879,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/гранат.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/100/Жемчуг.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 92904,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/жемчуг.webp",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/100/Коралл.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 73308,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/коралл.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/100/Нефрит.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 73504,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/нефрит.webp",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/100/Турмалин.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 101350,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/турмалин.webp",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/100/Хризоберилл.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 316114,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/хризоберилл.webp",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/100/Шпинель.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 83390,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/шпинель.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/100/Янтарь.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 125943,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/янтарь.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/500/Аквамарин.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 183581,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/аквамарин.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/500/Александрит.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 29288,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/александрит.webp",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/500/Синяя шпинель.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1950366,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/синяя-шпинель.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/500/Топаз.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 116970,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/топаз.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/500/Хризолит.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 213588,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/хризолит.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/500/Чёрный жемчуг.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 235241,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/чёрный-жемчуг.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/1000/Голубой сапфир.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 327998,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/голубой-сапфир.webp",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/1000/Жёлтый сапфир.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 137251,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/жёлтый-сапфир.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/1000/Звёздчатый рубин.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 37576,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/звёздчатый-рубин.webp",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/1000/Звёздчатый сапфир.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 154857,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/звёздчатый-сапфир.jpeg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/1000/Изумруд.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 145685,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/изумруд.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/1000/Огненный опал.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 54069,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/огненный-опал.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/1000/Опал.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 99840,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/опал.webp",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/1000/Чёрный опал.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 20566,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/чёрный-опал.webp",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/5000/Алмаз.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 126874,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/5000/алмаз.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/5000/Гиацинт.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43474,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/5000/гиацинт.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/5000/Рубин.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 224092,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/5000/рубин.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Картинки/5000/Чёрный сапфир.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 18161,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/5000/чёрный-сапфир.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Драгоценные камни/Драгоценные камни.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 13104,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/драгоценные-камни.html",
       "dependencies": [
@@ -2582,37 +2582,37 @@
       ]
     },
     "Компании/Лебенхейм/Предметы/Картинки/Амулет мага.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 52455,
       "exportedPath": "компании/лебенхейм/предметы/картинки/амулет-мага.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Картинки/Венец Знаний.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 10031,
       "exportedPath": "компании/лебенхейм/предметы/картинки/венец-знаний.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Картинки/Клинки Затмения.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 35829,
       "exportedPath": "компании/лебенхейм/предметы/картинки/клинки-затмения.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Картинки/Ложный Посох Вуконга.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 11477,
       "exportedPath": "компании/лебенхейм/предметы/картинки/ложный-посох-вуконга.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Картинки/Меч Ледяного Пламени.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 22124,
       "exportedPath": "компании/лебенхейм/предметы/картинки/меч-ледяного-пламени.jpg",
       "dependencies": []
     },
     "Компании/Лебенхейм/Предметы/Маг.Снаряжение/Амулет мага +1.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 569,
       "exportedPath": "компании/лебенхейм/предметы/маг.снаряжение/амулет-мага-+1.html",
       "dependencies": [
@@ -2620,7 +2620,7 @@
       ]
     },
     "Компании/Лебенхейм/Предметы/Маг.Снаряжение/Венец Знаний.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 280,
       "exportedPath": "компании/лебенхейм/предметы/маг.снаряжение/венец-знаний.html",
       "dependencies": [
@@ -2628,7 +2628,7 @@
       ]
     },
     "Компании/Лебенхейм/Предметы/Маг.Снаряжение/Клинки Затмения.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 3272,
       "exportedPath": "компании/лебенхейм/предметы/маг.снаряжение/клинки-затмения.html",
       "dependencies": [
@@ -2636,7 +2636,7 @@
       ]
     },
     "Компании/Лебенхейм/Предметы/Маг.Снаряжение/Ложный Посох Вуконга.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1123,
       "exportedPath": "компании/лебенхейм/предметы/маг.снаряжение/ложный-посох-вуконга.html",
       "dependencies": [
@@ -2644,7 +2644,7 @@
       ]
     },
     "Компании/Лебенхейм/Предметы/Маг.Снаряжение/Меч Ледяного Пламени.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1012,
       "exportedPath": "компании/лебенхейм/предметы/маг.снаряжение/меч-ледяного-пламени.html",
       "dependencies": [
@@ -2652,391 +2652,391 @@
       ]
     },
     "Компании/Лебенхейм/Предметы/Предметы.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 571,
       "exportedPath": "компании/лебенхейм/предметы/предметы.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/АКАНА/АКАНА.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 248,
       "exportedPath": "компании/лебенхейм/расы/акана/акана.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/АКАНА/ВОЗДУШНЫЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 196,
       "exportedPath": "компании/лебенхейм/расы/акана/воздушный.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/АКАНА/ЗЕМНОЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1551,
       "exportedPath": "компании/лебенхейм/расы/акана/земной.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/ВОДНЫЙ/ВОДНЫЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1676,
       "exportedPath": "компании/лебенхейм/расы/вастайи/водный/водный.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/ВОДНЫЙ/ГЛУБОКОВОДНЫЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 432,
       "exportedPath": "компании/лебенхейм/расы/вастайи/водный/глубоководный.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/ВОДНЫЙ/ПРИБРЕЖНЫЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1349,
       "exportedPath": "компании/лебенхейм/расы/вастайи/водный/прибрежный.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/ВОДНЫЙ/ПРИЛИВНЫЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 566,
       "exportedPath": "компании/лебенхейм/расы/вастайи/водный/приливный.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/ВОЗДУШНЫЙ/ВОЗДУШНЫЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1939,
       "exportedPath": "компании/лебенхейм/расы/вастайи/воздушный/воздушный.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/ЗЕМНОЙ/БОЛЬШОЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 674,
       "exportedPath": "компании/лебенхейм/расы/вастайи/земной/большой.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/ЗЕМНОЙ/ЗЕМНОВОДНЫЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1589,
       "exportedPath": "компании/лебенхейм/расы/вастайи/земной/земноводный.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/ЗЕМНОЙ/ЗЕМНОВОЗДУШНЫЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1478,
       "exportedPath": "компании/лебенхейм/расы/вастайи/земной/земновоздушный.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/ЗЕМНОЙ/МЕЛКИЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 638,
       "exportedPath": "компании/лебенхейм/расы/вастайи/земной/мелкий.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/ЗЕМНОЙ/СРЕДНИЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 726,
       "exportedPath": "компании/лебенхейм/расы/вастайи/земной/средний.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/МЕНЯЮЩИЙСЯ/КИЦУНЭ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1495,
       "exportedPath": "компании/лебенхейм/расы/вастайи/меняющийся/кицунэ.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/МЕНЯЮЩИЙСЯ/МЕНЯЮЩИЙСЯ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 324,
       "exportedPath": "компании/лебенхейм/расы/вастайи/меняющийся/меняющийся.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/МЕНЯЮЩИЙСЯ/ПЕРЕВЕРТЫШ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 101,
       "exportedPath": "компании/лебенхейм/расы/вастайи/меняющийся/перевертыш.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ВАСТАЙИ/ВАСТАЙИ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 301,
       "exportedPath": "компании/лебенхейм/расы/вастайи/вастайи.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ГОЛЕМ/ГОЛЕМ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1120,
       "exportedPath": "компании/лебенхейм/расы/голем/голем.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ГОЛЕМ/ПОЛУМЕТАЛИЧЕСКИЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 279,
       "exportedPath": "компании/лебенхейм/расы/голем/полуметалический.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/ГОЛЕМ/ЦЕЛЬНОМЕТАЛИЧЕСКИЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 275,
       "exportedPath": "компании/лебенхейм/расы/голем/цельнометалический.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/РАСТЕНИЕ/ДРЕВОВИДНЫЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 442,
       "exportedPath": "компании/лебенхейм/расы/растение/древовидный.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/РАСТЕНИЕ/РАСТЕНИЕ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1222,
       "exportedPath": "компании/лебенхейм/расы/растение/растение.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/РАСТЕНИЕ/ФУНАЮРЭЙ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1686,
       "exportedPath": "компании/лебенхейм/расы/растение/фунаюрэй.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Расы/Расы.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2413,
       "exportedPath": "компании/лебенхейм/расы/расы.html",
       "dependencies": []
     },
     "Компании/Лебенхейм/Лебенхейм.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1944,
       "exportedPath": "компании/лебенхейм/лебенхейм.html",
       "dependencies": []
     },
     "Компании/Компании.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 147,
       "exportedPath": "компании/компании.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Вдохновение/Ancestral_Weapons_Final_v10.pdf": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 9930912,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/вдохновение/ancestral_weapons_final_v10.pdf",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Вдохновение/DC20 Playtest Rules Preview.pdf": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 3613601,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/вдохновение/dc20-playtest-rules-preview.pdf",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Вдохновение/Open Playtest Manuscript v1.4.2.pdf": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 20740614,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/вдохновение/open-playtest-manuscript-v1.4.2.pdf",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Вдохновение/Ссылки.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 166,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/вдохновение/ссылки.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Игра/Игра.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 4123,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/игра/игра.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Игра/Основный механики.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 19009,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/игра/основный-механики.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Игра/Создание персонажа.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 15551,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/игра/создание-персонажа.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Игра/Урон.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 382,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/игра/урон.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Игра/Ход игры.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 5272,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/игра/ход-игры.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Homebrew/Homebrew.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 512,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/homebrew/homebrew.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Homebrew/Бард.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 6329,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/homebrew/бард.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Homebrew/Волшебник.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 4945,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/homebrew/волшебник.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Homebrew/Друид.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 13459,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/homebrew/друид.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Homebrew/Жрец.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7047,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/homebrew/жрец.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Homebrew/Колдун.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 9807,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/homebrew/колдун.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Homebrew/Чародей.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 6400,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/homebrew/чародей.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Особые/Воин.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 13641,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/особые/воин.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Особые/Воин или Маг.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 10882,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/особые/воин-или-маг.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Особые/Крафт.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 147,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/особые/крафт.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Особые/Особые.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 500,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/особые/особые.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Базовые.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1647,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/базовые.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Бард.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 502,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/бард.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Варвар.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 719,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/варвар.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Воин.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 39467,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/воин.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Друид.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 264,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/друид.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Жрец.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 345,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/жрец.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Изобретатель.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 467,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/изобретатель.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Колдун.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 323,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/колдун.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Маг.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 247,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/маг.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Монах.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1005,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/монах.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Наративные.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 241,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/наративные.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Паладин.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 362,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/паладин.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Плут.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 753,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/плут.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Следопыт.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1057,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/следопыт.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Способности/Базовые/Чародей.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 145,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/способности/базовые/чародей.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/_ЭЭЭКСПЕРИМЕНТЫЫЫ.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7420,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/_эээкспериментыыы.html",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/img.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2158093,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/img.png",
       "dependencies": []
     },
     "Правила/DM-а/_ЭЭЭКСПЕРИМЕНТЫЫЫ/Дерево Прокачки.canvas": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 83670,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/дерево-прокачки.html",
       "dependencies": [
@@ -3044,1123 +3044,1123 @@
       ]
     },
     "Правила/DM-а/3rd Party/legendary-resistance-alternatives-_-trekiros-1.pdf": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 3453821,
       "exportedPath": "правила/dm-а/3rd-party/legendary-resistance-alternatives-_-trekiros-1.pdf",
       "dependencies": []
     },
     "Правила/DM-а/3rd Party/Выслеживание.pdf": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 28119859,
       "exportedPath": "правила/dm-а/3rd-party/выслеживание.pdf",
       "dependencies": []
     },
     "Правила/DM-а/3rd Party/Заражение крови.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1653,
       "exportedPath": "правила/dm-а/3rd-party/заражение-крови.html",
       "dependencies": []
     },
     "Правила/DM-а/3rd Party/Кровотечение.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1731,
       "exportedPath": "правила/dm-а/3rd-party/кровотечение.html",
       "dependencies": []
     },
     "Правила/DM-а/3rd Party/Сбор.pdf": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 209718811,
       "exportedPath": "правила/dm-а/3rd-party/сбор.pdf",
       "dependencies": []
     },
     "Правила/DM-а/Заметки/Зелья.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 52354,
       "exportedPath": "правила/dm-а/заметки/зелья.html",
       "dependencies": []
     },
     "Правила/DM-а/Создание Персонажа/ДНД Расы.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 34683,
       "exportedPath": "правила/dm-а/создание-персонажа/днд-расы.html",
       "dependencies": []
     },
     "Правила/DM-а/Создание Персонажа/Происхождение.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 12567,
       "exportedPath": "правила/dm-а/создание-персонажа/происхождение.html",
       "dependencies": []
     },
     "Правила/DM-а/Создание Персонажа/Создание Персонажа.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 13377,
       "exportedPath": "правила/dm-а/создание-персонажа/создание-персонажа.html",
       "dependencies": []
     },
     "Правила/DM-а/Создание Персонажа/Способности.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 28385,
       "exportedPath": "правила/dm-а/создание-персонажа/способности.html",
       "dependencies": []
     },
     "Правила/DM-а/_Для мастера.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 719,
       "exportedPath": "правила/dm-а/_для-мастера.html",
       "dependencies": []
     },
     "Правила/DM-а/Готовка.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7433,
       "exportedPath": "правила/dm-а/готовка.html",
       "dependencies": []
     },
     "Правила/DM-а/Путешествие TES.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 15290,
       "exportedPath": "правила/dm-а/путешествие-tes.html",
       "dependencies": []
     },
     "Правила/DM-а/Ресурс Короткий в Продолжительный.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 845,
       "exportedPath": "правила/dm-а/ресурс-короткий-в-продолжительный.html",
       "dependencies": []
     },
     "Правила/DM-а/Сбор добычи.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 13112,
       "exportedPath": "правила/dm-а/сбор-добычи.html",
       "dependencies": []
     },
     "Правила/DM-а/Состояние Здоровья.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 423,
       "exportedPath": "правила/dm-а/состояние-здоровья.html",
       "dependencies": []
     },
     "Правила/Homebrew/“Стакающееся” преимущество и помеха.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 961,
       "exportedPath": "правила/homebrew/“стакающееся”-преимущество-и-помеха.html",
       "dependencies": []
     },
     "Правила/Homebrew/Homebrew.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1476,
       "exportedPath": "правила/homebrew/homebrew.html",
       "dependencies": []
     },
     "Правила/Homebrew/Битва Заклинаний или Дуэль Заклинаний.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2071,
       "exportedPath": "правила/homebrew/битва-заклинаний-или-дуэль-заклинаний.html",
       "dependencies": []
     },
     "Правила/Homebrew/Зелья Бонусным Действием.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 249,
       "exportedPath": "правила/homebrew/зелья-бонусным-действием.html",
       "dependencies": []
     },
     "Правила/Homebrew/Истощение.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 218,
       "exportedPath": "правила/homebrew/истощение.html",
       "dependencies": []
     },
     "Правила/Homebrew/Карточное вдохновение.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 645,
       "exportedPath": "правила/homebrew/карточное-вдохновение.html",
       "dependencies": []
     },
     "Правила/Homebrew/Криты.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1446,
       "exportedPath": "правила/homebrew/криты.html",
       "dependencies": []
     },
     "Правила/Homebrew/Окружение - Флангирование.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 640,
       "exportedPath": "правила/homebrew/окружение-флангирование.html",
       "dependencies": []
     },
     "Правила/Homebrew/Сражение двумя оружиями.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 66,
       "exportedPath": "правила/homebrew/сражение-двумя-оружиями.html",
       "dependencies": []
     },
     "Правила/Предметы/Доспехи/Доспехи.md": {
-      "modifiedTime": 1722809435452,
-      "sourceSize": 2728,
+      "modifiedTime": 1722810932626,
+      "sourceSize": 2754,
       "exportedPath": "правила/предметы/доспехи/доспехи.html",
       "dependencies": []
     },
     "Правила/Предметы/Доспехи/Доспехи_Cборка.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 3174,
       "exportedPath": "правила/предметы/доспехи/доспехи_cборка.html",
       "dependencies": []
     },
     "Правила/Предметы/Доспехи/Доспехи_Свойства.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7194,
       "exportedPath": "правила/предметы/доспехи/доспехи_свойства.html",
       "dependencies": []
     },
     "Правила/Предметы/Оружия/Оружия.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 8422,
       "exportedPath": "правила/предметы/оружия/оружия.html",
       "dependencies": []
     },
     "Правила/Предметы/Оружия/Оружия_Сборка.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7516,
       "exportedPath": "правила/предметы/оружия/оружия_сборка.html",
       "dependencies": []
     },
     "Правила/Предметы/Оружия/Оружия_Свойства.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 9216,
       "exportedPath": "правила/предметы/оружия/оружия_свойства.html",
       "dependencies": []
     },
     "Правила/Предметы/Щиты/Щиты.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 815,
       "exportedPath": "правила/предметы/щиты/щиты.html",
       "dependencies": []
     },
     "Правила/Предметы/Щиты/Щиты_Сборка.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1498,
       "exportedPath": "правила/предметы/щиты/щиты_сборка.html",
       "dependencies": []
     },
     "Правила/Предметы/Щиты/Щиты_Свойства.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2087,
       "exportedPath": "правила/предметы/щиты/щиты_свойства.html",
       "dependencies": []
     },
     "Правила/Правила.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 8770,
       "exportedPath": "правила/правила.html",
       "dependencies": []
     },
     "Черты/Измененные/Мастер большого оружия - Great Weapon Master.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 517,
       "exportedPath": "черты/измененные/мастер-большого-оружия-great-weapon-master.html",
       "dependencies": []
     },
     "Черты/Измененные/Меткий стрелок - Sharpshooter.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 426,
       "exportedPath": "черты/измененные/меткий-стрелок-sharpshooter.html",
       "dependencies": []
     },
     "Черты/Особые/Адепт-Мастер перевоплощения.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1411,
       "exportedPath": "черты/особые/адепт-мастер-перевоплощения.html",
       "dependencies": []
     },
     "Черты/Особые/Дополнительная атака.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 334,
       "exportedPath": "черты/особые/дополнительная-атака.html",
       "dependencies": []
     },
     "Черты/Особые/Мастер Метатель.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 859,
       "exportedPath": "черты/особые/мастер-метатель.html",
       "dependencies": []
     },
     "Черты/Особые/Парный танец - Ведущий Танцор.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1455,
       "exportedPath": "черты/особые/парный-танец-ведущий-танцор.html",
       "dependencies": []
     },
     "Черты/Особые/Пожирание.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1573,
       "exportedPath": "черты/особые/пожирание.html",
       "dependencies": []
     },
     "Черты/Особые/Стихийное тело.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 995,
       "exportedPath": "черты/особые/стихийное-тело.html",
       "dependencies": []
     },
     "Черты/Особые/Таран.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 982,
       "exportedPath": "черты/особые/таран.html",
       "dependencies": []
     },
     "Черты/Особые/Теневой Убийца.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1724,
       "exportedPath": "черты/особые/теневой-убийца.html",
       "dependencies": []
     },
     "Черты/Особые/Ускоренные рефлексы.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 422,
       "exportedPath": "черты/особые/ускоренные-рефлексы.html",
       "dependencies": []
     },
     "Черты/Особые/Хладнокровный.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 420,
       "exportedPath": "черты/особые/хладнокровный.html",
       "dependencies": []
     },
     "Черты/Черты.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 635,
       "exportedPath": "черты/черты.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 181,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/авашонцы/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 96589,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/1.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/авашонцы/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 129678,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/2.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/авашонцы/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 46369,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/3.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/авашонцы/4.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 100862,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/4.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/авашонцы/5.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 55806,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/5.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/авашонцы/6.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 36778,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/6.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/авашонцы/7.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 457639,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/7.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/авашонцы/8.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 436938,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/авашонцы/8.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/аршази/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 36922,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/аршази/1.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/аршази/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 155069,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/аршази/2.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/гамшунги/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 182130,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/гамшунги/1.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/гамшунги/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 36592,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/гамшунги/2.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/гамшунги/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 90071,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/гамшунги/3.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/гамшунги/4.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 129419,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/гамшунги/4.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/кажары/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 119048,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/кажары/1.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/кажары/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 120915,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/кажары/2.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/кажары/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 92650,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/кажары/3.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/саргеты/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 42494,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/саргеты/1.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/саргеты/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 62047,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/саргеты/2.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/саргеты/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 52167,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/саргеты/3.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/фарсийцы/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 63262,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/фарсийцы/1.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/фарсийцы/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 47712,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/фарсийцы/2.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/фарсийцы/4.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 70436,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/фарсийцы/4.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/шахасы/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 35345,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы/1.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/шахасы/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 73792,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы/2.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/шахасы/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 84738,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы/3.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/шахасы/4.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 44460,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы/4.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/шахасы-верпаны/1.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 48614,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы-верпаны/1.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/шахасы-верпаны/2.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 53202,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы-верпаны/2.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/шахасы-верпаны/3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 63252,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы-верпаны/3.jpg",
       "dependencies": []
     },
     "компании/3rd-party/арашах/расы/картинки/шахасы-верпаны/4.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 77261,
       "exportedPath": "компании/3rd-party/арашах/расы/картинки/шахасы-верпаны/4.jpg",
       "dependencies": []
     },
     "компании/вазервелт/вазервелт.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1645014,
       "exportedPath": "компании/вазервелт/вазервелт.png",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/дымный-дракон/d2396c04123ff5684977f69d58206867.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 31302,
       "exportedPath": "компании/лебенхейм/мир/группировки/дымный-дракон/d2396c04123ff5684977f69d58206867.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/дымный-дракон/sun-haiyang-(2).jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 592741,
       "exportedPath": "компании/лебенхейм/мир/группировки/дымный-дракон/sun-haiyang-(2).jpg",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/дымный-дракон/peiyou-liu-3.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 484974,
       "exportedPath": "компании/лебенхейм/мир/группировки/дымный-дракон/peiyou-liu-3.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/картинки/browser_bf9auz4pwd.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 10230,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/browser_bf9auz4pwd.png",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/картинки/obsidian_rjyffe3t1h.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7011,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/obsidian_rjyffe3t1h.png",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/картинки/obsidian_avreidfzjf.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 9669,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/obsidian_avreidfzjf.png",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/картинки/browser_kzntlke0ad.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 120105,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/browser_kzntlke0ad.png",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/картинки/obsidian_ph4mem7zag.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 9073,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/obsidian_ph4mem7zag.png",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/картинки/obsidian_r9l9qjwavn.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7872,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/obsidian_r9l9qjwavn.png",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/картинки/obsidian_sy5rvlqp6w.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7971,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/obsidian_sy5rvlqp6w.png",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/картинки/19a695288718af3bf65182652ac55339.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 9826,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/19a695288718af3bf65182652ac55339.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/картинки/browser_syjcwjrphl.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 14953,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/browser_syjcwjrphl.png",
       "dependencies": []
     },
     "компании/лебенхейм/мир/группировки/картинки/applicationframehost_axwoked1n8.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 50764,
       "exportedPath": "компании/лебенхейм/мир/группировки/картинки/applicationframehost_axwoked1n8.png",
       "dependencies": []
     },
     "компании/лебенхейм/мир/устои-мира/картинки/магия/browser_otfq4n0el6.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 222825,
       "exportedPath": "компании/лебенхейм/мир/устои-мира/картинки/магия/browser_otfq4n0el6.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/мир/устои-мира/картинки/магия/browser_tbp1k380l7.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 184488,
       "exportedPath": "компании/лебенхейм/мир/устои-мира/картинки/магия/browser_tbp1k380l7.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/мир/устои-мира/картинки/магия/browser_lom3kgeglg.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 179733,
       "exportedPath": "компании/лебенхейм/мир/устои-мира/картинки/магия/browser_lom3kgeglg.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/мир/карты/высотная.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 293029,
       "exportedPath": "компании/лебенхейм/мир/карты/высотная.jpeg",
       "dependencies": []
     },
     "компании/лебенхейм/мир/карты/биомная.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 300229,
       "exportedPath": "компании/лебенхейм/мир/карты/биомная.jpeg",
       "dependencies": []
     },
     "компании/лебенхейм/мир/карты/политическая.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 316526,
       "exportedPath": "компании/лебенхейм/мир/карты/политическая.jpeg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/азурит.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1249015,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/азурит.jpeg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/бирюза.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 149118,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/бирюза.jpeg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/гематит.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 285744,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/гематит.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/глазчатый-агат.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 265440,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/глазчатый-агат.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/голубой-кварц.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 196266,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/голубой-кварц.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/лазурит.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 306130,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/лазурит.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/малахит.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1151081,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/малахит.png",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/моховой-агат.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 75963,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/моховой-агат.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/обсидиан.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 98875,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/обсидиан.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/полосчатый-агат.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 117107,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/полосчатый-агат.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/родохрозит.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 241757,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/родохрозит.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/тигровый-глаз.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 141122,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/10/тигровый-глаз.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/гелиотроп.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 126846,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/гелиотроп.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/звёздчатый-розовый-кварц.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 26221,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/звёздчатый-розовый-кварц.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/кварц.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 346060,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/кварц.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/лунный-камень.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1072865,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/лунный-камень.png",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/оникс.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 502053,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/оникс.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/сардоникс.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 52198,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/сардоникс.jpeg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/сердолик.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1246170,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/сердолик.png",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/халцедон.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 54082,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/халцедон.jpeg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/хризопраз.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 426452,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/хризопраз.webp",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/циркон.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 69744,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/циркон.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/яшма.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 135397,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/50/яшма.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/аметист.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 244388,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/аметист.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/гагат.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 147767,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/гагат.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/гранат.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 117879,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/гранат.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/жемчуг.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 92904,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/жемчуг.webp",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/коралл.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 73308,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/коралл.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/нефрит.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 73504,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/нефрит.webp",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/турмалин.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 101350,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/турмалин.webp",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/хризоберилл.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 316114,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/хризоберилл.webp",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/шпинель.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 83390,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/шпинель.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/янтарь.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 125943,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/100/янтарь.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/аквамарин.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 183581,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/аквамарин.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/александрит.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 29288,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/александрит.webp",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/синяя-шпинель.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1950366,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/синяя-шпинель.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/топаз.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 116970,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/топаз.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/хризолит.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 213588,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/хризолит.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/чёрный-жемчуг.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 235241,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/500/чёрный-жемчуг.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/голубой-сапфир.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 327998,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/голубой-сапфир.webp",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/жёлтый-сапфир.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 137251,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/жёлтый-сапфир.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/звёздчатый-рубин.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 37576,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/звёздчатый-рубин.webp",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/звёздчатый-сапфир.jpeg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 154857,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/звёздчатый-сапфир.jpeg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/изумруд.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 145685,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/изумруд.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/огненный-опал.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 54069,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/огненный-опал.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/опал.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 99840,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/опал.webp",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/чёрный-опал.webp": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 20566,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/1000/чёрный-опал.webp",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/5000/алмаз.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 126874,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/5000/алмаз.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/5000/гиацинт.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 43474,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/5000/гиацинт.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/5000/рубин.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 224092,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/5000/рубин.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/драгоценные-камни/картинки/5000/чёрный-сапфир.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 18161,
       "exportedPath": "компании/лебенхейм/предметы/драгоценные-камни/картинки/5000/чёрный-сапфир.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/картинки/амулет-мага.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 52455,
       "exportedPath": "компании/лебенхейм/предметы/картинки/амулет-мага.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/картинки/венец-знаний.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 10031,
       "exportedPath": "компании/лебенхейм/предметы/картинки/венец-знаний.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/картинки/клинки-затмения.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 35829,
       "exportedPath": "компании/лебенхейм/предметы/картинки/клинки-затмения.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/картинки/ложный-посох-вуконга.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 11477,
       "exportedPath": "компании/лебенхейм/предметы/картинки/ложный-посох-вуконга.jpg",
       "dependencies": []
     },
     "компании/лебенхейм/предметы/картинки/меч-ледяного-пламени.jpg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 22124,
       "exportedPath": "компании/лебенхейм/предметы/картинки/меч-ледяного-пламени.jpg",
       "dependencies": []
     },
     "правила/dm-а/_эээкспериментыыы/img.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 2158093,
       "exportedPath": "правила/dm-а/_эээкспериментыыы/img.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 459597,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 26448,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 130208,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 1448783,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 246,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1722809435452,
+      "modifiedTime": 1722810932626,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
